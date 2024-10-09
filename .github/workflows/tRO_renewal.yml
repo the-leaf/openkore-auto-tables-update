@@ -29,8 +29,8 @@ jobs:
         if [ -f requirements.txt ]; then sudo pip3 install -r requirements.txt; fi
     - name: Setup Git
       run: |
-        git config --global user.email "the-leafe@users.noreply.github.com"
-        git config --global user.name "the-leaf"
+        git config --global user.email "sctnightcore@users.noreply.github.com"
+        git config --global user.name "sctnightcore"
     - name: Run Index.py      
       run: |
         sudo chmod +x ./tools/grf_extract
