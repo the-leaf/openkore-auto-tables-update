@@ -5337,6 +5337,7 @@
 12796#Red Booster#
 12797#Wish Maiden Scroll#
 12798#Zealotus Scroll#
+12801#Eddga Scroll#
 12802#Time Guardian Box#
 12805#Mystic Powder#
 12806#Scaraba Scroll#
@@ -9255,6 +9256,7 @@
 104102#Hitman Costume Scroll#
 104114#Skyfall Strike Scroll#
 104204#Freedom Smith Scroll#
+104428#Beach Party Costume Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9326,7 +9328,7 @@
 311398#Hit Plus 4#
 311399#Hit Plus 4#
 311926#Romantic Rose Effect#
-400020#Costume Beachball #
+400020#Costume Beachball#
 400043#Fallen Angel Hairband#
 400056#Costume Blue Wavy Hair#
 400057#Costume Red Lotus Demon Wig#
@@ -9454,6 +9456,8 @@
 400677#[Not For Sale] Flaward Hat#
 400679#Pink Shampoo Hat#
 400680#[Not For Sale] Pink Shampoo Hat#
+400692#Costume Gold Paeonia#
+400693#Costume Red Paeonia#
 400702#[Not For Sale] Crown of the Ocean#
 400709#Costume White Puppy Hat#
 400713#Queen Scaraba Crown#
@@ -9536,6 +9540,7 @@
 410330#Costume Red Aura Dragon#
 410331#Costume Yellow Aura Dragon#
 410350#Costume Kwaiii#
+410352#Costume Red Buoyant Parasol#
 410354#RCC2024 Wing Of Thor#
 410355#RCC2024 Wing Of Thor#
 410356#[Not For Sale] RCC2024 Wing Of Thor#
@@ -9558,6 +9563,7 @@
 420053#Costume Shadow Devil#
 420057#Costume Ponytail Hair (Red)#
 420060#Costume Ponytail Hair (Green)#
+420065#Archangel Balloon#
 420067#Costume Rabbit Pigtails#
 420069#Costume Lord of Royals#
 420072#Costume Twin Braids (White)#
@@ -9609,7 +9615,11 @@
 420282#Costume Hit Man Hair (Black)#
 420321#Costume Neon Half Long#
 420337#Costume Ancient Runes#
+420349#Costume Blue Sunbed#
+420350#Costume Green Sunbed#
+420352#Costume Pool#
 420353#Costume Charisma Extension Twin#
+420357#Costume Baby Seal#
 420373#Heart Card In Mouth#
 420374#Diamond Card In Mouth#
 420375#Clover Card In Mouth#
@@ -9799,6 +9809,7 @@
 480448#Skin Of Marraco#
 480449#[Not For Sale] Skin Of Marraco#
 480461#Costume Ragdoll Face Bag#
+480470#Costume Summer Beach#
 480490#God's Spiritual Wind#
 480491#[Not For Sale] God's Spiritual Wind#
 480509#Owl Baron Cloak#
