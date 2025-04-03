@@ -2964,6 +2964,7 @@
 5276#Fantastic Wig#
 5277#Yellow Bandana#
 5279#Drooping Kitty#
+5280#Baphomet Horns#
 5283#Chick Hat#
 5284#Water Lily Crown#
 5285#Vane Hairpin#
@@ -7284,6 +7285,7 @@
 20964#Temporal Agi Manteau#
 20965#Temporal Vit Manteau#
 20966#Temporal Int Manteau#
+20967#Temporal Dex Manteau#
 20968#Temporal Luk Manteau#
 20985#Costume Gourd Bottle#
 20988#Costume Mechanical Butterfly#
@@ -9256,7 +9258,9 @@
 104102#Hitman Costume Scroll#
 104114#Skyfall Strike Scroll#
 104204#Freedom Smith Scroll#
+104384#Summer Costume Box#
 104428#Beach Party Costume Scroll#
+104444#Phantom Abyss Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9474,6 +9478,8 @@
 400765#[Not For Sale] Parfait V Hat#
 400797#Master Helmgear#
 400798#[Not For Sale] Master Helmgear#
+400821#Dark Veil#
+400822#[Not For Sale] Dark Veil#
 410004#Gambler Seal#
 410005#Costume Magic Heir#
 410012#EXP Advicer#
@@ -9623,6 +9629,7 @@
 420373#Heart Card In Mouth#
 420374#Diamond Card In Mouth#
 420375#Clover Card In Mouth#
+420382#Costume Atokwe Poenitentia#
 430001#Costume Helm of Amon Ra#
 430003#[Not For Sale] Fancy Phantom Mask#
 430006#Wanderer's Sakkat#
@@ -9808,6 +9815,7 @@
 480437#Costume Himmelmez Sword#
 480448#Skin Of Marraco#
 480449#[Not For Sale] Skin Of Marraco#
+480457#Costume Galapago Aquarium#
 480461#Costume Ragdoll Face Bag#
 480470#Costume Summer Beach#
 480490#God's Spiritual Wind#
@@ -9905,6 +9913,8 @@
 490700#[Not For Sale] Boxer Blue Glove#
 490717#Master Smith Gloves#
 490718#[Not For Sale] Master Smith Gloves#
+490726#Dark Flame#
+490727#[Not For Sale] Dark Flame#
 500000#IDTest weapon#
 500003#Light Blade#
 500035#Eden Group Super Novice Sword#
@@ -9924,6 +9934,8 @@
 510156#WOE Knife 2#
 510157#Hagalas Knife#
 510158#[Not For Sale] Hagalas Knife#
+510176#Fortune Fang Dagger#
+510177#[Not For Sale] Fortune Fang Dagger#
 520032#Raid Human Axe#
 520039#Raid Ocean Axe#
 520040#WOE Axe 2#
@@ -10024,7 +10036,7 @@
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
 1000896#RCC2024 Coin#
-1000923#Freedom Smith Coin#
+1000923#Phantom Abyss Coin#
 1000965#[Event] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
 1001175#Romantic Rose Effect Stone (Upper)#
