@@ -9261,6 +9261,7 @@
 104384#Summer Costume Box#
 104428#Beach Party Costume Scroll#
 104444#Phantom Abyss Scroll#
+104510#Prison 2544 Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
