@@ -9,7 +9,7 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
     - uses: actions/checkout@v2
     - name: Install Lib
@@ -23,10 +23,10 @@ jobs:
     - name: Set up Python 3.8
       uses: actions/setup-python@v4
       with:
-        python-version: 3.8.9
+        python-version: 3.8
     - name: Install dependencies
       run: |
-        if [ -f requirements.txt ]; then sudo pip3 install -r requirements.txt; fi
+        if [ -f requirements.txt ]; then pip3 install -r requirements.txt; fi
     - name: Setup Git
       run: |
         git config --global user.email "sctnightcore@users.noreply.github.com"
@@ -35,7 +35,7 @@ jobs:
       run: |
         sudo chmod +x ./tools/grf_extract
         sudo chmod +x ./tools/lua32
-        sudo python3 index.py  --file ./files/tRO_renewal.json
+        sudo python index.py  --file ./files/tRO_renewal.json
     - name: Push to yourself
       run: |
         git diff
