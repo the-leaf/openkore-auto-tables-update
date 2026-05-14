@@ -229,8 +229,8 @@
 754#Racoon Doll#
 756#Rough Oridecon#
 757#Rough Elunium#
-801#[Normal] Chrono Battle Pass#
-802#[Premium] Chrono Battle Pass#
+801#[Normal] Sarah & Fenrir Battle Pass#
+802#[Premium] Sarah & Fenrir Battle Pass#
 805#Mysterious Medal#
 810#Battle Pass Invitation Card#
 811#[Event] Piece of Jigsaw#
@@ -4692,6 +4692,7 @@
 9132#[SSR] Abysmal Knight Egg#
 9137#[SSR] Baphomet Egg#
 9139#[SR]Dark Illusion Egg#
+9140#[SSR] Blue Moon Loli Ruri Egg#
 9148#[SSR]Dark Lord Egg#
 9510#Costume Enchant Stone Box 17#
 9523#Metal Refine Ticket#
@@ -6827,6 +6828,7 @@
 19119#Toughen Time Keeper Hat#
 19126#Magical Booster#
 19132#Masquerade#
+19138#Seraphim Coronet#
 19139#Survivor's Orb#
 19141#Tha Maero Mask#
 19143#Poring Balloon#
@@ -6864,6 +6866,7 @@
 19277#Soda In Mouth#
 19278#Sweetie Helmet#
 19287#Costume Cat Poring Balloon#
+19289#Costume Moon Eyepatch#
 19291#Costume Shiba Inu#
 19292#Costume Wildcat Knit Cap#
 19294#Costume Cyber Cat Ear Headphones (Red)#
@@ -6874,6 +6877,7 @@
 19301#Beer Cap#
 19306#Heart Card In Mouth#
 19308#Amistr Beret#
+19327#Feather of Seraphim#
 19328#Spider Seduction#
 19331#Well Baked Toast#
 19364#Engineer Cap#
@@ -7282,6 +7286,7 @@
 20510#Costume Sword Wing#
 20513#Costume EXE Backpack#
 20514#Costume Thanatos Sword#
+20515#Costume Magic Circle#
 20516#Costume Wings of Michael#
 20517#Costume Giant Cat Bag#
 20518#Costume Gerhard Von Devi Bag#
@@ -7845,6 +7850,7 @@
 24030#Critical Shadow Armor#
 24031#Kingbird's Shadow Weapon#
 24032#Critical Hit Shadow Weapon#
+24033#Healing Shadow Weapon#
 24034#Lucky Shadow Weapon#
 24035#Power Shadow Earring#
 24036#Int Shadow Pendant#
@@ -8024,6 +8030,9 @@
 24235#Titan Shadow Pendant#
 24238#Gigantic Shadow Earring#
 24239#Gigantic Shadow Pendant#
+24240#Caster Shadow Shoes#
+24241#Caster Shadow Shield#
+24242#Caster Shadow Armor#
 24243#Reload Shadow Shoes#
 24244#Reload Shadow Shield#
 24245#Reload Shadow Armor#
@@ -8120,6 +8129,8 @@
 24342#All Race Shadow Shield#
 24343#Blitz Shadow Weapon#
 24344#Blitz Shadow Armor#
+24366#Healing Shadow Shield#
+24367#Healing Shadow Shoes#
 24370#Mortal Blow Shadow Weapon#
 24371#Mortal Blow Shadow Earring#
 24372#Mortal Blow Shadow Pendant#
@@ -8503,6 +8514,7 @@
 27167#Faceworm Larva Card#
 27168#Irene High Elder Card#
 27169#Payon Soldier Card#
+27183#Gigantes Card#
 27209#Sealed Q Scaraba Card#
 27210#Sealed Thanatos Card#
 27211#Sealed Baphomet Card#
@@ -8812,6 +8824,7 @@
 29227#Heal#
 29228#Steal#
 29229#Teleportation#
+29238#FLEE+10#
 29239#HIT+5#
 29302#Water property (Armor)#
 29303#Wind property (Armor)#
@@ -9060,6 +9073,7 @@
 31573#Costume Mecha Cat Ears#
 31574#Costume Cyber Income#
 31578#Costume Alchemist Mask#
+31579#Costume I Love Game RO#
 31580#Costume Autumn Taste#
 31586#Costume Poporing Muffler#
 31588#Costume Snow Flower#
@@ -9198,7 +9212,9 @@
 100275#Dragonic Slayer Modification Cube#
 100314#Costume Enchant Stone Box21#
 100329#Narcissus Bow Modification Cube#
+100361#Meteor Striker Modification Cube#
 100371#Homunculus Tablet#
+100390#Ray Knuckle Modification Cube#
 100397#Exorcist's Bible Modification Cube#
 100492#Field Manual Special#
 100493#Job Manual Special#
@@ -9595,6 +9611,14 @@
 106966#IceCrystal Costume Scroll#
 107004#Special April Costume Box#
 107016#Blessed Angel Scroll#
+107248#[NFS] Ray Knuckle Modification Cube#
+107249#Fortune Fang Dagger Modification Cube#
+107250#[NFS] Fortune Fang Dagger Modification Cube#
+107251#[NFS] Meteor Striker Modification Cube#
+107262#Spirit Cat Scroll#
+107315#Crescent Costume Scroll#
+107369#Fallen Heaven Scroll#
+107389#Taurus Crown Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9633,6 +9657,19 @@
 300291#1st Anniversary Card#
 300385#Valhalla Idol Effect#
 300419#Baby Camellia Effect#
+300534#[Event] Seyren's Memory#
+300535#[Event] Howard's Memory#
+300536#[Event] Eremes's Memory#
+300537#[Event] Kathryne's Memory#
+300538#[Event] Margaretha's Memory#
+300539#[Event] Cecil's Memory#
+300540#[Event] Randel's Memory#
+300541#[Event] Flamel's Memory#
+300542#[Event] Gertie's Memory#
+300543#[Event] Celia's Memory#
+300544#[Event] Chen's Memory#
+300545#[Event] Trentini's Memory#
+300546#[Event] Alphoccio's Memory#
 300618#Kung Fu Panda Collaboration Card#
 300711#Eddga New Era Card#
 300753#Aquarius Gem#
@@ -9687,8 +9724,9 @@
 311396#Hit Plus 2#
 311397#Hit Plus 3#
 311398#Hit Plus 4#
-311399#Hit Plus 4#
+311399#Hit Plus 5#
 311926#Romantic Rose Effect#
+313067#Purple Star Footprint#
 313069#Red Star Footprint#
 313559#Panda Footprint#
 313560#Panda Color Footprint#
@@ -9696,6 +9734,8 @@
 314172#Bouncing Toothless Footprints#
 314879#Capricon Gem#
 315108#Aries Gem#
+315142#[Event] External's Memory#
+315170#Taurus Gem#
 400020#Costume Beachball#
 400023#Drooping Thanatos's Dolor#
 400043#Fallen Angel Hairband#
@@ -9877,6 +9917,7 @@
 401045#Costume Evil Druid Hat Black#
 401112#Dragon Warrior Hat#
 401145#[NFS] SnowFlake Tiara#
+401149#Costume Hollgrehenn Aura#
 401198#Capricorn Crown#
 401199#[NFS] Capricorn Crown#
 401213#Costume Jaow Pirun Sra Yok#
@@ -9886,6 +9927,8 @@
 401289#[NFS] Pisces Diadem#
 401321#Aries Crown#
 401322#[NFS] Aries Crown#
+401387#Taurus Crown #
+401388#[NFS] Taurus Crown #
 410004#Gambler Seal#
 410005#Costume Magic Heir#
 410012#EXP Advicer#
@@ -9965,6 +10008,7 @@
 410330#Costume Red Aura Dragon#
 410331#Costume Yellow Aura Dragon#
 410350#Costume Kwaiii#
+410351#Costume Blue Buoyant Parasol#
 410352#Costume Red Buoyant Parasol#
 410353#Costume Eyes Phen#
 410354#RCC2024 Wing Of Thor#
@@ -9981,6 +10025,7 @@
 410399#Costume Capybara#
 410440#Costume Toothless Doll#
 410474#Costume Chained Bear#
+410487#Costume Idol's Flower Stage#
 410490#Costume Avenger#
 410491#Costume Viloet Starlight#
 410517#Karasu Tengu Mask#
@@ -10032,6 +10077,7 @@
 420159#Costume Magic Card#
 420161#Costume Starry Long Wave#
 420163#Costume Protect Cloth (Black)#
+420165#Costume Tent#
 420166#Heart Angel#
 420167#[NFS] Heart Angel#
 420181#Costume Eis Spinne#
@@ -10051,6 +10097,7 @@
 420215#Gang Scarf#
 420216#[NFS] Gang Scarf#
 420217#Arch Angeling Balloon#
+420221#Costume Skia Hairstyle#
 420222#Costume Consecrate Fides Aureola#
 420229#[NFS] Vajra#
 420234#Costume Festival Stall#
@@ -10097,10 +10144,12 @@
 420512#Costume Aurora On Clouds#
 420517#Frill Collar#
 420519#[NFS] Frill Collar#
+420525#Costume Twin Milky Way#
 420534#[NFS] Vassalage Necklace#
 420552#Costume Divine Invitation#
 420598#Costume Jack Castle Bat#
 420599#Costume Cons of Poison#
+420603#[Event] New Adventure Clover#
 420628#Costume Durumagi#
 420629#Costume Book of Sorcery#
 420743#Costume Spirit Cat#
@@ -10180,6 +10229,19 @@
 450513#Noblesse Stalker Suit#
 450515#Noblesse Knuckle Suit#
 450522#Valkyrie White Armor#
+450545#Capricorn Mail#
+450546#Aquarius Mail#
+450547#Pisces Mail#
+450548#Aries Mail#
+450549#Taurus Mail#
+450550#Gemini Mail#
+450551#Cancer Mail#
+450552#Leo Mail#
+450553#Virgo Mail#
+450554#Libra Mail#
+450555#Scorpio Mail#
+450556#Sagittarius Mail#
+450557#Ophiuchus Suit#
 460028#[NFS]Sharel Shield#
 460033#[NFS] Mad Bunny#
 460041#Dark Shield#
@@ -10338,6 +10400,7 @@
 480374#Golden Attack Upgrade Muffler#
 480375#Golden Magic Upgrade Hood#
 480377#Costume White Cat Doll#
+480393#Costume Blue Moon Loli Ruri's Crescent Moon#
 480396#Maximize Amistr Bag#
 480397#Sight Amistr Bag#
 480407#Costume Leticia's Wings#
@@ -10348,6 +10411,7 @@
 480420#Costume Cyber Rifle#
 480423#Costume Unicorn Fantasy Travel#
 480429#Costume Cat Donut#
+480430#Costume Senbon Zakura#
 480433#Costume Twin Edge#
 480434#Giant God Snake Skin#
 480435#Giant God Snake Skin#
@@ -10397,6 +10461,8 @@
 490017#Imperial Attack Ring#
 490030#Temporal Ring#
 490033#Fallen Angel's Tear#
+490100#Red Force Pendant#
+490101#Blue Mental Pendant#
 490147#1st Anniversary Ring#
 490209#[NFS]Angel Egg#
 490212#[NFS] Spica Necklace#
@@ -10507,6 +10573,9 @@
 490956#Rebeginer Ring#
 490967#Aries Ring#
 490968#[NFS] Aries Ring#
+490988#Phoenix Ring#
+491023#Taurus Ring #
+491024#[NFS] Taurus Ring #
 500000#IDTest weapon#
 500003#Light Blade#
 500035#Eden Group Super Novice Sword#
@@ -10520,6 +10589,8 @@
 500122#[NFS] Red Lotus Sword#
 500125#Gladius Daemonicus#
 500126#[NFS] Gladius Daemonicus#
+500147#Taurus Sword #
+500148#[NFS] Taurus Sword #
 510006#Fatalist#
 510067#[NFS] Kiri no Tsuyu#
 510068#[NFS] Surudoi Kaze#
@@ -10537,6 +10608,8 @@
 510177#[NFS] Fortune Fang Dagger#
 510204#Valkyrie Knife#
 510210#[NFS] Awakened Blessed Knife #
+510219#Awakened Fortune Fang Dagger #
+510220#[NFS] Awakened Fortune Fang Dagger #
 520032#Raid Human Axe#
 520039#Raid Ocean Axe#
 520040#WOE Axe 2#
@@ -10565,9 +10638,12 @@
 550198#Aquarius Staff #
 550199#[NFS] Aquarius Staff #
 560002#Ray Knuckle#
+560009#Awakened Ray Knuckle#
 560049#Raid Human Claw#
 560066#Raid Ocean Claw#
 560069#WOE Pist 2#
+560093#[NFS] Awakened Ray Knuckle #
+560094#[NFS] Ray Knuckle #
 570002#Trumpet Shell#
 570050#Raid Human Guitar#
 570051#[NFS] Trumpet Shell#
@@ -10580,12 +10656,14 @@
 580074#WOE Whip 2#
 590002#Meteor Striker#
 590003#Saint Mace#
+590011#Awakened Meteor Striker#
 590061#[NFS] Stunner#
 590065#Raid Human Driver#
 590088#Raid Ocean Mace#
 590089#WOE Club 2#
 590094#[NFS] Meteor Striker#
 590115#Valkyrie Hammer#
+590125#[NFS] Awakened Meteor Striker #
 600000#IDTest bothhand#
 600004#Dragonic Slayer#
 600040#[NFS] Two-Handed Sword#
@@ -10689,8 +10767,8 @@
 1000619#World Moving Ticket#
 1000682#Clock Tower Key[Enchant]#
 1000875#Valhalla Idol Effect (Middle)#
-1000896#Blessed Angel Coin#
-1000923#Aries Coin#
+1000896#Fallen Heaven Coin#
+1000923#Taurus Coin#
 1000965#[Holy] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
 1001139#Flame Essence#
@@ -10705,13 +10783,14 @@
 1001493#Golden Weapon Upgrade Ticket#
 1001572#Rokia 2023#
 1001586#Razer Gold Key#
+1001617#Purple Star Footprint (Garment)#
 1001651#Red Star Footprint (Garment)#
 1001673#Random Rare UFOcatcher#
 1001678#Basic Diagnose (Battle Pass)#
 1001679#Advanced Diagnose (Battle Pass)#
 1001680#Doctoral Dissertation (Battle Pass)#
 1001727#Orchestra Concert Ticket#
-1001794#[NFS] Chrono Pass Ticket#
+1001794#[NFS] Sarah & Fenrir Pass Ticket#
 1001805#GOC Coin#
 1001806#Sun God Essence#
 1001832#Reset God's Spirital Ticket#
@@ -10752,6 +10831,7 @@
 1002810#Stone of Spirit#
 1002811#Darkness Essence#
 1002812#Lost Ancient Record#
+1002982#Seraphim Leaf#
 1100000#IDTest heal#
 1100011#Monster Bread#
 1100023#Violet Potion#
