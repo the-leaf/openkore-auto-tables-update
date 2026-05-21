@@ -9567,6 +9567,10 @@
 105555#Hunter’s Destiny Scroll#
 105618#Golden Card Album#
 105649#Arcane Eye Scroll#
+105667#Heavy Feather#
+105668#Brilliant Feather#
+105669#Swift Feather#
+105672#Sturdy Feather#
 105674#Nature Stone#
 105675#Shadow Stone#
 105676#Flame Stone#
@@ -9593,6 +9597,9 @@
 106096#Snowy Mind Scroll#
 106179#Scooter Costume Scroll#
 106278#Zodiac Capricorn Scroll#
+106300#Costume Gatchaman Selection Scroll I#
+106301#Costume Gatchaman Selection Scroll II#
+106302#Costume Gatchaman Selection Scroll III#
 106309#Time Sacred Scroll#
 106328#Sweetheart Costume Scroll#
 106384#Aquarius Diadem Scroll#
@@ -9651,6 +9658,9 @@
 200182#Neuralizer Box#
 200183#Reset Stone Box#
 200374#GVG&PVP 2 Supply Box#
+200949#Gatchaman Collaboration Package I#
+200950#Gatchaman Collaboration Package II#
+200951#Gatchaman Collaboration Package III#
 300000#IDTest Card#
 300157#Time Accessory Effect#
 300209#Sealed Nightmare Amon Ra Card#
@@ -9672,6 +9682,9 @@
 300546#[Event] Alphoccio's Memory#
 300618#Kung Fu Panda Collaboration Card#
 300711#Eddga New Era Card#
+300732#Gatchaman Card#
+300733#Galactor Army Card#
+300734#Bird Missile Card#
 300753#Aquarius Gem#
 300786#Pisces Gem#
 310000#Sniper Stone II (Upper)#
@@ -9732,6 +9745,7 @@
 313560#Panda Color Footprint#
 314171#Toothless Footprints#
 314172#Bouncing Toothless Footprints#
+314813#Operation Phoenix Footprints#
 314879#Capricon Gem#
 315108#Aries Gem#
 315142#[Event] External's Memory#
@@ -9920,6 +9934,7 @@
 401149#Costume Hollgrehenn Aura#
 401198#Capricorn Crown#
 401199#[NFS] Capricorn Crown#
+401207#Costume Honorary Gatchaman#
 401213#Costume Jaow Pirun Sra Yok#
 401244#Aquarius Diadem#
 401245#[NFS] Aquarius Diadem#
@@ -10152,11 +10167,20 @@
 420603#[Event] New Adventure Clover#
 420628#Costume Durumagi#
 420629#Costume Book of Sorcery#
+420729#Costume Farewell, Gatchaman!#
+420730#Costume Gatchaman, Move Out!#
+420731#Costume Dr.Nambu's Emergency Transmission#
 420743#Costume Spirit Cat#
 430001#Costume Helm of Amon Ra#
 430003#[NFS] Fancy Phantom Mask#
 430006#Wanderer's Sakkat#
 430007#[NFS] Wanderer's Sakkat#
+430025#Costume Leader of Galactor#
+430026#Costume Ken the Eagle#
+430027#Costume Joe the Condor#
+430028#Costume Jun the Swan#
+430029#Costume Jinpei the Swallow#
+430030#Costume Ryu the Owl#
 440000#Costume Shark Hat#
 440010#Costume Bear Head#
 440026#Costume Cat Ears Whisper Cloth#
@@ -10808,6 +10832,8 @@
 1002224#Viking Token#
 1002239#Toothless Footprints (Garment)#
 1002240#Bouncing Toothless Footprints (Garment)#
+1002381#Mid Powder#
+1002382#Mid Missile Button#
 1002435#[NFS] Experience Potion 50%#
 1002440#Fragment of Echo Stone#
 1002441#Echo Stone#
@@ -10819,6 +10845,7 @@
 1002500#Ticket Guild Extension [Lounge Lamune]#
 1002501#Ticket Guild Extension [GM]#
 1002510#OOC Gold Bar#
+1002642#Operation Phoenix Footprints (Garment)#
 1002796#God Furnace#
 1002797#God Hammer#
 1002802#Moon Rune#
