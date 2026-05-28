@@ -8548,6 +8548,7 @@
 27263#Fay Kanavian Card#
 27264#Evil Shadow Card#
 27265#Evil Believer Card#
+27326#Morocc Necromancer Card#
 27384#Mutating White Knight Card#
 27385#Mutating Khalitzburg Card#
 27412#MaxHP+15%#
@@ -9212,9 +9213,12 @@
 100275#Dragonic Slayer Modification Cube#
 100314#Costume Enchant Stone Box21#
 100329#Narcissus Bow Modification Cube#
+100330#Trumpet Shell Modification Cube#
+100331#Barbed Wire Whip K Modification Cube#
 100361#Meteor Striker Modification Cube#
 100371#Homunculus Tablet#
 100390#Ray Knuckle Modification Cube#
+100393#Aquatic Spear Modification Cube#
 100397#Exorcist's Bible Modification Cube#
 100492#Field Manual Special#
 100493#Job Manual Special#
@@ -9626,6 +9630,12 @@
 107315#Crescent Costume Scroll#
 107369#Fallen Heaven Scroll#
 107389#Taurus Crown Scroll#
+107430#[NFS] Aquatic Spear Modification Cube#
+107431#[NFS] Trumpet Shell Modification Cube#
+107432#[NFS] Barbed Wire Whip K Modification Cube#
+107437#Jaow Pirun Scroll#
+107453#Red Flame Basin Heart#
+107454#Blue Flame Basin Heart#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -10637,12 +10647,14 @@
 520032#Raid Human Axe#
 520039#Raid Ocean Axe#
 520040#WOE Axe 2#
+530006#Awakened Aquatic Spear #
 530048#Raid Human Spear#
 530059#Raid Ocean Trident#
 530061#WOE Spear 2#
 530065#Faceworm Queen Thorn#
 530084#Aries Spear#
 530085#[NFS] Aries Spear#
+530092#[NFS] Awakened Aquatic Spear #
 540011#Awakened Exorcist's Bible#
 540076#Raid Human Magic Book#
 540092#Raid Ocean Book#
@@ -10669,15 +10681,19 @@
 560093#[NFS] Awakened Ray Knuckle #
 560094#[NFS] Ray Knuckle #
 570002#Trumpet Shell#
+570009#Awakened Trumpet Shell#
 570050#Raid Human Guitar#
 570051#[NFS] Trumpet Shell#
 570071#Raid Ocean Guitar#
 570074#WOE Instrument#
+570103#[NFS] Awakened Trumpet Shell#
 580002#Barbed Wire Whip K#
+580009#Awakend Barbed Wire Whip K#
 580051#Raid Human Whip#
 580052#[NFS] Barbed Wire Whip K#
 580071#Raid Ocean Whip#
 580074#WOE Whip 2#
+580103#[NFS] Awakened Barbed Wire Whip K #
 590002#Meteor Striker#
 590003#Saint Mace#
 590011#Awakened Meteor Striker#
@@ -10792,7 +10808,7 @@
 1000682#Clock Tower Key[Enchant]#
 1000875#Valhalla Idol Effect (Middle)#
 1000896#Fallen Heaven Coin#
-1000923#Taurus Coin#
+1000923#Jaow Pirun Coin#
 1000965#[Holy] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
 1001139#Flame Essence#
