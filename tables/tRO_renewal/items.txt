@@ -7267,6 +7267,7 @@
 19552#Costume Centimental Flower#
 19553#Costume Assassin Mask#
 19554#Costume Hahoe Mask#
+19557#Costume Ayothaya Hat#
 19573#Costume Heart Wing Hairband#
 19574#Costume Load Of Death#
 19575#Costume Black Dragon's Ascension#
@@ -7356,6 +7357,7 @@
 19762#Costume Happiness and Peace#
 19767#Costume Home Cherry Blossom#
 19769#Costume Mischievous Fairy#
+19776#Costume Tomboy Fairy#
 19777#Costume Twinkling Star#
 19778#Costume King Strawberry#
 19779#Costume Persica#
@@ -9040,6 +9042,7 @@
 24681#Maximum Mammoth Shadow Earring#
 24682#Maximum Mammoth Shadow Pendant#
 24683#Experience Shadow Shield#
+24684#Super Novice Booster Shadow Weapon#
 24685#Absorb Shadow Shield#
 24686#Absorb Shadow Weapon#
 24687#Eden Group Shadow Weapon#
@@ -9117,7 +9120,9 @@
 24766#Lord Bearer's Shadow Earring#
 24767#Mega Blitz Shadow Shield#
 24768#Mega Blitz Shadow Weapon#
+24769#Limit Break Shadow Weapon#
 24770#Experience Shadow Weapon#
+24771#Limit Break Shadow Shield#
 24792#Master Shadow Weapon#
 24793#Master Shadow Shield#
 24800#M. Dragon Knight Shadow Armor#
@@ -9194,6 +9199,10 @@
 24871#M. Hyper Novice Shadow Pendant#
 24874#Full Rate Shadow Armor#
 24875#Full Rate Shadow Shoes#
+24878#Stout Shadow Pendant#
+24879#Stout Shadow Earring#
+24883#Full Spell Shadow Armor#
+24884#Full Spell Shadow Shoes#
 24887#Witty Shadow Pendant#
 24888#Witty Shadow Earring#
 25000#SP Absorption Stone (Upper)#
@@ -9413,7 +9422,7 @@
 25320#Suspicious Melon#
 25340#Golden Corn#
 25341#Red Hot Marble #
-25342#Healthful Herb #
+25342#Healthful Herb#
 25358#Retrieve Data Card#
 25359#Slightly Old Box#
 25360#Receipt#
@@ -10710,6 +10719,7 @@
 31547#Costume Mascot Poporing#
 31555#Costume Infantry Helmet (Upper)#
 31565#Costume Princess Ribbon Crown#
+31566#Costume Stole of Dominion#
 31568#Costume Yin Yang Beads#
 31569#Costume: Open Air Headset#
 31572#Costume Mobile Pursuit System#
@@ -11580,6 +11590,49 @@
 101978#Treasure Box III (Mystical Pass)#
 101996#Strong Bull Scroll#
 101999#Full Moon Costume Scroll#
+102016#Metal Detector Box#
+102017#Muqqadas Equipment Refining 9~10#
+102018#Amplify (Metal Detector MK47)#
+102019#Amplify (Safety Saber)#
+102020#Amplify (Jewel Detector Mk47)#
+102021#Amplify (Safety Foxtail)#
+102022#Amplify (Claw Sword)#
+102023#Amplify (Blocking Spear)#
+102024#Amplify (Rubber Hammer#
+102025#Amplify (Saw Axe)#
+102026#Amplify (Safety Knuckle)#
+102027#Amplify (Safety Manual)#
+102028#Amplify (Welding Wand)#
+102029#Amplify (Detecting Staff)#
+102030#Amplify (Grinder Huuma Shuriken)#
+102031#Amplify (Bolt Shooter)#
+102032#Amplify (Bolt Crusher)#
+102033#Amplify (Bolt Revolver)#
+102034#Amplify (Safety Whip)#
+102035#Amplify (Safety Lute)#
+102040#Muqaddas Slabs (Sasyiir)#
+102041#Muqaddas Slabs (Banjiiraa)#
+102042#Muqaddas Slabs (Jaydukhar)#
+102043#Muqaddas Slabs (Kitab)#
+102044#Muqaddas Slabs (Tasyiribatiy)#
+102045#Muqaddas Slabs (Dayats)#
+102046#Muqaddas Slabs (Tabar)#
+102047#Muqaddas Slabs (Daablunta)#
+102048#Muqaddas Slabs (Mashts)#
+102049#Muqaddas Slabs (Baru)#
+102050#Muqaddas Slabs (Kahassu)#
+102051#Muqaddas Slabs (Saz)#
+102052#Muqaddas Slabs (Syaraq)#
+102053#Muqaddas Slabs (Sharman)#
+102054#Muqaddas Slabs (Kharawasu)#
+102055#Muqaddas Slabs (Kajuza)#
+102056#Muqaddas Slabs (Nazar)#
+102057#Muqaddas Slabs (Kanjar)#
+102058#Muqaddas Slabs (Ayyasy)#
+102059#Muqaddas Slabs (Naranzak)#
+102060#Muqaddas Slabs (Tabanji)#
+102061#Muqaddas Slabs (Saka)#
+102062#Muqaddas Slabs (Taliin)#
 102063#Carnival Scroll#
 102064#Silvervine 100 Box#
 102065#Silvervine 500 Box#
@@ -11600,6 +11653,7 @@
 102120#[Scroll] LUK Biscuit Stick#
 102121#[Scroll] AGI Biscuit Stick#
 102122#Temporal Scroll#
+102126#Amplify (Metal Detector MK47-2)#
 102128#All In One Buff Potion#
 102129#All In One Healing Potion#
 102138#[Not for Sale] Raven Of Tomb Combination#
@@ -11742,6 +11796,7 @@
 102726#Twin Cannon Box#
 102728#[Event] Dragon Horn#
 102731#Honor the Fallen Warrior Scroll#
+102732#Issgard Crown Selection Box#
 102752#[Not For Sale] Vassalage Necklace Combination#
 102753#[Not For Sale] Raphin P. Necklace Combination#
 102754#[Not For Sale] Tohil's Shoes Combination#
@@ -11840,6 +11895,8 @@
 103280#Corridor Magical Blessing#
 103281#Ancient Flower Blessing#
 103299#Black Mithril Scroll#
+103307#Character Slot Expansion Card#
+103320#[Not for sale] Character Slot Expansion Card#
 103329#Royal Army Scroll#
 103363#MVP Card Change Box I#
 103391#Colorful Dress & Automatic Upgrade Cube#
@@ -12132,6 +12189,9 @@
 106490#Full Chemical Protection Scroll#
 106491#Full Chemical Protection Scroll 10 ea Box#
 106494#Costume Enchant Transfer Ticket#
+106548#Orrivane Essence#
+106549#Orrivane Piece#
+106553#Orrivane Box#
 106585#Bloom Sakura Scroll#
 106586#Mado Emergency Gear Unit (Armored)#
 106587#Mado Emergency Gear Unit (Reinforced Suit)#
@@ -12143,6 +12203,14 @@
 106880#Lapine Box (Ring of Evil)#
 106881#Good And Evil Scroll#
 106932#CuteBoy Special Box#
+106934#[6th] Anniversary Jumping Box#
+106935#[6th] Anniversary Linny Lamp Service#
+106940#Orrivane Weapon Refine Hammer#
+106941#[6th] ตกปลาส้มอโยธยา#
+106942#[Special] Booster Pack (260)#
+106943#[6th] Anniversary Pre-Register Gift#
+106944#Orrivane Weapon Diamond (Magical)#
+106945#Orrivane Weapon Diamond (Physical)#
 106968#Songkran Festival 2026 Scroll#
 106970#Silvervine 10 Box#
 107003#[Event] Songkran Scroll#
@@ -12163,6 +12231,15 @@
 107393#Destiny Package II#
 107394#Destiny Package III#
 107395#Unlimited Fly Wing 1day Box#
+107425#Dim Glacier Ring of Resonance Random Box#
+107429#6th Anniversary Scroll#
+107434#Limit Break Shadow Random Box II#
+107435#Ayothaya Adventurer Boots Refine Hammer#
+107436#6th Anniversary Starter Package#
+107468#Ancient Shrine Moving Ticket#
+107469#Gray Wolf Forest Moving Ticket#
+107470#Amicitia Moving Ticket#
+107471#Abandoned Pit Moving Ticket#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -12202,6 +12279,7 @@
 200377#Sonic Badge Package#
 200378#Super Sonic Package#
 200379#Chaos Emerald Package#
+200463#Character Slot Expansion Card Box#
 200504#(Limited) Enriched Oridecon Box (30)#
 200505#(Limited) Enriched Elunium Box (30)#
 200506#(Limited) Refine Ore Box (50)#
@@ -12446,9 +12524,25 @@
 300424#Friedrich S. Heine Card#
 300425#Crux Card#
 300426#Crux Findel Card#
+300441#Burning Knight Card#
+300442#Deadsera Card#
+300443#Hardrock Titan Card#
+300444#Deadween Card#
+300445#Gaia Pol Card#
+300446#Punch Bug Card#
+300447#Aferde Card#
+300448#Dispol Card#
+300449#Timbers Card#
+300450#Renire Card#
 300479#[3rd Anniversary] Agony of Royal Knight Card#
 300480#[3rd Anniversary] Grudge of Royal Knight Card#
 300481#[3rd Anniversary] Himmelmez Card#
+300487#Rebellion Elena Volkova Card#
+300489#Rebellion Lookie Card#
+300491#Rebellion Est Loveroy Card#
+300493#Rebellion Gony Card#
+300495#Secret Wing Philopontes Card#
+300497#Secret Wing Leizi Card#
 300534#[Event] Seyren's Memory#
 300535#[Event] Howard's Memory#
 300536#[Event] Eremes's Memory#
@@ -12481,6 +12575,9 @@
 300577#Upgrade Ranger Cecil Card#
 300578#Upgrade Minstrel Alphoccio Card#
 300579#Upgrade Wanderer Trentini Card#
+300606#Rebellion Dien Card#
+300607#Rebellion Ridsh Card#
+300608#Rebellion Cotness Card#
 300618#Kung Fu Panda Collaboration Card#
 300619#Upgrade Osiris Card#
 300620#Upgrade Doppelganger Card#
@@ -12508,6 +12605,7 @@
 300759#Upgrade Imperial Guard Card#
 300784#Shadow Cross Dim Crystal#
 300785#Shinkiro&Shiranui Dim Crystal#
+300798#6th Anniversary Card#
 310000#Sniper Stone II (Upper)#
 310001#Sniper Stone II (Middle)#
 310002#Sniper Stone II (Lower)#
@@ -13648,6 +13746,14 @@
 312001#Fragment of Varmundt (WIS) Lv.3#
 312002#Fragment of Varmundt (WIS) Lv.4#
 312003#Fragment of Varmundt (WIS) Lv.5#
+312004#Bishop's Blessing (Attack Speed)#
+312005#Bishop's Blessing (Variable Casting)#
+312006#Bishop's Blessing (Global Cooldown)#
+312007#Bishop's Blessing (Perfect Hit)#
+312008#Bishop's Blessing (CRI)#
+312009#Warped Spell (Melee)#
+312010#Warped Spell (Magic)#
+312011#Warped Spell (Long Ranged)#
 312014#Good Spell#
 312021#Evil Spell#
 312189#POW+3#
@@ -14001,6 +14107,9 @@
 315165#Bio Energy of Melee#
 315166#Bio Energy of Range#
 315167#Bio Energy of Magic#
+315286#Orrivane Orb (Windhawk)#
+315287#Orrivane Orb (Abyss Chaser)#
+315288#Orrivane Orb (Arch Mage)#
 400000#Whistle#
 400001#Victorious Wing Ears#
 400002#Victorious Wing Ears#
@@ -14301,7 +14410,27 @@
 401241#Herosria Crown#
 401242#Herosria Majestic Goat#
 401243#Herosria Corsair#
+401265#Orrivane Crown (Dragon Knight)#
+401266#Orrivane Crown (Imperial Guard)#
+401267#Orrivane Crown (Meister)#
+401268#Orrivane Crown (Biolo)#
+401269#Orrivane Crown (Shadow Cross)#
+401270#Orrivane Crown (Abyss Chaser)#
+401271#Orrivane Crown (Cardinal)#
+401272#Orrivane Crown (Inquisitor)#
+401273#Orrivane Crown (Arch Mage)#
+401274#Orrivane Crown (Elemental Master)#
+401275#Orrivane Crown (Wind Hawk)#
+401276#Orrivane Crown (Troubadour & Trouvere)#
+401277#Orrivane Crown (Sky Emperor)#
+401278#Orrivane Crown (Soul Ascetic)#
+401279#Orrivane Crown (Night Watch)#
+401280#Orrivane Crown (Shinkiro & Shiranui)#
+401281#Orrivane Crown (Hyper Novice)#
+401282#Orrivane Crown (Spirit Handler)#
+401283#Costume Orrivane Crown#
 401319#Costume Dark Night Rune Helm#
+401390#[6th] Ayothaya Helm#
 410005#Costume Magic Heir#
 410011#Costume Dark Blinkers#
 410012#EXP Advicer#
@@ -14471,6 +14600,7 @@
 410616#Floating Ball-LT#
 410643#Little Garden-LT#
 410644#Floating Ball-LT#
+410657#Eye of Necromancer#
 420000#Isabella Carrot#
 420002#Dullahan Mask#
 420003#CD in Mouth K#
@@ -14702,6 +14832,7 @@
 440015#Costume 2nd Runner Up of ROS 2024#
 440016#Costume 3rd Runner Up of ROS 2024#
 440021#Costume Angeling Bubble#
+440043#Costume Golden Baseball Cap#
 450000#IDTest armor#
 450001#Attacker Booster Plate#
 450002#Elemental Booster Robe#
@@ -14941,6 +15072,7 @@
 460150#Sylvan Thorn Guard#
 460151#Rose Quartz Shield-LT#
 460152#Sylvan Thorn Guard-LT#
+460166#Falling Star Shield#
 470000#Attacker Booster Greaves#
 470001#Elemental Booster Shoes#
 470002#Defunct Booster Shoes#
@@ -15078,6 +15210,7 @@
 470327#Thanos Boots (Magic)#
 470328#Thanos Boots (Fighter)#
 470424#Aladdin Shoes#
+470442#Ayothaya Adventurer's Boots#
 480000#Attacker Booster Manteau#
 480001#Elemental Booster Muffler#
 480002#Defunct Booster Muffler#
@@ -15136,6 +15269,7 @@
 480127#Costume Hooked Straw Hat#
 480129#Costume Triple Ice Cream#
 480131#Costume Swirling Flame#
+480136#Magic Swordsman Thanatos's Sword#
 480138#Engraved Survival Manteau#
 480144#Varmundt Rune Pauldron#
 480145#Varmundt Plain Rune Manteau#
@@ -15243,6 +15377,7 @@
 480316#Costume Labrys#
 480318#Costume Divine Phoenix#
 480320#Costume Songkran Aqua Fin Decoration#
+480321#Costume Surf Board#
 480329#Costume ROS 2023 Flames Coat#
 480333#Medical Cape#
 480334#[Not For Sale] Medical Cape#
@@ -15305,6 +15440,7 @@
 480485#Costume Call of the Deep Sea Octopus#
 480487#Costume Paw Backpack#
 480488#Costume Wings Of Simulation Juncea#
+480492#Costume Alice Broom#
 480494#Costume Halloween Candy Pouch#
 480498#White Knight Mantle (Melee)#
 480499#White Knight Mantle (Range)#
@@ -15324,6 +15460,7 @@
 480534#Hero Favor Cape#
 480535#Improved Powered Wing-LT#
 480555#Costume Lapine Wing#
+480560#Costume Resurrection Bow#
 480582#Costume Three Poring Dango#
 480583#Angel Ribbon Wing (Red)#
 480584#Angel Ribbon Wing (White)#
@@ -15807,6 +15944,7 @@
 490943#Dim Glacier Ring of Resonance (Shadow Cross)#
 490944#Dim Glacier Ring of Resonance (Shinkiro&Shiranui)#
 490947#Ring of the Frozen Promise#
+490966#6th Anniversary Ayothaya Ring#
 490969#Dim Glacier Ring of Resonance (Imperial Guard)#
 490970#Dim Glacier Ring of Resonance (Hyper Novice)#
 490971#Dim Glacier Ring of Resonance (Sky Emperor)#
@@ -15815,6 +15953,9 @@
 491010#Dim Glacier Ring of Resonance (Biolo)#
 491011#Dim Glacier Ring of Resonance (Night Watch)#
 491012#Dim Glacier Ring of Resonance (Soul Ascetic)#
+491049#Orrivane Ring (Wind Hawk)#
+491050#Orrivane Ring (Abyss Chaser)#
+491051#Orrivane Ring (Arch Mage)#
 500000#IDTest weapon#
 500001#Boosting Sword#
 500003#Light Blade#
@@ -15854,6 +15995,7 @@
 500051#Cannon Rapier-OSAD#
 500054#Dim Glacier Sword#
 500055#Dim Glacier Basic Sword#
+500056#Flush Safety Saber#
 500057#Herosria Crusader Sword#
 500058#Herosria Guardian Sword#
 500059#Herosria Alchemic Sword#
@@ -15865,8 +16007,12 @@
 500066#Victory Sword#
 500072#Devil Guardian Sword#
 500073#[Not For Sale] Fatalist#
+500074#Muqaddas Sasyiir#
 500079#Raid Human Sword#
 500080#[Not For Sale] Blessed Knife#
+500139#Orrivane Imperial Sword#
+500140#Orrivane Biologic Sword#
+500141#Orrivane Hyper Sword#
 510001#Boosting Dagger#
 510002#Boosting Nindo#
 510006#Fatalist#
@@ -15908,11 +16054,13 @@
 510066#Kuroiro-OSAD#
 510067#[Not For Sale] Kiri no Tsuyu#
 510068#[Not For Sale] Surudoi Kaze#
+510069#Super Novice Booster Dagger#
 510070#Blessed Knife#
 510071#Patent Blessed Knife#
 510072#Blessed Knife-LT#
 510075#Dim Glacier Rogue Knife#
 510076#Dim Glacier Basic Knife#
+510077#Flush Jewel Detector Mk47#
 510079#Herosria Alchemic Dagger#
 510080#Herosria Assassin Dagger I#
 510081#Herosria Assassin Dagger II#
@@ -15928,10 +16076,16 @@
 510091#Underworld Knife#
 510092#Holy Light Dagger#
 510101#[Not For Sale] Gladius#
+510102#Muqaddas Tasyiribatiy#
+510103#Muqaddas Nazar#
+510104#Muqaddas Kanjar#
+510105#Flush Metal Detector Mk47#
+510106#Flush Metal Detector Mk47-2#
 510119#Raid Human Knife#
 510121#Red Combat Knife#
 510122#[Not For Sale] Red Combat Knife#
 510141#[Event] Fate Dagger#
+510160#Orrivane Abyss Dagger#
 520000#Boosting Axe#
 520002#Pride Steel#
 520008#Adulter Fides Axe#
@@ -15942,6 +16096,7 @@
 520017#Glacier Axe#
 520021#Dim Glacier Axe#
 520022#Herosria Axe#
+520031#Muqaddas Tabar#
 520032#Raid Human Axe#
 530000#Boosting Spear#
 530002#Gluttony Stick#
@@ -15960,9 +16115,11 @@
 530025#Glacier Spear#
 530031#Boost Lance-OSAD#
 530034#Dim Glacier Spear#
+530035#Flush Blocking Spear#
 530036#Herosria Spear#
 530045#Holy Light Spear#
 530048#Raid Human Spear#
+530083#Orrivane Imperial Spear#
 540000#Boosting Spellbook#
 540001#Boosting Text#
 540004#Sloth Text#
@@ -16005,6 +16162,7 @@
 540054#Darkness Tablet#
 540055#Origin of Life#
 540056#Dim Glacier Book#
+540058#Flush Safety Manual#
 540059#Doom Bible#
 540060#Blessed Bible#
 540061#Herosria Elemental Book#
@@ -16013,7 +16171,14 @@
 540064#Herosria Star Book#
 540065#Herosria Gladiator Book#
 540066#Herosria Martial Arts Book#
+540074#Muqaddas Kitab#
+540075#Muqaddas Kajuza#
 540076#Raid Human Magic Book#
+540128#Orrivane Saint Book#
+540129#Orrivane Elemental Magic Book#
+540130#Orrivane Elemental Spell Book#
+540131#Orrivane Emperor Star Book#
+540132#Orrivane Emperor Noon Book#
 550001#Boosting Soul Rod#
 550002#Boosting Foxtail#
 550006#Safety Foxtail#
@@ -16077,12 +16242,15 @@
 550076#Electric Fox-OSAD#
 550077#[Not For Sale] Meowmeow Foxtail#
 550078#[Not For Sale] Thorn Staff of Darkness#
+550079#Super Novice Booster Wand#
 550080#Freedom Stick#
 550081#Patent Freedom Stick#
 550082#Freedom Stick-LT#
 550088#Saint Bringer#
 550089#Dim Glacier Wand#
 550090#Dim Glacier Foxtail#
+550091#Flush Safety Foxtail#
+550092#Flush Welding Wand#
 550093#Soul Harvest#
 550094#Soul Liberator#
 550096#Herosria Wizardry Wand#
@@ -16100,7 +16268,17 @@
 550114#[Not For Sale] Arc Wand#
 550115#Darkness Foxtail Model#
 550116#Lightforce Foxtail Wand#
+550117#Muqaddas Baru#
+550118#Muqaddas Sharman#
+550119#Muqaddas Kharawasu#
 550121#Raid Human Stick#
+550201#Orrivane Saint Wand#
+550202#Orrivane Arch Wand#
+550203#Orrivane Soul Wand#
+550204#Orrivane Soul Stick#
+550205#Orrivane Hyper Wand#
+550206#Orrivane Spirit Foxtail#
+550207#Orrivane Spirit Foxtail Model#
 560000#Boosting Knuckle#
 560002#Ray Knuckle#
 560004#Ira Fist#
@@ -16127,9 +16305,13 @@
 560034#Burning Knuckle-OSAD#
 560036#Demonic Claw#
 560037#Dim Glacier Knuckle#
+560038#Flush Safety Knuckle#
 560039#Herosria Knuckle#
 560040#Herosria Claw#
+560048#Muqaddas Mashts#
 560049#Raid Human Claw#
+560091#Orrivane Judgment Knuckle#
+560092#Orrivane Judgment Claw#
 570000#Boosting Guitar#
 570002#Trumpet Shell#
 570005#Pigritia Wave#
@@ -16151,12 +16333,16 @@
 570028#Precision Lute#
 570029#Glacier Violin#
 570032#Dim Glacier Violin#
+570033#Flush Safety Lute#
 570034#Herosria Violin#
 570035#Herosria Guitar#
 570036#Crime Violin#
 570037#Light Power Harp#
+570045#Muqaddas Saz#
 570050#Raid Human Guitar#
 570051#[Not For Sale] Trumpet Shell#
+570094#Orrivane Musical Violin#
+570095#Orrivane Musical Harp#
 580000#Boosting Whip#
 580002#Barbed Wire Whip K#
 580005#Pigritia Spark#
@@ -16178,12 +16364,16 @@
 580028#Precision Whip#
 580030#Glacier Whip#
 580033#Dim Glacier Whip#
+580034#Flush Safety Whip#
 580035#Herosria Rope#
 580036#Herosria Whip#
 580037#Crime Whip#
 580038#Light Power Spark#
+580046#Muqaddas Syaraq#
 580051#Raid Human Whip#
 580052#[Not For Sale] Barbed Wire Whip K#
+580094#Orrivane Musical Rope#
+580095#Orrivane Musical Ribbon#
 590000#Boosting Mace#
 590002#Meteor Striker#
 590003#Saint Mace#
@@ -16216,11 +16406,16 @@
 590045#Punish Scepter#
 590047#Dim Glacier Mace#
 590048#Dim Glacier Mechanic Mace#
+590049#Flush Rubber Hammer#
 590050#Herosria Smith Mace#
 590051#Herosria Alchemist Mace#
 590052#Herosria Monk Mace#
 590061#[Not For Sale] Stunner#
+590062#Muqaddas Daablunta#
+590063#Muqaddas Ayyasy#
 590065#Raid Human Driver#
+590119#Orrivane Mechanical Mace#
+590120#Orrivane Biologic Scepter#
 600000#IDTest bothhand#
 600001#Boosting Two-Handed Sword#
 600004#Dragonic Slayer#
@@ -16240,10 +16435,12 @@
 600027#Glacier Two-handed Sword#
 600028#Beam Claymore-OSAD#
 600030#Dim Glacier Two-handed Sword#
+600031#Flush Claw Sword#
 600032#Herosria Zweihander#
 600040#[Not For Sale] Two-Handed Sword#
 600041#Execution Great Sword#
 600044#Raid Human Masamune#
+600079#Orrivane Dragon Sword#
 610000#Boosting Katar#
 610003#Blade Katar#
 610006#Avaritia Metal#
@@ -16269,11 +16466,15 @@
 610037#Glacier Katar#
 610039#Meuchler-OSAD#
 610041#Dim Glacier Katar#
+610042#Flush Bolt Crusher#
 610043#Herosria Katar#
 610044#The Ripper#
 610045#Shining Light Katar#
 610053#[Not For Sale] Katar#
+610054#Muqaddas Dayats#
 610056#Raid Human Katra#
+610094#Orrivane Shadow Katar#
+610095#Orrivane Shadow Cakram#
 620003#Power Tornado Booster Axe#
 620004#Patent Avenger#
 620005#Relapse Axe#
@@ -16287,10 +16488,12 @@
 620017#Glacier Mechanic Axe#
 620018#Blasti-OSAD#
 620019#Dim Glacier Mechanic Axe#
+620020#Flush Saw Axe#
 620021#Herosria Giant Axe#
 620022#Divine Buster#
 620027#[Not For Sale] Two-Handed_Axe#
 620032#Raid Human Slaughter#
+620066#Orrivane Mechanical Axe#
 630003#Luxuria Pierce#
 630006#Illusion Brionac#
 630007#Illusion Zephyrus#
@@ -16305,7 +16508,9 @@
 630020#Herosria Lance#
 630026#[Not For Sale] Trident#
 630027#Jupiter Spear#
+630028#Muqaddas Banjiiraa#
 630033#Raid Human Fork#
+630067#Orrivane Dragon Lance#
 640000#Boosting Staff#
 640004#Blue Crystal Staff#
 640005#Pride Stone#
@@ -16330,11 +16535,14 @@
 640031#Solid Staff#
 640033#Glacier Staff#
 640034#Dim Glacier Staff#
+640035#Flush Detecting Staff#
 640036#Devil Wing Staff#
 640037#Destiny Staff#
 640038#Herosria Wizardry Staff#
 640039#Herosria Magical Staff#
+640046#Muqaddas Jaydukhar#
 640048#Raid Human Staff#
+640070#Orrivane Arch Staff#
 650003#Wrath Wheel#
 650004#Patent Huuma Shuriken Clearness#
 650008#Adulter Fides Huuma Shuriken#
@@ -16352,9 +16560,12 @@
 650024#Huuma Shuriken Clearness-LT#
 650025#Glacier Huuma Shuriken#
 650028#Dim Glacier Huuma Shuriken#
+650029#Flush Grinder Huuma Shuriken#
 650030#Herosria Huuma Shuriken#
 650033#Devil Claw#
 650034#Huuma Shuriken Brilliance#
+650063#Orrivane Wheel Shuriken#
+650064#Orrivane Huuma Shuriken#
 700000#IDTest bow#
 700001#Boosting Bow#
 700003#Scarlet Dragon Leather Bow#
@@ -16397,6 +16608,7 @@
 700056#AC-B44-OSAD#
 700057#[Not For Sale] Royal Bow#
 700059#Dim Glacier Bow#
+700060#Flush Bolt Shooter#
 700061#Herosria Rogue Bow#
 700062#Herosria Hunter Bow#
 700063#Herosria Cross Bow#
@@ -16404,7 +16616,11 @@
 700065#Angel Wing Bow#
 700066#Dark Angel Ray Bow#
 700075#[Not For Sale] Kakkung#
+700076#Muqaddas Kahassu#
 700079#Raid Human CrossBow#
+700133#Orrivane Abyss Crossbow#
+700134#Orrivane Wind Bow#
+700135#Orrivane Wind Crossbow#
 800000#IDTest gun#
 800002#Patent Crimson Rose#
 800003#Adulter Fides of Revolver#
@@ -16419,10 +16635,12 @@
 800013#Crimson Rose-LT#
 800014#Glacier Revolver#
 800015#Dim Glacier Revolver#
+800016#Flush Bolt Revolver#
 800017#Herosria Revolver#
 800026#Devil's Bullet#
 800027#Devil Hunter#
 800035#[Not For Sale] Crimson Rose#
+800050#Orrivane Night Pistol#
 810000#Lust Pointer#
 810001#Patent Master Soul Rifle#
 810002#Adulter Fides Rifle#
@@ -16438,6 +16656,7 @@
 810016#Herosria Rifle#
 810026#Screaming Rifle#
 810027#Last Dawn#
+810034#Muqaddas Tabanji#
 810036#[Not For Sale] Master Soul Rifle#
 820000#Lust Shatter#
 820001#Patent Demon Slayer Shot#
@@ -16451,6 +16670,7 @@
 820012#Herosria Shotgun#
 820020#Outlaw Cursed Shotgun#
 820021#Lord of Glory#
+820028#Muqaddas Saka#
 830000#Boosting Gatling#
 830001#Lust Crusher#
 830002#Patent The Black#
@@ -16468,6 +16688,8 @@
 830016#Herosria Gatling Gun#
 830025#RG-5649#
 830026#Lightning Splatter#
+830033#Muqaddas Taliin#
+830048#Orrivane Night Gatling#
 840000#Lust Boom#
 840001#Patent Golden Lord Launcher#
 840002#Adulter Fides Launcher#
@@ -16481,6 +16703,7 @@
 840011#Herosria Launcher#
 840020#Devil Lord Launcher#
 840021#Justice Bomber#
+840028#Muqaddas Naranzak#
 840029#[Not For Sale] Golden Lord Launcher#
 1000000#IDTest event#
 1000005#Booster Weapon Voucher#
@@ -17180,6 +17403,13 @@
 1001186#Soul Magical Water#
 1001188#Temple Magical Water#
 1001189#Venom Magical Water#
+1001198#Source of Pollution#
+1001199#Fragments of Pollution#
+1001200#Crystal of Pollution#
+1001201#Bishop's Relic#
+1001202#Bishop's Holy Water#
+1001203#Mjolnir's Treasure#
+1001204#Mjolnir's Energy#
 1001252#Roaring Effect (Upper)#
 1001253#Shadow Essence#
 1001277#(Raid) Silver Key#
@@ -17353,6 +17583,10 @@
 1002637#Zeny Lucky Coin#
 1002638#Lucky Diamond#
 1002642#Operation Phoenix Footprints (Garment)#
+1002665#Somchai's Steel Fragment#
+1002666#Nim's Shining Object#
+1002667#Mulila's Thread Fragment#
+1002668#Ratcha's Toy Part#
 1002677#Issgard Snow Crystal#
 1002713#Herosria Certificate#
 1002714#Herosria Coin#
@@ -17373,11 +17607,27 @@
 1002789#[100%] Ragnarok Festa Stone CRT (Upper)#
 1002790#[100%] Ragnarok Festa Stone Supreme (Upper)#
 1002791#Costume Enchant Transfer Ticket#
+1002792#Orrivane Fragment#
+1002793#Orrivane Jewel#
 1002798#[Event] All Item Refine 17Up Ticket#
 1002801#Tomb of Reaper#
 1002804#ROL Rideword Certificate#
 1002805#[Event] Cross Event Coin#
 1002806#Ethernal Snow Flower#
+1002857#[6th] Anniversary Jumping Ticket#
+1002858#[6th] Anniversary Silver Coin#
+1002860#[6th] Supreme Crystal#
+1002861#[6th] Flame Crystal#
+1002862#[6th] Earth Crystal#
+1002863#[6th] Death Crystal#
+1002864#[6th] Soul Crystal#
+1002865#[6th] Poison Crystal#
+1002866#[6th] Ice Crystal#
+1002867#[6th] Beach Trash#
+1002868#[6th] Fishing Coin#
+1002869#[Special] Booster Ticket (260)#
+1002870#[6th] Anniversary Ring Enchant Slot2 Ticket#
+1002871#[6th] Anniversary Selection Ticket#
 1002872#Fairy Tale Book#
 1002873#[Event] Songkran Festival Pass#
 1002874#[Event] Songkran Festival Stamp#
@@ -17387,6 +17637,7 @@
 1002934#Light Three Leaf Clover#
 1002935#[Event] Biosphere Report#
 1002938#Key of Magic Time#
+1002983#เหล็กไหลอโยธยา#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
