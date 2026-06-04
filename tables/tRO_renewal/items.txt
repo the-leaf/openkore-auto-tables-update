@@ -10607,7 +10607,7 @@
 31195#Costume Chocolate Mini Hat#
 31200#Costume Wrapping Ribbon#
 31202#Costume Dog Officer#
-31203#Costume Taotaan#
+31203#Costume Tao Gas#
 31207#Costume Dokkebi Mask#
 31237#Costume Pope Ribbon#
 31245#Costume Bell Flower#
@@ -12240,6 +12240,11 @@
 107469#Gray Wolf Forest Moving Ticket#
 107470#Amicitia Moving Ticket#
 107471#Abandoned Pit Moving Ticket#
+107502#Lucky Buff01#
+107503#Lucky Buff02#
+107504#Lucky Buff03#
+107505#Lucky Buff04#
+107512#RO Cross Event Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -14110,6 +14115,7 @@
 315286#Orrivane Orb (Windhawk)#
 315287#Orrivane Orb (Abyss Chaser)#
 315288#Orrivane Orb (Arch Mage)#
+315313#Red Flame Effect#
 400000#Whistle#
 400001#Victorious Wing Ears#
 400002#Victorious Wing Ears#
@@ -14431,6 +14437,7 @@
 401283#Costume Orrivane Crown#
 401319#Costume Dark Night Rune Helm#
 401390#[6th] Ayothaya Helm#
+401426#Costume Mask of Blue Flame#
 410005#Costume Magic Heir#
 410011#Costume Dark Blinkers#
 410012#EXP Advicer#
@@ -14809,6 +14816,7 @@
 420798#Costume Azure Flame Muffler#
 420832#Exotic Temporal Young Leaf-LT#
 420841#All Above Time(Supreme)-LT#
+420864#Baby Gray Wolf In Mouth-LT#
 430001#Costume Helm of Amon Ra#
 430003#[Not For Sale] Fancy Phantom Mask#
 430006#Wanderer's Sakkat#
@@ -17638,6 +17646,10 @@
 1002935#[Event] Biosphere Report#
 1002938#Key of Magic Time#
 1002983#เหล็กไหลอโยธยา#
+1003029#Gray Wolf Leash#
+1003030#Lucky Flame Gas Canister#
+1003031#Red Flame Effect (Upper)#
+1003034#Deilliah Goodknight Coin#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
