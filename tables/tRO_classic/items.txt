@@ -9107,6 +9107,7 @@
 31698#Costume Red Riding Hood#
 31699#Costume Smiling Eyes#
 31700#Costume Hero Scarf#
+31705#Costume Red & White Hat#
 31710#Costume Lace Flower Crown#
 31716#Costume Twinkling Red Eyes#
 31719#Costume Cons of Fire#
@@ -9636,6 +9637,11 @@
 107437#Jaow Pirun Scroll#
 107453#Red Flame Basin Heart#
 107454#Blue Flame Basin Heart#
+107486#Azure Flame Costume Scroll#
+107489#1st Class Shadow Random Box#
+107490#2nd Class Shadow Random Box#
+107491#Expanded Class Shadow Random Box#
+107494#Black Cat Magic Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9940,6 +9946,7 @@
 401044#Costume Petal Hood#
 401045#Costume Evil Druid Hat Black#
 401112#Dragon Warrior Hat#
+401113#Costume Snow Rune Helm#
 401145#[NFS] SnowFlake Tiara#
 401149#Costume Hollgrehenn Aura#
 401198#Capricorn Crown#
@@ -10002,6 +10009,7 @@
 410227#[NFS] Robo Eye#
 410228#Costume Tomboy Fairy#
 410231#Costume Wonderland Tea Party#
+410236#Costume Birdcage Candle Holder#
 410237#[NFS] Bell Pigeon#
 410240#Costume God Rabbit#
 410245#Costume Brother's Keen Eyes#
@@ -10144,6 +10152,7 @@
 420321#Costume Neon Half Long#
 420336#Costume Queen of Calamity#
 420337#Costume Ancient Runes#
+420340#Costume Kitchen Car#
 420346#Costume Angel Raspberry Wig#
 420349#Costume Blue Sunbed#
 420350#Costume Green Sunbed#
@@ -10162,6 +10171,7 @@
 420421#Costume Blue Cat Ears Cape#
 420423#Costume Ink Painting (Day)#
 420424#Costume Ink Painting (Night)#
+420426#Costume White Fox Twin Tail#
 420427#Costume Lunatic Igloo#
 420501#Costume Hot Spring#
 420508#Costume Midgard Insignia#
@@ -10181,6 +10191,7 @@
 420730#Costume Gatchaman, Move Out!#
 420731#Costume Dr.Nambu's Emergency Transmission#
 420743#Costume Spirit Cat#
+420798#Costume Azure Flame Muffler#
 430001#Costume Helm of Amon Ra#
 430003#[NFS] Fancy Phantom Mask#
 430006#Wanderer's Sakkat#
@@ -10470,6 +10481,7 @@
 480517#Costume The Dragon Warrior's Manteau & Staff#
 480518#White Knight Armor#
 480519#[NFS] White Knight Armor #
+480525#Costume Pitaya Garden Parfait#
 480531#Erymanthian Skin#
 480532#[NFS] Erymanthian Skin#
 480537#[NFS] Commander Manteau#
@@ -10688,7 +10700,7 @@
 570074#WOE Instrument#
 570103#[NFS] Awakened Trumpet Shell#
 580002#Barbed Wire Whip K#
-580009#Awakend Barbed Wire Whip K#
+580009#Awakened Barbed Wire Whip K#
 580051#Raid Human Whip#
 580052#[NFS] Barbed Wire Whip K#
 580071#Raid Ocean Whip#
@@ -10807,7 +10819,7 @@
 1000619#World Moving Ticket#
 1000682#Clock Tower Key[Enchant]#
 1000875#Valhalla Idol Effect (Middle)#
-1000896#Fallen Heaven Coin#
+1000896#Black Cat Coin#
 1000923#Jaow Pirun Coin#
 1000965#[Holy] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
