@@ -7671,6 +7671,7 @@
 20548#Costume Popping Poring Aura#
 20549#Costume Aura of the Sea Glow#
 20550#Costume Aura of Violet#
+20551#Costume Light Blue Energy#
 20553#Costume Aura of Pink#
 20556#Costume Aura of Night#
 20558#Costume Aura of Yellow Green#
@@ -11526,6 +11527,11 @@
 101700#WoE Special Candy#
 101701#2022 WoE Special Box#
 101703#Holy Justice Scroll#
+101717#Maximum Mammoth Shadow Earring Box#
+101718#Maximum Mammoth Shadow Pendant Box#
+101719#Maximum Mammoth Shadow Armor Box#
+101720#Maximum Mammoth Shadow Shoes Box#
+101727#Maximum Mammoth Shadow Box#
 101737#[Event] Level Up Battle Pass Box 5#
 101738#[Not for Sale] Fallen Warrior's Headgear 10 Refine Cube#
 101742#ROCxRazerGold Box#
@@ -11545,6 +11551,11 @@
 101773#Holgren's Shadow Smelting Hammer#
 101792#Subject Manteau 12 Refine Cube#
 101793#Melody Scroll#
+101801#Lord Bearer's Shadow Box#
+101802#Lord Bearer's Shadow Earring Box#
+101803#Lord Bearer's Shadow Pendant Box#
+101804#Lord Bearer's Shadow Armor Box#
+101805#Lord Bearer's Shadow Shoes Box#
 101819#Illusion Luanda Weapon 9 Refine Cube#
 101820#Illusion Luanda Weapon 11 Refine Cube#
 101821#Illusion Luanda Armor 9 Refine Cube#
@@ -11775,6 +11786,8 @@
 102543#M.Shadow Earring Box#
 102545#Box of Goodwill#
 102546#Box of Sin#
+102547#Amethyst Fragment Box#
+102548#Snow Flower Ore Box#
 102576#Dark Illusion Gemstone#
 102577#Dark Lord Scroll#
 102586#Lightning Gem Box#
@@ -12245,6 +12258,17 @@
 107504#Lucky Buff03#
 107505#Lucky Buff04#
 107512#RO Cross Event Scroll#
+107537#Record Collection Mix Box#
+107542#Demon God Morocc Scroll#
+107543#Stone Coin Package I June 2026#
+107544#Stone Coin Package II June 2026#
+107545#Stone Coin Package III June 2026#
+107548#(Limited) Enriched Oridecon 150 Pack#
+107549#(Limited) Enriched Elunium 150 Pack#
+107550#Nebula Shadow +10 Smelting Hammer#
+107554#+17 Orrivane Weapon Selection Box#
+107558#+17 Orrivane Crown Selection Box#
+107563#RO Cross Event Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -14116,6 +14140,9 @@
 315287#Orrivane Orb (Abyss Chaser)#
 315288#Orrivane Orb (Arch Mage)#
 315313#Red Flame Effect#
+315321#Orrivane Orb (Dragon Knight)#
+315322#Orrivane Orb (Meister)#
+315323#Orrivane Orb (Imperial Guard)#
 400000#Whistle#
 400001#Victorious Wing Ears#
 400002#Victorious Wing Ears#
@@ -14320,6 +14347,7 @@
 400417#[Not For Sale] Deep Blue Angel Hairband#
 400418#Nymph Green Sapphire#
 400419#[Not For Sale] Nymph Green Sapphire#
+400427#Costume Demi Freyja Hair#
 400432#Costume Heart Chiffon Rabbit#
 400434#Fallen Angel Lost#
 400441#[Not For Sale] Fox Ears Bell Ribbon#
@@ -14377,6 +14405,7 @@
 400789#Costume Sacred Fides of Aurora#
 400791#Evil Marcher Hat-LT#
 400801#Costume Fumi Hausu Doll#
+400803#Costume Muka Sombrero#
 400805#Poenitentia Crown of Divinitas#
 400806#Poenitentia Crown of Potentia#
 400807#Poenitentia Crown of Vigor#
@@ -14435,6 +14464,7 @@
 401281#Orrivane Crown (Hyper Novice)#
 401282#Orrivane Crown (Spirit Handler)#
 401283#Costume Orrivane Crown#
+401284#Costume Wind Rune Helm#
 401319#Costume Dark Night Rune Helm#
 401390#[6th] Ayothaya Helm#
 401426#Costume Mask of Blue Flame#
@@ -14603,6 +14633,7 @@
 410556#Costume Emperor Penguin#
 410561#Snow Fox-LT#
 410576#Costume Eye of Necromancer#
+410582#Costume Nurse Poring#
 410615#Little Garden-LT#
 410616#Floating Ball-LT#
 410643#Little Garden-LT#
@@ -14696,6 +14727,7 @@
 420195#Costume Poooooring Balloon#
 420202#Green Four Clover#
 420203#[Not For Sale] Green Four Clover#
+420204#Costume Juncea Wig#
 420211#Costume Red Sleep Sheep#
 420214#Costume Fallen Angel Valletta#
 420215#Gang Scarf#
@@ -14786,6 +14818,7 @@
 420436#Flutter Butterfly-LT#
 420437#Vassalage Necklace-LT#
 420439#Costume Food Truck#
+420440#Costume Rigel Hair#
 420500#Costume Cherry Blossoms Long Twin Tail #
 420501#Costume Hot Spring#
 420508#Costume Midgard Insignia#
@@ -14839,6 +14872,7 @@
 440014#Costume 1st Runner Up of ROS 2024#
 440015#Costume 2nd Runner Up of ROS 2024#
 440016#Costume 3rd Runner Up of ROS 2024#
+440018#Costume Helm of Galaxia#
 440021#Costume Angeling Bubble#
 440043#Costume Golden Baseball Cap#
 450000#IDTest armor#
@@ -15081,6 +15115,8 @@
 460151#Rose Quartz Shield-LT#
 460152#Sylvan Thorn Guard-LT#
 460166#Falling Star Shield#
+460171#Soul Demon Shield#
+460174#Soul Demon Shield-LT#
 470000#Attacker Booster Greaves#
 470001#Elemental Booster Shoes#
 470002#Defunct Booster Shoes#
@@ -15369,6 +15405,7 @@
 480290#Costume Lord of Death Shield#
 480294#[Not For Sale] Ladon's Skin#
 480295#Costume Spring Festival Sakura Branch#
+480297#Costume Love Bunny Cloak#
 480298#Costume Magic Wonderland#
 480303#Transformation Towel#
 480304#[Not For Sale] Transformation Towel#
@@ -15467,6 +15504,7 @@
 480533#Hero Courage Cape#
 480534#Hero Favor Cape#
 480535#Improved Powered Wing-LT#
+480541#Costume Demi Freyja Wings#
 480555#Costume Lapine Wing#
 480560#Costume Resurrection Bow#
 480582#Costume Three Poring Dango#
@@ -15503,6 +15541,7 @@
 480744#Herosria Blue Angel Wing#
 480745#Herosria Bloody Angel Wing#
 480746#Herosria Golden Angel Wing#
+480748#Costume Doram Hammer#
 480760#Fallen Angel Wing-LT#
 480783#Costume Dark Knight Cloak#
 490004#Attacker Booster Ring#
@@ -15964,6 +16003,9 @@
 491049#Orrivane Ring (Wind Hawk)#
 491050#Orrivane Ring (Abyss Chaser)#
 491051#Orrivane Ring (Arch Mage)#
+491063#Orrivane Ring (Dragon Knight)#
+491064#Orrivane Ring (Meister)#
+491065#Orrivane Ring (Imperial Guard)#
 500000#IDTest weapon#
 500001#Boosting Sword#
 500003#Light Blade#
@@ -16094,6 +16136,7 @@
 510122#[Not For Sale] Red Combat Knife#
 510141#[Event] Fate Dagger#
 510160#Orrivane Abyss Dagger#
+510223#[Event] Golden Dagger#
 520000#Boosting Axe#
 520002#Pride Steel#
 520008#Adulter Fides Axe#
@@ -17650,6 +17693,7 @@
 1003030#Lucky Flame Gas Canister#
 1003031#Red Flame Effect (Upper)#
 1003034#Deilliah Goodknight Coin#
+1003048#[6th] Exchage Demon Doll#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
