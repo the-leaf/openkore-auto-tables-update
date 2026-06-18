@@ -11927,7 +11927,7 @@
 103481#Ragnarok Stars 2024 Scroll#
 103488#[Event] Costume Selection Box#
 103489#[Event] Special Support Box#
-103490#[Event] EXP Potion (180~199)#
+103490#[Event] EXP Potion (180~200)#
 103491#[Event] EXP Potion (200~229)#
 103528#Saint Crown Scroll#
 103542#Spend Promotion Box 3#
@@ -14538,6 +14538,7 @@
 410201#Costume Haunting Skull#
 410202#Costume Ragnarok Go Go#
 410212#Costume Little Abyss Dragon#
+410218#Costume Soccer Ball#
 410219#Costume Jumbo Rabbit#
 410220#Costume Frozen Blinking Eyes#
 410226#Costume Black Rabbit#
@@ -17694,6 +17695,10 @@
 1003031#Red Flame Effect (Upper)#
 1003034#Deilliah Goodknight Coin#
 1003048#[6th] Exchage Demon Doll#
+1003070#Snow Fox Gem#
+1003073#[Event] Soccer Ball#
+1003074#[Event] Midgard Token#
+1003075#[Event] Racing Ticket#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
