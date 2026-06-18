@@ -9642,6 +9642,10 @@
 107490#2nd Class Shadow Random Box#
 107491#Expanded Class Shadow Random Box#
 107494#Black Cat Magic Scroll#
+107512#RO Cross Event Scroll#
+107519#Cancer Scroll#
+107525#Golden Mesarthim Scroll#
+107563#RO Cross Event Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9766,6 +9770,7 @@
 315108#Aries Gem#
 315142#[Event] External's Memory#
 315170#Taurus Gem#
+315314#Cancer Gem#
 400020#Costume Beachball#
 400023#Drooping Thanatos's Dolor#
 400043#Fallen Angel Hairband#
@@ -9961,6 +9966,8 @@
 401322#[NFS] Aries Crown#
 401387#Taurus Crown #
 401388#[NFS] Taurus Crown #
+401427#Cancer Crown #
+401428#[NFS] Cancer Crown #
 410004#Gambler Seal#
 410005#Costume Magic Heir#
 410012#EXP Advicer#
@@ -10409,6 +10416,7 @@
 480240#Mortal Cape#
 480241#[NFS] Mortal Cape#
 480246#Costume Valkyrie Spear#
+480247#Costume Giant Angeling Bag#
 480248#[NFS] Candy Bag Backpack (Physical)#
 480252#Costume Mystic Wing#
 480253#Costume Blue School Bag#
@@ -10432,6 +10440,7 @@
 480309#Bravery Bag#
 480310#Costume Giant Mad Bunny#
 480316#Costume Labrys#
+480318#Costume Divine Phoenix#
 480320#Costume Songkran Aqua Fin Decoration#
 480333#Medical Cape#
 480334#[NFS] Medical Cape#
@@ -10497,6 +10506,7 @@
 480655#Noblesse Attack Manteau#
 480656#Noblesse Magic Manteau#
 480658#Costume Arcanum Corvus Corax#
+480659#Costume Popcorn Bucket (Potion)#
 480667#Costume Three Poring Dango#
 480690#Dragon Warrior Cloak#
 480720#God's Spiritual Earth#
@@ -10622,6 +10632,8 @@
 490988#Phoenix Ring#
 491023#Taurus Ring #
 491024#[NFS] Taurus Ring #
+491058#Cancer Ring #
+491059#[NFS] Cancer Ring #
 500000#IDTest weapon#
 500003#Light Blade#
 500035#Eden Group Super Novice Sword#
@@ -10659,6 +10671,8 @@
 520032#Raid Human Axe#
 520039#Raid Ocean Axe#
 520040#WOE Axe 2#
+520067#Cancer Axe #
+520068#[NFS] Cancer Axe #
 530006#Awakened Aquatic Spear #
 530048#Raid Human Spear#
 530059#Raid Ocean Trident#
@@ -10820,7 +10834,7 @@
 1000682#Clock Tower Key[Enchant]#
 1000875#Valhalla Idol Effect (Middle)#
 1000896#Black Cat Coin#
-1000923#Jaow Pirun Coin#
+1000923#Cancer Coin#
 1000965#[Holy] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
 1001139#Flame Essence#
