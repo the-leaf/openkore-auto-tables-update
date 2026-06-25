@@ -12269,6 +12269,7 @@
 107554#+17 Orrivane Weapon Selection Box#
 107558#+17 Orrivane Crown Selection Box#
 107563#RO Cross Event Box#
+107642#Furious Fox Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -13984,6 +13985,39 @@
 313067#Purple Star Footprint#
 313068#Yellow Star Footprint#
 313069#Red Star Footprint#
+313111#Furious Crystal (Neutral)#
+313112#Furious Crystal (Water)#
+313113#Furious Crystal (Wind)#
+313114#Furious Crystal (Fire)#
+313115#Furious Crystal (Earth)#
+313116#Furious Crystal (Undead)#
+313117#Furious Crystal (Shadow)#
+313118#Furious Crystal (Ghost)#
+313119#Furious Crystal (Holy)#
+313120#Furious Crystal (Poison)#
+313121#Furious Energy (Formless)#
+313122#Furious Energy (Demi-Human)#
+313123#Furious Energy (Dragon)#
+313124#Furious Energy (Plant)#
+313125#Furious Energy (Insect)#
+313126#Furious Energy (Brute)#
+313127#Furious Energy (Fish)#
+313128#Furious Energy (Angel)#
+313129#Furious Energy (Demon)#
+313130#Furious Energy (Undead)#
+313131#POW Assistance#
+313132#POW Enforcement#
+313133#SPL Assistance#
+313134#SPL Enforcement#
+313135#STA Assistance#
+313136#STA Enforcement#
+313137#WIS Assistance#
+313138#WIS Enforcement#
+313139#CON Assistance#
+313140#CON Enforcement (Physical)#
+313141#CON Enforcement (Magical)#
+313142#CRT Assistance#
+313143#CRT Enforcement#
 313347#Time Jewel (Str) Lv.2#
 313348#Time Jewel (Str) Lv.3#
 313349#Time Jewel (Agi) Lv.2#
@@ -14143,6 +14177,9 @@
 315321#Orrivane Orb (Dragon Knight)#
 315322#Orrivane Orb (Meister)#
 315323#Orrivane Orb (Imperial Guard)#
+315361#Orrivane Orb (Shadow Cross)#
+315362#Orrivane Orb (Biolo)#
+315363#Orrivane Orb (Shinkiro & Shiranui)#
 400000#Whistle#
 400001#Victorious Wing Ears#
 400002#Victorious Wing Ears#
@@ -14376,6 +14413,7 @@
 400565#Costume Small Deviling Hat#
 400585#Costume Snowman Hat#
 400604#Costume Black Ribbon Beret#
+400628#Furious Crown (Dragon Knight)#
 400656#Costume White Khalitzburg Knight Helm#
 400664#Costume Drooping Fei-Chai#
 400683#Costume Bell Flower#
@@ -15118,6 +15156,7 @@
 460166#Falling Star Shield#
 460171#Soul Demon Shield#
 460174#Soul Demon Shield-LT#
+460175#Robot Spark Shield#
 470000#Attacker Booster Greaves#
 470001#Elemental Booster Shoes#
 470002#Defunct Booster Shoes#
@@ -15240,6 +15279,7 @@
 470259#[Not For Sale] Zodiac Boots (Mage)#
 470263#Zodiac Boots (Archer)#
 470264#[Not For Sale] Zodiac Boots (Archer)#
+470265#Furious Boots#
 470267#Zodiac Boots (Merchant)#
 470268#[Not For Sale] Zodiac Boots (Merchant)#
 470270#Zodiac Boots (Acolyte)#
@@ -15508,6 +15548,7 @@
 480541#Costume Demi Freyja Wings#
 480555#Costume Lapine Wing#
 480560#Costume Resurrection Bow#
+480566#Costume Immortal Monarch's Wings#
 480582#Costume Three Poring Dango#
 480583#Angel Ribbon Wing (Red)#
 480584#Angel Ribbon Wing (White)#
@@ -16007,6 +16048,10 @@
 491063#Orrivane Ring (Dragon Knight)#
 491064#Orrivane Ring (Meister)#
 491065#Orrivane Ring (Imperial Guard)#
+491066#Furious Ring (Dragon Knight)#
+491067#Orrivane Ring (Shadow Cross)#
+491068#Orrivane Ring (Biolo)#
+491069#Orrivane Ring (Shinkiro & Shiranui)#
 500000#IDTest weapon#
 500001#Boosting Sword#
 500003#Light Blade#
@@ -16492,6 +16537,7 @@
 600040#[Not For Sale] Two-Handed Sword#
 600041#Execution Great Sword#
 600044#Raid Human Masamune#
+600059#Furious Slayer#
 600079#Orrivane Dragon Sword#
 610000#Boosting Katar#
 610003#Blade Katar#
@@ -16562,6 +16608,7 @@
 630027#Jupiter Spear#
 630028#Muqaddas Banjiiraa#
 630033#Raid Human Fork#
+630045#Furious Trident#
 630067#Orrivane Dragon Lance#
 640000#Boosting Staff#
 640004#Blue Crystal Staff#
