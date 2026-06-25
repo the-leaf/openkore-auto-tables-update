@@ -7144,6 +7144,7 @@
 20130#Costume Whisper Tall Hat#
 20132#Costume Test Subject Aura#
 20133#Costume Poring Mascot#
+20134#Costume White Abyssal Knight Helm#
 20140#Costume Horse Hairpin#
 20142#Costume Machoman's Glasses#
 20144#Costume Ancient Elven Ear#
@@ -7291,6 +7292,7 @@
 20517#Costume Giant Cat Bag#
 20518#Costume Gerhard Von Devi Bag#
 20522#Costume Blessings of Soul#
+20524#Costume Shining Angel Wing#
 20525#Costume Bloody Wing#
 20526#Costume Blue Angeling Wing#
 20527#Costume Pink Butterfly Wing#
@@ -7478,6 +7480,9 @@
 22126#Awakening Eden Group Boots V#
 22141#YSF01 Greaves#
 22171#Ancient Hero Boots#
+22202#Incursion Temporal Boots#
+22257#Midgard Cup Sprint Boots#
+22258#[NFS] Incursion Temporal Boots#
 22507#Old Scroll#
 22508#Mark Of Eden Group#
 22511#Fenrir's Power Scroll#
@@ -9221,6 +9226,8 @@
 100390#Ray Knuckle Modification Cube#
 100393#Aquatic Spear Modification Cube#
 100397#Exorcist's Bible Modification Cube#
+100401#Huuma Shuriken Clearness Modification Cube#
+100404#Crimson Rose Modification Cube#
 100492#Field Manual Special#
 100493#Job Manual Special#
 100494#[NFS] Beholder Ring Box II#
@@ -9646,6 +9653,12 @@
 107519#Cancer Scroll#
 107525#Golden Mesarthim Scroll#
 107563#RO Cross Event Box#
+107583#Soccer Cake#
+107584#Midgard Cup Random Hat Box#
+107585#Stone Option Crimson Weapon#
+107587#Incursion Scroll#
+107591#[NFS] Crimson Rose Modification Cube#
+107592#[NFS] Huuma Shuriken Clearness Modification Cube#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9939,6 +9952,7 @@
 400798#[NFS] Master Helmgear#
 400821#Dark Veil#
 400822#[NFS] Dark Veil#
+400899#Costume Unrivaled Crest Hat#
 400913#Costume Mini Toothless#
 400914#Costume Drooping Toothless#
 400925#Melody Drifter Hat#
@@ -9994,6 +10008,7 @@
 410154#Costume Flowery Vision#
 410155#Costume Twin Margaret#
 410157#Costume Happening Clover#
+410160#Costume Magic Celestial Globe#
 410161#Wing Of Bless#
 410162#[NFS] Wing Of Bless#
 410163#Little Elf Ears#
@@ -10011,6 +10026,7 @@
 410202#Costume Ragnarok Go Go#
 410203#Third Eyes#
 410204#[NFS] Third Eyes#
+410218#Costume Soccer Ball#
 410219#Costume Jumbo Rabbit#
 410220#Costume Frozen Blinking Eyes#
 410227#[NFS] Robo Eye#
@@ -10068,6 +10084,7 @@
 410487#Costume Idol's Flower Stage#
 410490#Costume Avenger#
 410491#Costume Viloet Starlight#
+410508#Costume Celestial Integrity#
 410517#Karasu Tengu Mask#
 410518#Crow Tengu Mask#
 410519#Costume Evil Eye of False Gods#
@@ -10376,6 +10393,7 @@
 480058#Costume Wavy Golden Angel Wings#
 480060#Costume Wavy Green Angel Wings#
 480069#Costume Wavy Angel Wings#
+480076#Incursion Temporal Manteau#
 480093#Costume Scepter#
 480095#Costume Giant White Rabbit#
 480096#Costume Haori Coat#
@@ -10435,6 +10453,7 @@
 480289#Costume Moonlight Bell#
 480290#Costume Lord of Death Shield#
 480294#[NFS] Ladon's Skin#
+480298#Costume Magic Wonderland#
 480307#Fallen Angel Wing#
 480308#[NFS] Fallen Angel Wing#
 480309#Bravery Bag#
@@ -10499,6 +10518,7 @@
 480595#Costume Toothless Wings#
 480596#Costume Toothless Hood#
 480609#Costume Dimensional Sword#
+480630#Costume Mechanical Fairy Wing#
 480641#White Manteau#
 480644#Violet Halo#
 480645#Costume Bloody Murderer Knife#
@@ -10512,6 +10532,7 @@
 480720#God's Spiritual Earth#
 480721#[NFS] God's Spiritual Earth#
 480725#Costume Sixth Sense Satan#
+480783#Costume Dark Knight Cloak#
 490014#Noblesse Attack Ring#
 490015#Noblesse Magic Ring#
 490017#Imperial Attack Ring#
@@ -10765,8 +10786,10 @@
 640055#WOE Two-Handed Staff 2#
 640071#Pisces Staff#
 640072#[NFS] Pisces Staff#
+650004#Awakened Huuma Shuriken Clearness#
 650050#Raid Ocean Fuuma Shuriken#
 650051#WOE Huuma Shuriken 2#
+650065#[NFS] Awakened Huuma Shuriken Clearness #
 700000#IDTest bow#
 700003#Scarlet Dragon Leather Bow#
 700013#Awakened Narcissus Bow#
@@ -10779,9 +10802,11 @@
 700129#[NFS] Capricorn Thief Bow#
 700136#[NFS] Awakened Narcissus Bow#
 800000#IDTest gun#
+800002#Awakened Crimson Rose#
 800005#Eden Group Gunslinger Revolver#
 800035#[NFS] Crimson Rose#
 800041#Raid Ocean Revolver#
+800051#[NFS] Awakened Crimson Rose #
 810003#Eden Group Gunslinger Rifle#
 820033#Raid Ocean Shotgun#
 830014#[NFS] The Black#
@@ -10834,7 +10859,7 @@
 1000682#Clock Tower Key[Enchant]#
 1000875#Valhalla Idol Effect (Middle)#
 1000896#Black Cat Coin#
-1000923#Cancer Coin#
+1000923#Incursion Coin#
 1000965#[Holy] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
 1001139#Flame Essence#
@@ -10901,6 +10926,8 @@
 1002811#Darkness Essence#
 1002812#Lost Ancient Record#
 1002982#Seraphim Leaf#
+1003071#Midgard Cup Prediction Coin#
+1003072#Midgard Token#
 1100000#IDTest heal#
 1100011#Monster Bread#
 1100023#Violet Potion#
