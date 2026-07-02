@@ -7292,7 +7292,7 @@
 20517#Costume Giant Cat Bag#
 20518#Costume Gerhard Von Devi Bag#
 20522#Costume Blessings of Soul#
-20524#Costume Shining Angel Wing#
+20524#Costume Shining Angel Wings#
 20525#Costume Bloody Wing#
 20526#Costume Blue Angeling Wing#
 20527#Costume Pink Butterfly Wing#
@@ -9657,8 +9657,11 @@
 107584#Midgard Cup Random Hat Box#
 107585#Stone Option Crimson Weapon#
 107587#Incursion Scroll#
+107589#Razer Costume Box#
 107591#[NFS] Crimson Rose Modification Cube#
 107592#[NFS] Huuma Shuriken Clearness Modification Cube#
+107707#Sixth Sense Scroll#
+107708#Imperial Costume Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -10858,7 +10861,7 @@
 1000619#World Moving Ticket#
 1000682#Clock Tower Key[Enchant]#
 1000875#Valhalla Idol Effect (Middle)#
-1000896#Black Cat Coin#
+1000896#Sixth Sense Coin#
 1000923#Incursion Coin#
 1000965#[Holy] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
