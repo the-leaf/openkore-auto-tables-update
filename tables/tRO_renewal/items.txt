@@ -10702,6 +10702,7 @@
 31499#Costume Easter Egg Shell#
 31500#Costume Sparkler Stick#
 31501#Costume Sparkler Fountain#
+31504#Costume Hungry Fish Hat#
 31509#Costume Fawn Ear#
 31510#Costume Cat Ear Short#
 31512#Costume Tuxedo Rabbit#
@@ -12215,6 +12216,8 @@
 106879#Lapine Box (Ring of Good)#
 106880#Lapine Box (Ring of Evil)#
 106881#Good And Evil Scroll#
+106885#Kumamoto Watermelon#
+106886#Kumamoto Tomato#
 106932#CuteBoy Special Box#
 106934#[6th] Anniversary Jumping Box#
 106935#[6th] Anniversary Linny Lamp Service#
@@ -12270,6 +12273,8 @@
 107558#+17 Orrivane Crown Selection Box#
 107563#RO Cross Event Box#
 107642#Furious Fox Scroll#
+107699#Kumamon Collaboration Package I#
+107705#Kumamon Collaboration Package II#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -14442,6 +14447,7 @@
 400767#Costume Oriental Style Wig#
 400789#Costume Sacred Fides of Aurora#
 400791#Evil Marcher Hat-LT#
+400799#Costume Kumamon Hat#
 400801#Costume Fumi Hausu Doll#
 400803#Costume Muka Sombrero#
 400805#Poenitentia Crown of Divinitas#
@@ -14817,6 +14823,7 @@
 420353#Costume Charisma Extension Twin#
 420357#Costume Baby Seal#
 420358#Costume Experimental Spirit#
+420360#Costume Bell Cat Hair#
 420361#Flame Heart In Mouth#
 420362#[Not For Sale] Flame Heart In Mouth#
 420363#Ice Crystal In Mouth#
@@ -15157,6 +15164,7 @@
 460171#Soul Demon Shield#
 460174#Soul Demon Shield-LT#
 460175#Robot Spark Shield#
+460176#Feather Shield-LT#
 470000#Attacker Booster Greaves#
 470001#Elemental Booster Shoes#
 470002#Defunct Booster Shoes#
@@ -15296,6 +15304,7 @@
 470328#Thanos Boots (Fighter)#
 470424#Aladdin Shoes#
 470442#Ayothaya Adventurer's Boots#
+470456#Ayothaya Adventurer's Boots-LT#
 480000#Attacker Booster Manteau#
 480001#Elemental Booster Muffler#
 480002#Defunct Booster Muffler#
@@ -15547,8 +15556,9 @@
 480535#Improved Powered Wing-LT#
 480541#Costume Demi Freyja Wings#
 480555#Costume Lapine Wing#
+480559#Costume Kumamon Doll#
 480560#Costume Resurrection Bow#
-480566#Costume Immortal Monarch's Wings#
+480566#Costume Wings of the Immortal Lord#
 480582#Costume Three Poring Dango#
 480583#Angel Ribbon Wing (Red)#
 480584#Angel Ribbon Wing (White)#
@@ -15586,6 +15596,7 @@
 480748#Costume Doram Hammer#
 480760#Fallen Angel Wing-LT#
 480783#Costume Dark Knight Cloak#
+480876#Kumamon Doll#
 490004#Attacker Booster Ring#
 490005#Elemental Booster Earring#
 490006#Defunct Booster Earring#
@@ -16052,6 +16063,7 @@
 491067#Orrivane Ring (Shadow Cross)#
 491068#Orrivane Ring (Biolo)#
 491069#Orrivane Ring (Shinkiro & Shiranui)#
+491070#6th Anniversary Ayothaya Ring-LT#
 500000#IDTest weapon#
 500001#Boosting Sword#
 500003#Light Blade#
@@ -17746,6 +17758,8 @@
 1003073#[Event] Soccer Ball#
 1003074#[Event] Midgard Token#
 1003075#[Event] Racing Ticket#
+1003096#Soft Angel Feather#
+1003097#Ayothaya Guide Book#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
