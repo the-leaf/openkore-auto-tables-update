@@ -229,8 +229,8 @@
 754#Racoon Doll#
 756#Rough Oridecon#
 757#Rough Elunium#
-801#[Normal] Sarah & Fenrir Battle Pass#
-802#[Premium] Sarah & Fenrir Battle Pass#
+801#[Normal] Ghost Palace Battle Pass#
+802#[Premium] Ghost Palace Battle Pass#
 805#Mysterious Medal#
 810#Battle Pass Invitation Card#
 811#[Event] Piece of Jigsaw#
@@ -7800,6 +7800,9 @@
 23672#Evil Black Scroll#
 23673#White Black Scroll#
 23675#Geffen Magic Armor Scroll#
+23676#Gray Abrasive (Physical)#
+23677#Gray Abrasive (Magical)#
+23678#Gray Abrasive (Range)#
 23679#Geffen Magic Accessory Scroll#
 23682#Costume Enchant Stone Box 15#
 23706#Charleston Upgrade Part (Melee)#
@@ -8520,6 +8523,7 @@
 27168#Irene High Elder Card#
 27169#Payon Soldier Card#
 27183#Gigantes Card#
+27184#Knight Sakray Card#
 27209#Sealed Q Scaraba Card#
 27210#Sealed Thanatos Card#
 27211#Sealed Baphomet Card#
@@ -9662,6 +9666,7 @@
 107592#[NFS] Huuma Shuriken Clearness Modification Cube#
 107707#Sixth Sense Scroll#
 107708#Imperial Costume Scroll#
+107733#Gemini Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9769,12 +9774,22 @@
 311019#Clockwork Device (Variable Casting)#
 311020#Clockwork Device (Delay)#
 311025#Clockwork Device (CRT)#
+311389#Expert Magician 1Lv#
+311390#Expert Magician 2Lv#
+311391#Expert Magician 3Lv#
+311392#Expert Magician 4Lv#
+311393#Expert Magician 5Lv#
 311395#Hit Plus 1#
 311396#Hit Plus 2#
 311397#Hit Plus 3#
 311398#Hit Plus 4#
 311399#Hit Plus 5#
 311926#Romantic Rose Effect#
+312438#Spirit of Knight Lv.1#
+312439#Spirit of Knight Lv.2#
+312440#Spirit of Knight Lv.3#
+312441#Spirit of Knight Lv.4#
+312442#Spirit of Knight Lv.5#
 313067#Purple Star Footprint#
 313069#Red Star Footprint#
 313559#Panda Footprint#
@@ -9787,6 +9802,7 @@
 315142#[Event] External's Memory#
 315170#Taurus Gem#
 315314#Cancer Gem#
+315391#Gemini Gem#
 400020#Costume Beachball#
 400023#Drooping Thanatos's Dolor#
 400043#Fallen Angel Hairband#
@@ -9985,6 +10001,8 @@
 401388#[NFS] Taurus Crown #
 401427#Cancer Crown #
 401428#[NFS] Cancer Crown #
+401468#Gemini Diadem#
+401469#[NFS] Gemini Diadem#
 410004#Gambler Seal#
 410005#Costume Magic Heir#
 410012#EXP Advicer#
@@ -10188,6 +10206,7 @@
 420353#Costume Charisma Extension Twin#
 420357#Costume Baby Seal#
 420358#Costume Experimental Spirit#
+420360#Costume Bell Cat Hair#
 420373#Heart Card In Mouth#
 420374#Diamond Card In Mouth#
 420375#Clover Card In Mouth#
@@ -10231,6 +10250,7 @@
 430030#Costume Ryu the Owl#
 440000#Costume Shark Hat#
 440010#Costume Bear Head#
+440018#Costume Helm of Galaxia#
 440026#Costume Cat Ears Whisper Cloth#
 440027#Costume Alecsander#
 440028#Costume Watermelon Headphone#
@@ -10517,6 +10537,7 @@
 480532#[NFS] Erymanthian Skin#
 480537#[NFS] Commander Manteau#
 480555#Costume Lapine Wing#
+480566#Costume Wings of the Immortal Lord#
 480591#Costume Glutton Cerberus#
 480595#Costume Toothless Wings#
 480596#Costume Toothless Hood#
@@ -10536,6 +10557,19 @@
 480721#[NFS] God's Spiritual Earth#
 480725#Costume Sixth Sense Satan#
 480783#Costume Dark Knight Cloak#
+480880#Capricorn Manteau#
+480881#Aquarius Manteau#
+480882#Pisces Manteau#
+480883#Aries Manteau#
+480884#Taurus Manteau#
+480885#Gemini Manteau#
+480886#Cancer Manteau#
+480887#Leo Manteau#
+480888#Virgo Manteau#
+480889#Libra Manteau#
+480890#Scorpio Manteau#
+480891#Sagittarius Manteau#
+480892#Ophiuchus Manteau#
 490014#Noblesse Attack Ring#
 490015#Noblesse Magic Ring#
 490017#Imperial Attack Ring#
@@ -10658,6 +10692,8 @@
 491024#[NFS] Taurus Ring #
 491058#Cancer Ring #
 491059#[NFS] Cancer Ring #
+491071#Gemini Ring#
+491072#[NFS] Gemini Ring#
 500000#IDTest weapon#
 500003#Light Blade#
 500035#Eden Group Super Novice Sword#
@@ -10737,6 +10773,8 @@
 570071#Raid Ocean Guitar#
 570074#WOE Instrument#
 570103#[NFS] Awakened Trumpet Shell#
+570104#Gemini Violin#
+570105#[NFS] Gemini Violin#
 580002#Barbed Wire Whip K#
 580009#Awakened Barbed Wire Whip K#
 580051#Raid Human Whip#
@@ -10744,6 +10782,8 @@
 580071#Raid Ocean Whip#
 580074#WOE Whip 2#
 580103#[NFS] Awakened Barbed Wire Whip K #
+580104#Gemini Rope#
+580105#[NFS] Gemini Rope#
 590002#Meteor Striker#
 590003#Saint Mace#
 590011#Awakened Meteor Striker#
@@ -10862,7 +10902,7 @@
 1000682#Clock Tower Key[Enchant]#
 1000875#Valhalla Idol Effect (Middle)#
 1000896#Sixth Sense Coin#
-1000923#Incursion Coin#
+1000923#Gemini Coin#
 1000965#[Holy] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
 1001139#Flame Essence#
@@ -10884,7 +10924,7 @@
 1001679#Advanced Diagnose (Battle Pass)#
 1001680#Doctoral Dissertation (Battle Pass)#
 1001727#Orchestra Concert Ticket#
-1001794#[NFS] Sarah & Fenrir Pass Ticket#
+1001794#[NFS] Ghost Palace Pass Ticket#
 1001805#GOC Coin#
 1001806#Sun God Essence#
 1001832#Reset God's Spirital Ticket#
