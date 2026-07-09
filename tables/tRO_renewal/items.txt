@@ -7337,6 +7337,7 @@
 19718#Costume Outfit Gothic Headdress#
 19721#Costume Outfit Darkness Helm#
 19722#Costume Black Glasses#
+19723#Costume Promethean Crown#
 19724#Costume Outfit Deprote Doll Hat#
 19726#Costume Scarlet Rose#
 19727#Costume Deviling Hat#
@@ -11379,6 +11380,7 @@
 101177#Full Tempenet Shadow Spellbook#
 101178#Reload Shadow Spellbook#
 101179#Spell Caster Shadow Spellbook#
+101180#Trait Status Shadow Spellbook#
 101181#Reload Shadow Box#
 101182#Spell Caster Shadow Mix Box#
 101187#Snow Flower Armor 9 Refine Cube#
@@ -11428,7 +11430,10 @@
 101350#[Not for Sale] Kafra Storage Bell#
 101351#[Not for Sale] Kafra Storage Bell Box (7 Days)#
 101355#OS Weapon Reform Box#
+101359#Major Auto Spell Shadow Spellbook#
+101360#Hasty Shadow Spellbook#
 101361#Durable Shadow Spellbook#
+101362#Perfect Size Shadow Spellbook#
 101363#Upgraded OS Helm Refine Hammer#
 101364#Upgraded OS Weapon Refine Hammer#
 101368#Unidentified Box#
@@ -11490,6 +11495,7 @@
 101519#Circus Costume Scroll#
 101520#Creator Reword Set#
 101521#[Rental] Happy Turtle Hat Package#
+101564#Almighty Shadow Spellbook#
 101571#2nd Solar Armor 11 Refine Cube#
 101574#Shiba Inu Scroll#
 101575#Ro Lover Box#
@@ -11939,6 +11945,8 @@
 103557#Anniversary Popcorn (Spicy Horror Flavor)#
 103571#White Knight Mantle 12 Refine Cube#
 103572#Shibasays Scroll#
+103608#Zonda Support#
+103609#Battle Buff#
 103629#Shadow Random Mix (EXP)#
 103630#Starter Package 2024 I#
 103631#Starter Package 2024 II#
@@ -11950,6 +11958,7 @@
 103671#[5th] Anniversary Gift Box#
 103672#Gem Pick Ticket Package I#
 103673#Gem Pick Ticket Package II#
+103675#Mysterious Fruit 5 ea Basket#
 103676#Together Scroll#
 103678#Thanos Gear 11 Refine Cube#
 103679#[Event] Modified Thanos Forging Hammer#
@@ -12275,6 +12284,8 @@
 107642#Furious Fox Scroll#
 107699#Kumamon Collaboration Package I#
 107705#Kumamon Collaboration Package II#
+107745#Upgrade Ayothaya Refine Hammer#
+107746#Mystical Pass Shadow Spellbook#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -12315,6 +12326,7 @@
 200378#Super Sonic Package#
 200379#Chaos Emerald Package#
 200463#Character Slot Expansion Card Box#
+200476#Zonda Support Package#
 200504#(Limited) Enriched Oridecon Box (30)#
 200505#(Limited) Enriched Elunium Box (30)#
 200506#(Limited) Refine Ore Box (50)#
@@ -14509,6 +14521,7 @@
 401282#Orrivane Crown (Spirit Handler)#
 401283#Costume Orrivane Crown#
 401284#Costume Wind Rune Helm#
+401315#Costume Fox Ear Beret#
 401319#Costume Dark Night Rune Helm#
 401390#[6th] Ayothaya Helm#
 401426#Costume Mask of Blue Flame#
@@ -14679,6 +14692,8 @@
 410561#Snow Fox-LT#
 410576#Costume Eye of Necromancer#
 410582#Costume Nurse Poring#
+410608#Costume Ear Of Bloody Flame#
+410609#Costume Nine-Tailed Fox#
 410615#Little Garden-LT#
 410616#Floating Ball-LT#
 410643#Little Garden-LT#
@@ -14865,6 +14880,7 @@
 420437#Vassalage Necklace-LT#
 420439#Costume Food Truck#
 420440#Costume Rigel Hair#
+420445#Costume Poncho#
 420500#Costume Cherry Blossoms Long Twin Tail #
 420501#Costume Hot Spring#
 420508#Costume Midgard Insignia#
@@ -15595,6 +15611,7 @@
 480746#Herosria Golden Angel Wing#
 480748#Costume Doram Hammer#
 480760#Fallen Angel Wing-LT#
+480780#Costume Nine-Tailed Fox of Blazing Crimson Flames#
 480783#Costume Dark Knight Cloak#
 480876#Kumamon Doll#
 490004#Attacker Booster Ring#
@@ -17581,6 +17598,7 @@
 1001831#[Event] 4th Class Pre-Event Invitation#
 1001860#Tears of Fury (High)#
 1001861#Tears of Fury (Medium)#
+1001865#Mysterious Fruit#
 1001872#Time Jewelry Amulet Blessing#
 1001873#Not For Sale 2024 Selection Tier1 Ticket#
 1001879#[Event] 4th Test Pass#
