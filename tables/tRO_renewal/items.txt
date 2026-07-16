@@ -14127,6 +14127,7 @@
 314064#[5th] Angel Sprit Group F II#
 314065#[5th] Angel Sprit Group F III#
 314066#ROS 2025 Footprint#
+314094#Blue Spirit Effect#
 314171#Toothless Footprints#
 314172#Bouncing Toothless Footprints#
 314175#Greed#
@@ -14490,6 +14491,7 @@
 400960#Heroic Hairband (Biolo)#
 400961#Heroic Hairband (Meister) - LT#
 400962#Heroic Hairband (Biolo) - LT#
+401086#Midgard Headgear of the Sun God#
 401113#Costume Snow Rune Helm#
 401114#Costume Asgard Wing Hairband#
 401149#Costume Hollgrehenn Aura#
@@ -17652,6 +17654,7 @@
 1002134#Legendary Fur#
 1002135#New Year Jumping Ticket#
 1002136#[5th] Angel Spirit Z Ticket#
+1002193#Blue Spirit Effect (Middle)#
 1002224#Viking Token#
 1002239#Toothless Footprints (Garment)#
 1002240#Bouncing Toothless Footprints (Garment)#
@@ -17778,6 +17781,8 @@
 1003075#[Event] Racing Ticket#
 1003096#Soft Angel Feather#
 1003097#Ayothaya Guide Book#
+1003105#[Event] Guild War Coin#
+1003106#Stone of the Sun God#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
