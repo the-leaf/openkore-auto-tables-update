@@ -4690,6 +4690,7 @@
 9130#[SR] Chaotic Baphomet Jr. Egg#
 9131#Fire Golem Egg#
 9132#[SSR] Abysmal Knight Egg#
+9134#[SSR] White Knight Egg#
 9137#[SSR] Baphomet Egg#
 9139#[SR]Dark Illusion Egg#
 9140#[SSR] Blue Moon Loli Ruri Egg#
@@ -7135,6 +7136,7 @@
 20069#Costume Gryphon Hairband#
 20076#Costume Idun Wing Ears#
 20077#Costume Wing Style Spectacle#
+20092#Costume Sales Banner#
 20099#Costume Fairy Kid#
 20101#Costume Bragi Wing Ears#
 20102#Costume Horse King#
@@ -9667,6 +9669,7 @@
 107707#Sixth Sense Scroll#
 107708#Imperial Costume Scroll#
 107733#Gemini Scroll#
+107760#Record of Twilight Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -10581,7 +10584,9 @@
 490209#[NFS]Angel Egg#
 490212#[NFS] Spica Necklace#
 490228#[NFS] Fidelity Necklace#
+490229#Record of Thief#
 490230#Fidelity Necklace#
+490231#[Not For Sale] Record of Thief#
 490236#Double Badge#
 490237#[NFS] Double Badge#
 490265#Inception Ring#
@@ -10590,6 +10595,8 @@
 490268#[NFS] Shadow Ring#
 490282#Kenshi Gauntlet#
 490283#[NFS] Kenshi Gauntlet#
+490288#Record of Mage#
+490289#[Not for Sale] Record of Mage#
 490295#Armaia Belt#
 490296#[NFS] Armaia Belt#
 490308#1st Golden Ring#
@@ -10901,7 +10908,7 @@
 1000619#World Moving Ticket#
 1000682#Clock Tower Key[Enchant]#
 1000875#Valhalla Idol Effect (Middle)#
-1000896#Sixth Sense Coin#
+1000896#Twilight Coin#
 1000923#Gemini Coin#
 1000965#[Holy] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
