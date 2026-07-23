@@ -6425,6 +6425,7 @@
 15858#Costume Choco Banana Hat#
 15877#Costume Pray Cherry Blossom#
 15888#Costume Dragon Claw Helm#
+15893#Costume Helm Of Sun#
 15919#Costume Domovoy#
 15925#Costume Splash Hat#
 15926#Costume Beer Server#
@@ -7493,6 +7494,7 @@
 20069#Costume Gryphon Hairband#
 20071#Costume Baby Wolf In Mouth#
 20076#Costume Idun Wing Ears#
+20092#Costume Sales Banner#
 20099#Costume Ljosalfar#
 20102#Costume Horse King#
 20103#Costume Drooping Panda#
@@ -7585,6 +7587,7 @@
 20325#Costume Little Aquarium#
 20335#Costume Teardrops#
 20336#Costume Tanghulu in Mouth#
+20344#Costume Happy Balloon#
 20347#Costume Poring Pirate Hat#
 20349#Costume FlyingGalapago#
 20373#Costume Watermelon Hat#
@@ -9199,12 +9202,18 @@
 24869#M. Hyper Novice Shadow Shoes#
 24870#M. Hyper Novice Shadow Earring#
 24871#M. Hyper Novice Shadow Pendant#
+24872#Full Power Shadow Armor#
+24873#Full Power Shadow Shoes#
 24874#Full Rate Shadow Armor#
 24875#Full Rate Shadow Shoes#
+24876#Focusing Shadow Pendant#
+24877#Focusing Shadow Earring#
 24878#Stout Shadow Pendant#
 24879#Stout Shadow Earring#
 24883#Full Spell Shadow Armor#
 24884#Full Spell Shadow Shoes#
+24885#Centering Shadow Pendant#
+24886#Centering Shadow Earring#
 24887#Witty Shadow Pendant#
 24888#Witty Shadow Earring#
 25000#SP Absorption Stone (Upper)#
@@ -12286,6 +12295,8 @@
 107705#Kumamon Collaboration Package II#
 107745#Upgrade Ayothaya Refine Hammer#
 107746#Mystical Pass Shadow Spellbook#
+107786#Jasmine Blessing Scroll#
+107792#ROS 2026 Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -12653,6 +12664,23 @@
 300784#Shadow Cross Dim Crystal#
 300785#Shinkiro&Shiranui Dim Crystal#
 300798#6th Anniversary Card#
+300912#Upgrade Arch Mage Card#
+300913#Upgrade Elemental Master Card#
+300914#Upgrade Meister Card#
+300917#Upgrade Biolo Card#
+300918#Upgrade Cardinal Card#
+300919#Upgrade Inquisitor Card#
+300920#Upgrade Shadow Cross Card#
+300921#Upgrade Abyss Chaser Card#
+300922#Upgrade Windhawk Card#
+300923#Upgrade Trouvere Card#
+300924#Upgrade Soul Ascetic Card#
+300925#Upgrade Shiranui Card#
+300926#Upgrade Shinkiro Card#
+300927#Upgrade Night Watch Card#
+300928#Upgrade Hyper Novice Card#
+300929#Upgrade Spirit Handler Card#
+300934#Ragnarok Stars 2026 Card#
 310000#Sniper Stone II (Upper)#
 310001#Sniper Stone II (Middle)#
 310002#Sniper Stone II (Lower)#
@@ -14198,6 +14226,10 @@
 315361#Orrivane Orb (Shadow Cross)#
 315362#Orrivane Orb (Biolo)#
 315363#Orrivane Orb (Shinkiro & Shiranui)#
+315411#Upgrade Sky Emperor Card#
+315412#Orrivane Orb (Cardinal)#
+315413#Orrivane Orb (Sky Emperor)#
+315414#Orrivane Orb (Hyper Novice)#
 400000#Whistle#
 400001#Victorious Wing Ears#
 400002#Victorious Wing Ears#
@@ -14433,6 +14465,7 @@
 400604#Costume Black Ribbon Beret#
 400628#Furious Crown (Dragon Knight)#
 400656#Costume White Khalitzburg Knight Helm#
+400662#Furious Crown (Elemental Master)#
 400664#Costume Drooping Fei-Chai#
 400683#Costume Bell Flower#
 400692#Costume Gold Paeonia#
@@ -14527,6 +14560,7 @@
 401319#Costume Dark Night Rune Helm#
 401390#[6th] Ayothaya Helm#
 401426#Costume Mask of Blue Flame#
+401483#ROS 2026 Pheonix Glory Crown#
 410005#Costume Magic Heir#
 410011#Costume Dark Blinkers#
 410012#EXP Advicer#
@@ -14911,6 +14945,7 @@
 420759#Reaper Of Tomb-LT#
 420797#[Event] Songkran Festival Drink#
 420798#Costume Azure Flame Muffler#
+420831#Costume Gold Imperial Glory#
 420832#Exotic Temporal Young Leaf-LT#
 420841#All Above Time(Supreme)-LT#
 420864#Baby Gray Wolf In Mouth-LT#
@@ -15183,6 +15218,9 @@
 460174#Soul Demon Shield-LT#
 460175#Robot Spark Shield#
 460176#Feather Shield-LT#
+460178#Ignis Flame Guard#
+460179#Ignis Flame Guard-LT#
+460180#Forbidden Grimoire-LT#
 470000#Attacker Booster Greaves#
 470001#Elemental Booster Shoes#
 470002#Defunct Booster Shoes#
@@ -15611,6 +15649,7 @@
 480744#Herosria Blue Angel Wing#
 480745#Herosria Bloody Angel Wing#
 480746#Herosria Golden Angel Wing#
+480747#Costume Knight Order Sword & Shield#
 480748#Costume Doram Hammer#
 480760#Fallen Angel Wing-LT#
 480780#Costume Nine-Tailed Fox of Blazing Crimson Flames#
@@ -16083,6 +16122,12 @@
 491068#Orrivane Ring (Biolo)#
 491069#Orrivane Ring (Shinkiro & Shiranui)#
 491070#6th Anniversary Ayothaya Ring-LT#
+491074#White Furious Ring (Elemental Master)#
+491075#White Furious Ring (Dragon Knight)#
+491076#Orrivane Ring (Cardinal)#
+491077#Orrivane Ring (Sky Emperor)#
+491078#Orrivane Ring (Hyper Novice)#
+491079#Ragnarok Stars 2026 Ring (Right)#
 500000#IDTest weapon#
 500001#Boosting Sword#
 500003#Light Blade#
@@ -16302,6 +16347,8 @@
 540074#Muqaddas Kitab#
 540075#Muqaddas Kajuza#
 540076#Raid Human Magic Book#
+540090#Furious Master Spellbook#
+540091#Furious Grimoire#
 540128#Orrivane Saint Book#
 540129#Orrivane Elemental Magic Book#
 540130#Orrivane Elemental Spell Book#
@@ -17595,7 +17642,7 @@
 1001749#Lucky Metal#
 1001754#The Honor Headstone#
 1001785#Landverse Special Enchant Exotic Boots#
-1001802#ROS 2025 Coin#
+1001802#ROS Coin#
 1001814#Golden Apple#
 1001831#[Event] 4th Class Pre-Event Invitation#
 1001860#Tears of Fury (High)#
@@ -17665,19 +17712,19 @@
 1002286#ROS 2025 Footprint (Garment)#
 1002305#Wonder Star Egg#
 1002311#MVP Q-Pet Coin#
-1002318#ROS 2025 Predict Ticket#1#
-1002319#ROS 2025 Predict Ticket#2#
-1002320#ROS 2025 Predict Ticket#3#
-1002321#ROS 2025 Predict Ticket#4#
-1002322#ROS 2025 Predict Ticket#5#
-1002323#ROS 2025 Predict Ticket#6#
-1002324#ROS 2025 Predict Ticket#7#
-1002325#ROS 2025 Predict Ticket#8#
-1002326#ROS 2025 Predict Ticket#9#
-1002327#ROS 2025 Predict Ticket#10#
-1002328#ROS 2025 Predict Ticket#11#
-1002329#ROS 2025 Predict Ticket#12#
-1002330#ROS 2025 Predict Ticket#13#
+1002318#ROS Predict Ticket#1#
+1002319#ROS Predict Ticket#2#
+1002320#ROS Predict Ticket#3#
+1002321#ROS Predict Ticket#4#
+1002322#ROS Predict Ticket#5#
+1002323#ROS Predict Ticket#6#
+1002324#ROS Predict Ticket#7#
+1002325#ROS Predict Ticket#8#
+1002326#ROS Predict Ticket#9#
+1002327#ROS Predict Ticket#10#
+1002328#ROS Predict Ticket#11#
+1002329#ROS Predict Ticket#12#
+1002330#ROS Predict Ticket#13#
 1002365#White Knight Sword#
 1002366#[Event] Nebula Armor Enchant Selection Slot 3#
 1002367#[Event] Nebula Armor Enchant Selection Slot 2#
@@ -17783,6 +17830,7 @@
 1003097#Ayothaya Guide Book#
 1003105#[Event] Guild War Coin#
 1003106#Stone of the Sun God#
+1003107#[Event] Selection Coupon#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
