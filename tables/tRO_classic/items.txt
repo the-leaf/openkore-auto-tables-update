@@ -232,6 +232,7 @@
 801#[Normal] Ghost Palace Battle Pass#
 802#[Premium] Ghost Palace Battle Pass#
 805#Mysterious Medal#
+807#[Event] Level Up Battle Pass Ticket#
 810#Battle Pass Invitation Card#
 811#[Event] Piece of Jigsaw#
 813#[Event] Special Enchant Temporal & Diabolus Ticket#
@@ -9630,6 +9631,8 @@
 106861#[NFS]Narcissus Bow Modification Cube#
 106862#[NFS]Exorcist's Bible Modification Cube#
 106863#Golden Holy Scroll#
+106885#Kumamoto Watermelon#
+106886#Kumamoto Tomato#
 106887#Necromancer Scroll#
 106891#CuteBoy Special Box#
 106965#Aries Scroll#
@@ -9670,6 +9673,9 @@
 107708#Imperial Costume Scroll#
 107733#Gemini Scroll#
 107760#Record of Twilight Scroll#
+107813#Kumamon Collaboration Package I#
+107814#Kumamon Collaboration Package II#
+107820#Leo Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9804,8 +9810,10 @@
 315108#Aries Gem#
 315142#[Event] External's Memory#
 315170#Taurus Gem#
+315313#Red Flame Effect#
 315314#Cancer Gem#
 315391#Gemini Gem#
+315643#Leo Gem#
 400020#Costume Beachball#
 400023#Drooping Thanatos's Dolor#
 400043#Fallen Angel Hairband#
@@ -9972,6 +9980,7 @@
 400789#Costume Sacred Fides of Aurora#
 400797#Master Helmgear#
 400798#[NFS] Master Helmgear#
+400799#Costume Kumamon Hat#
 400821#Dark Veil#
 400822#[NFS] Dark Veil#
 400899#Costume Unrivaled Crest Hat#
@@ -10006,6 +10015,8 @@
 401428#[NFS] Cancer Crown #
 401468#Gemini Diadem#
 401469#[NFS] Gemini Diadem#
+401489#Leo Crown#
+401490#[NFS] Leo Crown#
 410004#Gambler Seal#
 410005#Costume Magic Heir#
 410012#EXP Advicer#
@@ -10222,6 +10233,7 @@
 420424#Costume Ink Painting (Night)#
 420426#Costume White Fox Twin Tail#
 420427#Costume Lunatic Igloo#
+420439#Costume Food Truck#
 420501#Costume Hot Spring#
 420508#Costume Midgard Insignia#
 420511#Costume Over Cloud#
@@ -10540,6 +10552,7 @@
 480532#[NFS] Erymanthian Skin#
 480537#[NFS] Commander Manteau#
 480555#Costume Lapine Wing#
+480559#Costume Kumamon Doll#
 480566#Costume Wings of the Immortal Lord#
 480591#Costume Glutton Cerberus#
 480595#Costume Toothless Wings#
@@ -10560,6 +10573,7 @@
 480721#[NFS] God's Spiritual Earth#
 480725#Costume Sixth Sense Satan#
 480783#Costume Dark Knight Cloak#
+480876#Kumamon Doll#
 480880#Capricorn Manteau#
 480881#Aquarius Manteau#
 480882#Pisces Manteau#
@@ -10701,6 +10715,8 @@
 491059#[NFS] Cancer Ring #
 491071#Gemini Ring#
 491072#[NFS] Gemini Ring#
+491082#Leo Ring#
+491083#[NFS] Leo Ring#
 500000#IDTest weapon#
 500003#Light Blade#
 500035#Eden Group Super Novice Sword#
@@ -10801,6 +10817,8 @@
 590094#[NFS] Meteor Striker#
 590115#Valkyrie Hammer#
 590125#[NFS] Awakened Meteor Striker #
+590135#Leo Mace#
+590136#[NFS] Leo Mace#
 600000#IDTest bothhand#
 600004#Dragonic Slayer#
 600040#[NFS] Two-Handed Sword#
@@ -10909,7 +10927,7 @@
 1000682#Clock Tower Key[Enchant]#
 1000875#Valhalla Idol Effect (Middle)#
 1000896#Twilight Coin#
-1000923#Gemini Coin#
+1000923#Leo Coin#
 1000965#[Holy] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
 1001139#Flame Essence#
@@ -10949,6 +10967,7 @@
 1002224#Viking Token#
 1002239#Toothless Footprints (Garment)#
 1002240#Bouncing Toothless Footprints (Garment)#
+1002272#Super High Grade Lubricant#
 1002381#Mid Powder#
 1002382#Mid Missile Button#
 1002435#[NFS] Experience Potion 50%#
@@ -10976,6 +10995,7 @@
 1002811#Darkness Essence#
 1002812#Lost Ancient Record#
 1002982#Seraphim Leaf#
+1003031#Red Flame Effect (Upper)#
 1003071#Midgard Cup Prediction Coin#
 1003072#Midgard Token#
 1100000#IDTest heal#
