@@ -4756,6 +4756,9 @@
 9140#Blue Moon Loli Ruri Egg#
 9141#Wild Rose Egg#
 9142#Eddga Egg#
+9145#Copo Egg#
+9146#Grey Icewind Egg#
+9147#Icewind Egg#
 9148#Dark Lord Egg#
 9155#Hornet Egg#
 9156#Chao Egg#
@@ -7486,6 +7489,7 @@
 20046#Costume Decoration Bluerose#
 20047#Costume Cherry Blossom Hairpin#
 20048#Costume Wind Of The Prairie#
+20049#Costume Giant Band Aid#
 20052#Costume AFK HAT#
 20055#Costume Ghost Bandana#
 20057#Costume Feather Bonnet#
@@ -8374,6 +8378,7 @@
 23779#Weapon Modification Device(Magic)#
 23780#High-Grade Weapon Modification Device(Magic)#
 23781#Finest Weapon Modification Device(Magic)#
+23806#Ancient Heros Weapon Box#
 23815#Magma Essence#
 23817#신비의 조합서 묶음#
 23898#[Not For Sale] Power Booster#
@@ -10894,6 +10899,7 @@
 32237#Celine's Brooch K#
 32238#Illusion Morpheus's Ring#
 32239#Illusion Morpheus's Bracelet#
+32245#Thought Ring#
 32248#Safety Pendant R#
 32249#Safety Pendant B#
 32250#Safety Epaulet R#
@@ -11250,6 +11256,7 @@
 100700#Special Twins Refine Box#
 100704#Heart Pocket Scroll#
 100705#[Scroll] Magnificat Scroll#
+100706#Ancient Heros Will#
 100710#EXP Advisor Remodeling Device#
 100712#Aquarius Scroll#
 100721#Costume Enchant Stone Box 23#
@@ -11258,12 +11265,14 @@
 100724#Spring Energy#
 100725#Spring Energy (Magic)#
 100727#Booster Pack (230)#
+100742#Awakened Ancient Heros Weapon Box#
 100744#Hero Weapon Modification Device (Melee)#
 100745#Hero Weapon Modification Device (Magical)#
 100746#Weapon Modification Box (Lower)#
 100747#Weapon Modification Box (Medium)#
 100748#Weapon Reform Box (High#
 100749#Cybertron Scroll#
+100753#Ancient Hero Awakening Cube#
 100757#Old Hat Box V.2#
 100758#Lapine Box (Old Hat Box)#
 100780#Songkran Egg#
@@ -11736,6 +11745,9 @@
 102193#Costume Enchant Stone Box 30#
 102196#2023 New Year Scroll#
 102198#Falconer Scroll#
+102202#Fatty Ice Gangu#
+102227#Glacier Armor 9 Refine Cube#
+102228#Dim Glacier Armor Refinement Device#
 102229#Capricorn Scroll#
 102233#Peaceful Scroll#
 102239#Exotic Temporal 13 Refine Cube#
@@ -11804,6 +11816,30 @@
 102546#Box of Sin#
 102547#Amethyst Fragment Box#
 102548#Snow Flower Ore Box#
+102550#Antiquity of Glast Heim (Curse-swallowed King)#
+102551#Antiquity of Glast Heim (Curse-swallowed King (Hard))#
+102552#Antiquity of Glast Heim (Phantom of Amdarais)#
+102553#Antiquity of Glast Heim (Phantom of Himmelmez)#
+102554#Antiquity of Glast Heim (Amdarais)#
+102555#Antiquity of Glast Heim (Realized Amdarais)#
+102556#Antiquity of Cor (Miguel)#
+102557#Antiquity of Cor (EL-A17T)#
+102558#Antiquity of Mansion (Meow)#
+102559#Antiquity of Mansion (Sweety)#
+102560#Antiquity of Mansion (Red Pepper (Kappa))#
+102561#Antiquity of Mansion (Red Pepper (Lambda))#
+102562#Antiquity of Villa (Twisted God)#
+102563#Antiquity of Issgard (Juncea)#
+102564#Antiquity of Issgard (Aquila)#
+102565#Antiquity of Issgard (Aquila (First Class))#
+102566#Antiquity of Issgard (Fallen Angel Slug)#
+102567#Antiquity of Issgard (Ultimate Lasgand)#
+102568#Antiquity of Issgard (Ultimate Lasgand (Hard))#
+102569#Antiquity of Toy Factory (Celine Kimi)#
+102570#Antiquity of Remorse (Sakray)#
+102571#Antiquity of Somatology Dungeon (Unknown Swordsman)#
+102572#Antiquity of Thanatos Tower (Memory of Thanatos)#
+102573#Antiquity of Crash Site (Unidentified Creature)#
 102576#Dark Illusion Gemstone#
 102577#Dark Lord Scroll#
 102586#Lightning Gem Box#
@@ -11868,6 +11904,7 @@
 102980#Mystic Pass Invitation#
 102981#[Event] Normal Pass Lv.1 Box#
 102982#[Event] Premium Pass Lv1 Box#
+102985#Speed Booster#
 102986#Spring Party Scroll#
 102988#Costume Guillotine Cross Hair Box#
 103011#Red Devil Scroll#
@@ -12297,6 +12334,10 @@
 107746#Mystical Pass Shadow Spellbook#
 107786#Jasmine Blessing Scroll#
 107792#ROS 2026 Scroll#
+107839#Unlimited All In One Buff 30 Day#
+107840#Unlimited All In One Buff 30 Day Pack#
+107841#[Limited] All In One Buff 30 Day Package#
+107893#Dead Branch 10 Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -12336,6 +12377,7 @@
 200377#Sonic Badge Package#
 200378#Super Sonic Package#
 200379#Chaos Emerald Package#
+200411#Speed Booster Package#
 200463#Character Slot Expansion Card Box#
 200476#Zonda Support Package#
 200504#(Limited) Enriched Oridecon Box (30)#
@@ -12592,6 +12634,27 @@
 300448#Dispol Card#
 300449#Timbers Card#
 300450#Renire Card#
+300454#Glacier Flower Meow Power (Vital)#
+300455#Copo Card#
+300456#Icewind Egg Card#
+300457#Grey Icewind Card#
+300458#Icewind Card#
+300459#Jormungandr Church Bishop Card#
+300460#Jormungandr Guardian Card#
+300461#Suspicious Awin Soldier Card#
+300462#Superior Rgan Warlock Card#
+300463#Superior Rgan Healer Card#
+300464#Jormungandr Church Warlock Card#
+300465#Jormungandr Sanctuary Guardian Card#
+300466#Jormungandr Sanctuary Cleaner Card#
+300467#Angel Iceslug Card#
+300468#Snow Rabbit Slug Card#
+300469#Melibe Slug Card#
+300470#Bear Bug Card#
+300471#Fallen Angel Slug Card#
+300472#Ultimate Lasgand Card#
+300473#Snowstorm Angel Card#
+300474#Sanctuary Cleaning Chief Card#
 300479#[3rd Anniversary] Agony of Royal Knight Card#
 300480#[3rd Anniversary] Grudge of Royal Knight Card#
 300481#[3rd Anniversary] Himmelmez Card#
@@ -12620,6 +12683,7 @@
 300551#A-Ji & Geffen Card#
 300552#Tai-Zi & Niflheim Card#
 300553#4th Anniversary Card#
+300566#Kiel Effect#
 300567#Upgrade Rune Knight Seyren Card#
 300568#Upgrade Royal Guard Randel Card#
 300569#Upgrade Arch Bishop Margaretha Card#
@@ -13831,6 +13895,145 @@
 312011#Warped Spell (Long Ranged)#
 312014#Good Spell#
 312021#Evil Spell#
+312050#Glacier Flower Meow Power (STR)#
+312051#Glacier Flower Meow Power (DEX)#
+312052#Glacier Flower Meow Power (AGI)#
+312053#Glacier Flower Meow Power (INT)#
+312054#Glacier Flower Meow Power (VIT)#
+312055#Glacier Flower Meow Power (LUK)#
+312056#Glacier Flower Meow Power (Physical Defense)#
+312057#Glacier Flower Meow Power (Magical Defense)#
+312058#Glacier Flower Meow Power (POW&STA)#
+312059#Glacier Flower Meow Power (SPL&WIS)#
+312060#Glacier Flower Meow Power (CON&CRT)#
+312061#Glacier Flower Meow Power (Warrior)#
+312062#Glacier Flower Meow Power (Shooter)#
+312063#Glacier Flower Meow Power (Mage)#
+312064#Glacier Flower Meow Power (Berserker)#
+312065#Glacier Flower Meow Power (Marksman)#
+312066#Glacier Flower Meow Power (Grand Mage)#
+312067#Glacier Flower Meow Power (Power Force)#
+312068#Glacier Flower Meow Power (Global Cooldown)#
+312069#Glacier Flower Meow Power (Fast)#
+312070#Glacier Flower Meow Power (Caster)#
+312071#Glacier Flower Meow Power (Guide Attack)#
+312072#Glacier Flower Meow Power (Above All)#
+312073#Glacier Flower Meow Power (Powerful)#
+312074#Glacier Flower Meow Power (Mental)#
+312075#Glacier Flower Meow Power (Robust)#
+312076#Glacier Flower Meow Power (Fixed Casting)#
+312077#Glacier Flower Meow Power (Physical Force)#
+312078#Glacier Flower Meow Power (Magical Force)#
+312079#Glacier Flower Meow Power (Over Power))#
+312080#Glacier Flower Meow Power (Spell Buster)#
+312081#Glacier Flower Meow Power (Firing Shot)#
+312082#Glacier Flower Meow Power (Speed)#
+312083#Glacier Flower Meow Power (Fighting Spirit)#
+312084#Glacier Flower Meow Power (Expert Archer)#
+312085#Glacier Flower Meow Power (Spell)#
+312086#Glacier Flower Meow Power (Fatal)#
+312087#Glacier Flower Meow Power (Physical Power)#
+312088#Glacier Flower Meow Power (Magical Power)#
+312089#Glacier Flower Meow Power (All Force)#
+312090#Glacier Flower Meow Power (Defense)#
+312091#Glacier Flower Meow Power (Attack)#
+312092#Glacier Flower Meow Power (Physical Resistance)#
+312093#Glacier Flower Meow Power (Magical Resistance)#
+312094#Glacier Flower Meow Power (Guardian)#
+312095#Glacier Flower Meow Power (Intelligence)#
+312096#Warmth of the Snake God (Def) Lv.1#
+312097#Warmth of the Snake God (Def) Lv.2#
+312098#Warmth of the Snake God (Def) Lv.3#
+312099#Warmth of the Snake God (Def) Lv.4#
+312100#Warmth of the Snake God (Def) Lv.5#
+312101#Warmth of the Snake God (Def) Lv.6#
+312102#Warmth of the Snake God (Def) Lv.7#
+312103#Warmth of the Snake God (Def) Lv.8#
+312104#Warmth of the Snake God (Def) Lv.9#
+312105#Warmth of the Snake God (Def) Lv.10#
+312106#Warmth of the Snake God (Atk) Lv.1#
+312107#Warmth of the Snake God (Atk) Lv.2#
+312108#Warmth of the Snake God (Atk) Lv.3#
+312109#Warmth of the Snake God (Atk) Lv.4#
+312110#Warmth of the Snake God (Atk) Lv.5#
+312111#Warmth of the Snake God (Atk) Lv.6#
+312112#Warmth of the Snake God (Atk) Lv.7#
+312113#Warmth of the Snake God (Atk) Lv.8#
+312114#Warmth of the Snake God (Atk) Lv.9#
+312115#Warmth of the Snake God (Atk) Lv.10#
+312116#Warmth of the Snake God (Matk) Lv.1#
+312117#Warmth of the Snake God (Matk) Lv.2#
+312118#Warmth of the Snake God (Matk) Lv.3#
+312119#Warmth of the Snake God (Matk) Lv.4#
+312120#Warmth of the Snake God (Matk) Lv.5#
+312121#Warmth of the Snake God (Matk) Lv.6#
+312122#Warmth of the Snake God (Matk) Lv.7#
+312123#Warmth of the Snake God (Matk) Lv.8#
+312124#Warmth of the Snake God (Matk) Lv.9#
+312125#Warmth of the Snake God (Matk) Lv.10#
+312126#Blessing of the Snake God#
+312127#Malice of the Snake God (Def) Lv.1#
+312128#Malice of the Snake God (Def) Lv.2#
+312129#Malice of the Snake God (Def) Lv.3#
+312130#Malice of the Snake God (Def) Lv.4#
+312131#Malice of the Snake God (Def) Lv.5#
+312132#Malice of the Snake God (Def) Lv.6#
+312133#Malice of the Snake God (Def) Lv.7#
+312134#Malice of the Snake God (Def) Lv.8#
+312135#Malice of the Snake God (Def) Lv.9#
+312136#Malice of the Snake God (Def) Lv.10#
+312137#Malice of the Snake God (Atk) Lv.1#
+312138#Malice of the Snake God (Atk) Lv.2#
+312139#Malice of the Snake God (Atk) Lv.3#
+312140#Malice of the Snake God (Atk) Lv.4#
+312141#Malice of the Snake God (Atk) Lv.5#
+312142#Malice of the Snake God (Atk) Lv.6#
+312143#Malice of the Snake God (Atk) Lv.7#
+312144#Malice of the Snake God (Atk) Lv.8#
+312145#Malice of the Snake God (Atk) Lv.9#
+312146#Malice of the Snake God (Atk) Lv.10#
+312147#Malice of the Snake God (Matk) Lv.1#
+312148#Malice of the Snake God (Matk) Lv.2#
+312149#Malice of the Snake God (Matk) Lv.3#
+312150#Malice of the Snake God (Matk) Lv.4#
+312151#Malice of the Snake God (Matk) Lv.5#
+312152#Malice of the Snake God (Matk) Lv.6#
+312153#Malice of the Snake God (Matk) Lv.7#
+312154#Malice of the Snake God (Matk) Lv.8#
+312155#Malice of the Snake God (Matk) Lv.9#
+312156#Malice of the Snake God (Matk) Lv.10#
+312157#Grace of the Snake God#
+312158#Mystery of the Snake God (Def) Lv.1#
+312159#Mystery of the Snake God (Def) Lv.2#
+312160#Mystery of the Snake God (Def) Lv.3#
+312161#Mystery of the Snake God (Def) Lv.4#
+312162#Mystery of the Snake God (Def) Lv.5#
+312163#Mystery of the Snake God (Def) Lv.6#
+312164#Mystery of the Snake God (Def) Lv.7#
+312165#Mystery of the Snake God (Def) Lv.8#
+312166#Mystery of the Snake God (Def) Lv.9#
+312167#Mystery of the Snake God (Def) Lv.10#
+312168#Mystery of the Snake God (Atk) Lv.1#
+312169#Mystery of the Snake God (Atk) Lv.2#
+312170#Mystery of the Snake God (Atk) Lv.3#
+312171#Mystery of the Snake God (Atk) Lv.4#
+312172#Mystery of the Snake God (Atk) Lv.5#
+312173#Mystery of the Snake God (Atk) Lv.6#
+312174#Mystery of the Snake God (Atk) Lv.7#
+312175#Mystery of the Snake God (Atk) Lv.8#
+312176#Mystery of the Snake God (Atk) Lv.9#
+312177#Mystery of the Snake God (Atk) Lv.10#
+312178#Mystery of the Snake God (Matk) Lv.1#
+312179#Mystery of the Snake God (Matk) Lv.2#
+312180#Mystery of the Snake God (Matk) Lv.3#
+312181#Mystery of the Snake God (Matk) Lv.4#
+312182#Mystery of the Snake God (Matk) Lv.5#
+312183#Mystery of the Snake God (Matk) Lv.6#
+312184#Mystery of the Snake God (Matk) Lv.7#
+312185#Mystery of the Snake God (Matk) Lv.8#
+312186#Mystery of the Snake God (Matk) Lv.9#
+312187#Mystery of the Snake God (Matk) Lv.10#
+312188#Glory of the Snake God#
 312189#POW+3#
 312190#STA+3#
 312191#WIS+3#
@@ -14260,6 +14463,8 @@
 400105#Issgard Warrior Crown#
 400106#Issgard Magician Crown#
 400107#Issgard Ranger Crown#
+400109#Boitata Hat#
+400111#Vesper Headgear#
 400112#Costume Shining Santa Hat#
 400116#Celestial Jewel Crown#
 400117#Libra Crown#
@@ -14431,6 +14636,8 @@
 400411#[Not For Sale] Heaven Cage#
 400412#Pink Poo Hat#
 400413#Kafra Employee Band#
+400414#Costume Armored Copo#
+400415#Costume Copo Egg#
 400417#[Not For Sale] Deep Blue Angel Hairband#
 400418#Nymph Green Sapphire#
 400419#[Not For Sale] Nymph Green Sapphire#
@@ -14636,6 +14843,7 @@
 410220#Costume Frozen Blinking Eyes#
 410226#Costume Black Rabbit#
 410227#[Not For Sale] Robo Eye#
+410229#Costume Serpent Crystal#
 410231#Costume Wonderland Tea Party#
 410236#Costume Birdcage Candle Holder#
 410237#[Not For Sale] Bell Pigeon#
@@ -14821,6 +15029,8 @@
 420189#[Not For Sale] Black Scarf#
 420192#Costume White Fox Friendly#
 420195#Costume Poooooring Balloon#
+420199#Ghost Fire#
+420201#Costume White Serpent Hair#
 420202#Green Four Clover#
 420203#[Not For Sale] Green Four Clover#
 420204#Costume Juncea Wig#
@@ -14949,6 +15159,7 @@
 420832#Exotic Temporal Young Leaf-LT#
 420841#All Above Time(Supreme)-LT#
 420864#Baby Gray Wolf In Mouth-LT#
+420930#Snow Aura-LT#
 430001#Costume Helm of Amon Ra#
 430003#[Not For Sale] Fancy Phantom Mask#
 430006#Wanderer's Sakkat#
@@ -14959,6 +15170,12 @@
 430028#Costume Jun the Swan#
 430029#Costume Jinpei the Swallow#
 430030#Costume Ryu the Owl#
+436000#Thanatos's Maeror Mask#
+436001#Thanatos's Despero Mask#
+436002#Thanatos's Odium Mask#
+436003#Thanatos's Odium Mask#
+436004#Thanatos's Despero Mask#
+436005#Thanatos's Maeror Mask#
 436006#Costume Rgan Disguise Tool#
 436007#Costume Awin Winter Headgear#
 436008#Costume Hwa Ho Jom Jong#
@@ -15143,7 +15360,14 @@
 450245#Death Rune Robe#
 450248#[Not For Sale] Robust Magical Armor#
 450253#School Uniform#
+450264#Glacier Armor#
+450265#Glacier Robe#
+450266#Glacier Manteau#
+450267#Glacier Muffler#
+450268#Glacier Shoes#
 450269#Kafra Suit#
+450270#Dim Glacier Armor#
+450271#Dim Glacier Robe#
 450289#Despairing Chain Mail#
 450290#Despairing Saint Robe#
 450292#Despairing Armor#
@@ -15176,6 +15400,7 @@
 460035#Herosria Cranial Shield#
 460036#Herosria Brutal Guard#
 460037#Herosria Cranial Guard#
+460040#Glacier Guard#
 460041#Dark Shield#
 460051#[Not For Sale] Dark Shield#
 460064#Rose Quartz Shield#
@@ -15314,6 +15539,9 @@
 470183#Exotic Temporal Boots-LT#
 470193#Military Boots TH#
 470194#[Not for Sale] Military Boots TH#
+470196#Glacier Boots#
+470197#Dim Glacier Boots#
+470198#Dim Glacier Shoes#
 470205#Astraea Shoes-LT#
 470207#Boots of Good and Evil (Cardinal)#
 470208#Good & Evil Boots (Inquisitor)#
@@ -15361,6 +15589,7 @@
 470424#Aladdin Shoes#
 470442#Ayothaya Adventurer's Boots#
 470456#Ayothaya Adventurer's Boots-LT#
+470460#Aladdin Shoes-LT#
 480000#Attacker Booster Manteau#
 480001#Elemental Booster Muffler#
 480002#Defunct Booster Muffler#
@@ -15504,7 +15733,10 @@
 480280#Costume Big Ribbon Manteau (White)#
 480281#[Not For Sale] Marraco's Skin#
 480282#Costume Ancient Dragon Spear#
+480283#Dim Glacier Manteau#
+480284#Dim Glacier Muffler#
 480285#[Not For Sale] Lindworm's Skin#
+480286#Costume Serpent Shadow#
 480287#Costume Skia Doll#
 480288#Costume Dark Lord Cloak#
 480289#Costume Moonlight Bell#
@@ -15655,6 +15887,7 @@
 480780#Costume Nine-Tailed Fox of Blazing Crimson Flames#
 480783#Costume Dark Knight Cloak#
 480876#Kumamon Doll#
+480908#Ragnarok Stars 2026 Cape#
 490004#Attacker Booster Ring#
 490005#Elemental Booster Earring#
 490006#Defunct Booster Earring#
@@ -15840,6 +16073,10 @@
 490324#[Not For Sale] Falconer Claw#
 490325#Falconer Glove#
 490326#[Not For Sale] Falconer Glove#
+490327#Glacier Ring#
+490328#Glacier Pendant#
+490329#Glacier Earring#
+490330#Glacier Necklace#
 490332#[Not For Sale] Exotic Temporal Ring#
 490333#[Not For Sale] Alice Body Pillow#
 490334#Record of Acolyte#
@@ -16128,6 +16365,7 @@
 491077#Orrivane Ring (Sky Emperor)#
 491078#Orrivane Ring (Hyper Novice)#
 491079#Ragnarok Stars 2026 Ring (Right)#
+491086#Thought Ring-LT#
 500000#IDTest weapon#
 500001#Boosting Sword#
 500003#Light Blade#
@@ -17054,6 +17292,9 @@
 1000281#Advanced Plant Bottle#
 1000282#Episode 16 Clear Ticket#
 1000283#[Event] Episode 16 Clear Ticket#
+1000284#Episode 13 Clear Ticket#
+1000285#Episode 14 Clear Ticket#
+1000286#Episode 15 Clear Ticket#
 1000287#Episode 17 Clear Ticket#
 1000288#Episode 18 Clear Ticket#
 1000289#Device Capsule#
@@ -17447,6 +17688,7 @@
 1000975#Guillotine Cross Stone (Middle)#
 1000976#Guillotine Cross Stone (Lower)#
 1000985#Automatic Equipment Exchange Voucher#
+1000988#Episode 19 Clear Ticket#
 1000989#Level UP Voucher(80~89)#
 1000990#Level UP Voucher(90~98)#
 1000991#Level UP Voucher(150~169)#
@@ -17551,6 +17793,8 @@
 1001145#Hard Dragon Tooth#
 1001146#Solid Iron Piece#
 1001147#Rare Plant Root#
+1001153#Ancient Icewind Egg#
+1001154#Snake Berry#
 1001157#Spiding's Fur#
 1001158#Spiding's Leather#
 1001159#Kagerou Stone (Upper)#
@@ -17587,8 +17831,38 @@
 1001202#Bishop's Holy Water#
 1001203#Mjolnir's Treasure#
 1001204#Mjolnir's Energy#
+1001217#Sacred Cat Whiskers#
+1001218#Magic Recovery Device#
+1001226#Rgan's High Magic Core#
+1001227#Coral Bangle#
+1001228#Shell Hairpin#
+1001229#Seaweed Belt#
+1001230#Cataphract Piece#
+1001231#Squishy Fluorescent Cell (Sour)#
+1001232#Squishy Fluorescent Cell (Salty)#
+1001233#Squishy Fluorescent Cell (Sweet)#
+1001234#Bear Bug Skin#
+1001235#Unknown Canine#
+1001236#Twinkling Snow#
+1001237#Angel's Tail#
+1001238#Mystic Magic Core#
+1001239#Broken Trident#
+1001240#Awin Private's Cap#
+1001241#Awin Private First Class's Cap#
+1001242#Awin Corporal's Cap#
+1001243#Awin Soldier's Cap#
+1001244#Huge Grey Feather#
+1001245#Huge White Feather#
+1001246#Copo's Head Feather#
+1001247#Copo Egg Shell#
+1001248#Pure Magical Ore#
+1001249#Pure Magical Crystal#
+1001250#Pure Magical Extract#
+1001251#Scale of the Snake God#
 1001252#Roaring Effect (Upper)#
 1001253#Shadow Essence#
+1001254#Piece of Corrupted Ymir's Heart#
+1001263#Episode 19 Pass Ticket#
 1001277#(Raid) Silver Key#
 1001278#(Raid) Gold Key#
 1001322#Shinkiro Stone (Garment)#
@@ -17616,6 +17890,12 @@
 1001421#Meister Stone (Garment)#
 1001437#Time Temporal Core#
 1001474#Ring#
+1001478#Pure Diamond#
+1001479#Black Diamond#
+1001480#Golden Diamond#
+1001481#Green Diamond#
+1001482#Blue Diamond#
+1001483#Red Diamond#
 1001549#Sonic Badge#
 1001598#[Event]Costume Ticket#
 1001617#Purple Star Footprint (Garment)#
@@ -17640,8 +17920,13 @@
 1001745#Supreme Lubricant#
 1001746#175 Jumping Ticket#
 1001749#Lucky Metal#
+1001753#Episode 13 Pass Ticket#
 1001754#The Honor Headstone#
+1001755#Episode 14 Pass Ticket#
+1001756#Episode 15 Pass Ticket#
 1001785#Landverse Special Enchant Exotic Boots#
+1001798#Wraith of Thought#
+1001799#Kiel Effect (Lower)#
 1001802#ROS Coin#
 1001814#Golden Apple#
 1001831#[Event] 4th Class Pre-Event Invitation#
@@ -17707,6 +17992,7 @@
 1002240#Bouncing Toothless Footprints (Garment)#
 1002255#Greed Stone (Upper)#
 1002256#Greed Stone (Middle)#
+1002257#Ice Demon Stone#
 1002258#Spend Promotion Coupon#
 1002272#Super High Grade Lubricant#
 1002286#ROS 2025 Footprint (Garment)#
@@ -17831,6 +18117,8 @@
 1003105#[Event] Guild War Coin#
 1003106#Stone of the Sun God#
 1003107#[Event] Selection Coupon#
+1003114#Premium Banana Can#
+1003115#Aladdin Lamp#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
