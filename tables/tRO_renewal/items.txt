@@ -237,8 +237,8 @@
 798#[Event] Fish#
 799#[Event] Peach#
 800#[Event] Crispy Silk#
-801#[Normal] Mystical Pass#
-802#[Premium] Mystical Pass#
+801#[Normal] Battle Pass#
+802#[Premium] Battle Pass#
 803#[Event] Limit Break Racing Cap Ticket#
 804#[Event] Limit Break Enchant Racing Cap Ticket#
 805#Mysterious Medal#
@@ -246,7 +246,7 @@
 807#[Event] Level Up Battle Pass Ticket#
 808#Level Up Battle Pass ticket#
 809#[Event] Mutant Blood#
-810#Mystical Pass Invitation Card#
+810#Battle Pass Invitation Card#
 811#[Event] Piece of Jigsaw#
 812#[Event] Broken Module#
 813#[Event] Special Enchant Temporal Boots Ticket#
@@ -4690,6 +4690,7 @@
 9035#Red Deleter Egg#
 9036#Diabolic Egg#
 9037#Wanderer Egg#
+9038#New Year Doll Egg#
 9042#Loli Ruri Egg#
 9045#Whisper Egg#
 9047#Wicked Nymph Egg#
@@ -4703,6 +4704,7 @@
 9058#Snow Rabbit Egg#
 9059#Tikbalang Egg#
 9062#Novice Poring Egg#
+9064#Elephant Egg#
 9068#Blue Unicorn Egg#
 9069#Mastering Egg#
 9070#Savage Egg#
@@ -4977,6 +4979,7 @@
 11622#Yellow Syrup#
 11623#White Syrup#
 11624#Blue Syrup#
+11625#Gourmet Butter Popcorn#
 11636#Lime Soda#
 11637#Berry Soda#
 11706#Steak#
@@ -9437,7 +9440,7 @@
 25319#Ice Box#
 25320#Suspicious Melon#
 25340#Golden Corn#
-25341#Red Hot Marble #
+25341#Red Hot Marble#
 25342#Healthful Herb#
 25358#Retrieve Data Card#
 25359#Slightly Old Box#
@@ -10649,6 +10652,7 @@
 31302#Costume Black Magenta Ribbon#
 31303#Costume Memory of Noodle#
 31304#Costume Fan of Summer#
+31305#Costume Walking Poring#
 31308#Costume Protect Feathers#
 31313#Costume Fallen Traitor Angel#
 31314#Costume Ghost Holiday#
@@ -11280,8 +11284,10 @@
 100782#Flower of Spring Scroll#
 100783#Major Auto Spell Shadow Mix Box#
 100786#Armor Reform Box (High)#
+100790#Popcorn Festa's Gift#
 100791#Invisible Scroll#
 100807#Oriental Scroll#
+100816#Summer Energy#
 100818#1st Anniversary Jumping Box#
 100821#Reformed Hero Weapon Refine Hammer I#
 100822#Reformed Hero Weapon Refine Hammer II#
@@ -11621,9 +11627,9 @@
 101973#[Not for Sale] Ignis Cap K Combination#
 101974#[Not for Sale] Sagittarius Celestial Coronet K  Combination#
 101975#[Not for Sale] Stripe Hat Combination#
-101976#Treasure Box I (Mystical Pass)#
-101977#Treasure Box II (Mystical Pass)#
-101978#Treasure Box III (Mystical Pass)#
+101976#Treasure Box I (Battle Pass)#
+101977#Treasure Box II (Battle Pass)#
+101978#Treasure Box III (Battle Pass)#
 101996#Strong Bull Scroll#
 101999#Full Moon Costume Scroll#
 102016#Metal Detector Box#
@@ -11846,6 +11852,7 @@
 102587#ROS 2024 Box#
 102588#2025 WoE Special Box#
 102604#Galaxy Wolf Scroll#
+102605#Costume Enchant Stone Box 33#
 102606#Blaze Saint Scroll#
 102631#Cinnamoroll Costume Selection Box#
 102632#Costume Enchant Stone Set I Box#
@@ -11901,7 +11908,7 @@
 102924#Sweet Crepe#
 102925#Melon Parfait#
 102930#Bear Power Scroll#
-102980#Mystic Pass Invitation#
+102980#Battle Pass Invitation#
 102981#[Event] Normal Pass Lv.1 Box#
 102982#[Event] Premium Pass Lv1 Box#
 102985#Speed Booster#
@@ -12338,6 +12345,11 @@
 107840#Unlimited All In One Buff 30 Day Pack#
 107841#[Limited] All In One Buff 30 Day Package#
 107893#Dead Branch 10 Box#
+107902#OneOne Candy Power Up Buffet#
+107903#OneOne Candy Power Up Box#
+107904#(Limited) Silvervine 50 ea Package (Stone Box 33)#
+107910#Battle Pass Reform Box#
+107936#Battle Pass Reform Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -13210,6 +13222,12 @@
 310742#Nebula of Health Lv.1#
 310743#Nebula of Health Lv.2#
 310744#Nebula of Health Lv.3#
+310844#Summer Heat Lv.1#
+310845#Summer Heat Lv.2#
+310846#Summer Heat Lv.3#
+310847#Summer Breeze Lv.1#
+310848#Summer Breeze Lv.2#
+310849#Summer Breeze Lv.3#
 310850#Firework Effect#
 310851#Global Cooldown 1Lv#
 310852#Global Cooldown 2Lv#
@@ -14224,6 +14242,9 @@
 312688#Evil Vigor (Troubadour&Trouvere)#
 312689#Good Vigor (Hyper Novice)#
 312690#Evil Vigor (Hyper Novice)#
+312692#Abyss Chaser Stone (Garment)#
+312693#Troubadour & Trouvere Stone (Garment)#
+312694#Hyper Novice Stone (Garment)#
 312801#Good Vigor (Imperial Guard)#
 312802#Evil Vigor (Imperial Guard)#
 312803#Good Vigor (Arch Mage)#
@@ -14384,6 +14405,11 @@
 314380#Nebula of Melee#
 314382#Nebula of Range#
 314383#Nebula of Magic#
+314661#Hit Physical Stone (Dual)#
+314662#Hit Physical Stone (Upper)#
+314663#Hit Physical Stone (Middle)#
+314664#Hit Physical Stone (Lower)#
+314665#Hit Physical Stone (Garment)#
 314786#Snow Energy Booster#
 314795#Ragnarok Festa WIS (Upper)#
 314796#Ragnarok Festa Supreme (Upper)#
@@ -14763,9 +14789,11 @@
 401282#Orrivane Crown (Spirit Handler)#
 401283#Costume Orrivane Crown#
 401284#Costume Wind Rune Helm#
+401303#Costume Ruck Keeper#
 401315#Costume Fox Ear Beret#
 401319#Costume Dark Night Rune Helm#
 401390#[6th] Ayothaya Helm#
+401424#Costume Ancient Giant Helm#
 401426#Costume Mask of Blue Flame#
 401483#ROS 2026 Pheonix Glory Crown#
 410005#Costume Magic Heir#
@@ -14980,6 +15008,7 @@
 420067#Costume Rabbit Pigtails#
 420069#Costume Lord of Royals#
 420072#Costume Twin Braids (White)#
+420074#Lime Soda in Mouth#
 420076#속박의 목걸이#
 420077#Costume Cat Footprints#
 420078#Costume Ghost Bat#
@@ -15153,11 +15182,13 @@
 420743#Costume Spirit Cat#
 420747#Costume Wishing Sky Lantern#
 420759#Reaper Of Tomb-LT#
+420774#Costume Poporing Soap Pipe#
 420797#[Event] Songkran Festival Drink#
 420798#Costume Azure Flame Muffler#
 420831#Costume Gold Imperial Glory#
 420832#Exotic Temporal Young Leaf-LT#
 420841#All Above Time(Supreme)-LT#
+420855#Costume Cultivation Pod#
 420864#Baby Gray Wolf In Mouth-LT#
 420930#Snow Aura-LT#
 430001#Costume Helm of Amon Ra#
@@ -15381,6 +15412,10 @@
 450400#Red Serpent Dress#
 450435#Improved Powered Suit-LT#
 450517#Kafra Uniform-LT#
+450589#Re-Dim Glacier Armor of Antares#
+450590#Re-Dim Glacier Robe of Sirius#
+450591#Re-Dim Glacier Robe of Vega#
+450592#Re-Dim Glacier Armor of Regulus#
 460003#Feather Shield#
 460004#Illusion Shield I#
 460005#Magic Absorber#
@@ -15856,6 +15891,7 @@
 480595#Costume Toothless Wings#
 480596#Costume Toothless Hood#
 480603#Costume Starrysky Fountainpen#
+480608#Costume Beelzebub's Wings#
 480609#Costume Dimensional Sword#
 480614#Dragon Warrior Cloak#
 480616#Costume Champion ROS 2025 Thailand#
@@ -15886,6 +15922,7 @@
 480760#Fallen Angel Wing-LT#
 480780#Costume Nine-Tailed Fox of Blazing Crimson Flames#
 480783#Costume Dark Knight Cloak#
+480802#Costume Ancient Tao Gunka#
 480876#Kumamon Doll#
 480908#Ragnarok Stars 2026 Cape#
 490004#Attacker Booster Ring#
@@ -17896,6 +17933,9 @@
 1001481#Green Diamond#
 1001482#Blue Diamond#
 1001483#Red Diamond#
+1001487#Abyss Chaser Stone (Garment)#
+1001488#Troubadour & Trouvere Stone (Garment)#
+1001489#Hyper Novice Stone (Garment)#
 1001549#Sonic Badge#
 1001598#[Event]Costume Ticket#
 1001617#Purple Star Footprint (Garment)#
@@ -17906,12 +17946,12 @@
 1001669#Daily Login Card#
 1001672#Real World Garment Enchant Ticket#
 1001674#Rental Biolab Cape 7Days Box#
-1001675#Dexterity Material (Mystical Pass)#
-1001676#Strength Material (Mystical Pass)#
-1001677#Intelligence Material (Mystical Pass)#
-1001678#Basic Research (Mystical Pass)#
-1001679#Advanced Thesis (Mystical Pass)#
-1001680#Doctoral Dissertation (Mystical Pass)#
+1001675#Dexterity Material (Battle Pass)#
+1001676#Strength Material (Battle Pass)#
+1001677#Intelligence Material (Battle Pass)#
+1001678#Basic Research (Battle Pass)#
+1001679#Advanced Thesis (Battle Pass)#
+1001680#Doctoral Dissertation (Battle Pass)#
 1001684#Spray#
 1001727#Orchestra Concert Ticket#
 1001740#Ocean Week Ticket#
@@ -18020,6 +18060,11 @@
 1002382#Mid Missile Button#
 1002392#Infinity Star#
 1002393#Robot Heart#
+1002395#Hit Physical Stone (Dual)#
+1002396#Hit Physical Stone (Upper)#
+1002397#Hit Physical Stone (Middle)#
+1002398#Hit Physical Stone (Lower)#
+1002399#Hit Physical Stone (Garment)#
 1002434#[Event] Hero Token#
 1002436#[Event] Hired Adventure Ticket 1#
 1002437#[Event] Hired Adventure Ticket 2#
@@ -18119,6 +18164,8 @@
 1003107#[Event] Selection Coupon#
 1003114#Premium Banana Can#
 1003115#Aladdin Lamp#
+1003141#[Event] Dimensional Fragment#
+1003142#[Event] Meteorite Crystal#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
