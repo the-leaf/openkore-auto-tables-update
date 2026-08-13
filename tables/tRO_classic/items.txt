@@ -6266,6 +6266,7 @@
 15925#Costume Splash Hat#
 15926#Costume Beer Server#
 15927#[Rental] Happy Turtle Hat#
+15929#[NFS] Lunatic Family Balloon#
 15931#Old Gold Trophy Hat#
 15932#Vassalage Necklace#
 15943#Love Cheeks#
@@ -6998,6 +6999,7 @@
 19718#Costume Outfit Gothic Headdress#
 19721#Costume Outfit Darkness Helm#
 19722#Costume Black Glasses#
+19723#Costume Promethean Crown#
 19724#Costume Outfit Deprote Doll Hat#
 19727#Costume Deviling Hat#
 19728#Costume Outfit Tare Zonda#
@@ -7032,6 +7034,7 @@
 19813#Costume Icecream Hat#
 19815#Costume Lolita Ten Gallon Hat#
 19816#Costume PecoPeco Cap#
+19817#Costume Dragon Breath#
 19823#Costume White Cat Hood#
 19824#Costume Evil Druid Hat#
 19826#Costume Ice Wing Ear#
@@ -8479,7 +8482,7 @@
 26111#Metal Foxtail#
 26112#Probation Foxtail#
 26118#Shadow Staff#
-26178#[Not For Sale] Shadow Staff#
+26178#[NFS] Shadow Staff#
 26180#[NFS] Chilling Cane#
 27012#Kick Step Card#
 27013#Kick and Kick Card#
@@ -9114,6 +9117,7 @@
 31674#Costume Jitterbug Cap#
 31684#Costume Kururinpa Tails#
 31686#Costume Desert Wolf Baby#
+31690#Costume Flame Bird#
 31693#Costume Lunatic Muffler#
 31695#Costume Tree Sprout#
 31698#Costume Red Riding Hood#
@@ -9676,6 +9680,8 @@
 107813#Kumamon Collaboration Package I#
 107814#Kumamon Collaboration Package II#
 107820#Leo Scroll#
+107833#Infernal Flame Costume Scroll#
+107843#Record of Ryujin Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -10070,6 +10076,7 @@
 410236#Costume Birdcage Candle Holder#
 410237#[NFS] Bell Pigeon#
 410240#Costume God Rabbit#
+410241#Costume Ribbon Sweet Party#
 410245#Costume Brother's Keen Eyes#
 410246#Angelic Blessing#
 410248#Costume Tuk Tuk#
@@ -10129,6 +10136,8 @@
 410523#Costume Ifrit's Ear#
 410556#Costume Emperor Penguin#
 410576#Costume Eye of Necromancer#
+410608#Costume Ear of Bloody Flame#
+410609#Costume Nine-Tailed Fox#
 420003#CD In Mouth#
 420005#Feeling of Love#
 420010#Costume Cons of Darkness#
@@ -10572,6 +10581,7 @@
 480720#God's Spiritual Earth#
 480721#[NFS] God's Spiritual Earth#
 480725#Costume Sixth Sense Satan#
+480780#Costume Nine-Tailed Fox of Blaze#
 480783#Costume Dark Knight Cloak#
 480876#Kumamon Doll#
 480880#Capricorn Manteau#
@@ -10597,10 +10607,12 @@
 490147#1st Anniversary Ring#
 490209#[NFS]Angel Egg#
 490212#[NFS] Spica Necklace#
+490221#Record of Swordman#
+490222#[NFS] Record of Swordman#
 490228#[NFS] Fidelity Necklace#
 490229#Record of Thief#
 490230#Fidelity Necklace#
-490231#[Not For Sale] Record of Thief#
+490231#[NFS] Record of Thief#
 490236#Double Badge#
 490237#[NFS] Double Badge#
 490265#Inception Ring#
@@ -10610,7 +10622,7 @@
 490282#Kenshi Gauntlet#
 490283#[NFS] Kenshi Gauntlet#
 490288#Record of Mage#
-490289#[Not for Sale] Record of Mage#
+490289#[NFS] Record of Mage#
 490295#Armaia Belt#
 490296#[NFS] Armaia Belt#
 490308#1st Golden Ring#
@@ -10619,6 +10631,8 @@
 490324#[NFS] Falconer Claw#
 490325#Falconer Glove#
 490326#[NFS] Falconer Glove#
+490334#Record of Acolyte#
+490335#[NFS] Record of Acolyte#
 490338#Nymph Earring#
 490339#[NFS] Nymph Earring#
 490351#Assassin Amulet#
@@ -10920,13 +10934,15 @@
 1000365#Magic Feather Effect (Upper)#
 1000375#Range Stone (Upper)#
 1000376#Range Stone (Lower)#
+1000430#Zodiac Magic Stone#
+1000433#Zodiac Physical Stone#
 1000467#Rebellion Pre-Register Ticket#
 1000552#Evil's Water#
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
 1000682#Clock Tower Key[Enchant]#
 1000875#Valhalla Idol Effect (Middle)#
-1000896#Twilight Coin#
+1000896#Ryujin Coin#
 1000923#Leo Coin#
 1000965#[Holy] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
