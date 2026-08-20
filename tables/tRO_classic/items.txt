@@ -3487,7 +3487,7 @@
 6239#Guarantee Armor 11Up#
 6240#Hi Oridecon#
 6241#Hi Elunium#
-6242#Golden Angeling Coin#
+6242#[Event] RCC Coin#
 6244#Gun Powder#
 6245#Black Powder#
 6246#Yellow Powder#
@@ -9234,8 +9234,10 @@
 100331#Barbed Wire Whip K Modification Cube#
 100361#Meteor Striker Modification Cube#
 100371#Homunculus Tablet#
+100379#Chilling Cane Modification Cube#
 100390#Ray Knuckle Modification Cube#
 100393#Aquatic Spear Modification Cube#
+100396#Blue Crystal Staff Modification Cube#
 100397#Exorcist's Bible Modification Cube#
 100401#Huuma Shuriken Clearness Modification Cube#
 100404#Crimson Rose Modification Cube#
@@ -9347,6 +9349,7 @@
 101432#Songkran Scroll#
 101448#Songkran Water Bottle#
 101450#Summer Set Costume Scroll#
+101482#Freedom Stick Modification Cube#
 101483#Blessed Knife Modification Cube#
 101506#Fairy Tales Scroll#
 101513#[Scroll] STR Biscuit Stick#
@@ -9682,6 +9685,12 @@
 107820#Leo Scroll#
 107833#Infernal Flame Costume Scroll#
 107843#Record of Ryujin Scroll#
+107924#RCC Card Album#
+107925#[Event] RCC World Prontera Scroll#
+107951#Dark Satan Scroll#
+107952#[NFS] Freedom Stick Modification Cube#
+107953#[NFS] Chilling Cane Modification Cube#
+107954#[NFS] Blue Crystal Staff Modification Cube#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -10023,6 +10032,7 @@
 401469#[NFS] Gemini Diadem#
 401489#Leo Crown#
 401490#[NFS] Leo Crown#
+401520#RCC WP 2026 Crown#
 410004#Gambler Seal#
 410005#Costume Magic Heir#
 410012#EXP Advicer#
@@ -10105,6 +10115,7 @@
 410328#Costume Fluffy Bakery#
 410330#Costume Red Aura Dragon#
 410331#Costume Yellow Aura Dragon#
+410348#Divine Protect Shields#
 410350#Costume Kwaiii#
 410351#Costume Blue Buoyant Parasol#
 410352#Costume Red Buoyant Parasol#
@@ -10262,6 +10273,7 @@
 420731#Costume Dr.Nambu's Emergency Transmission#
 420743#Costume Spirit Cat#
 420798#Costume Azure Flame Muffler#
+420940#Charm Of Leafwind#
 430001#Costume Helm of Amon Ra#
 430003#[NFS] Fancy Phantom Mask#
 430006#Wanderer's Sakkat#
@@ -10278,6 +10290,7 @@
 440026#Costume Cat Ears Whisper Cloth#
 440027#Costume Alecsander#
 440028#Costume Watermelon Headphone#
+440043#Costume Golden Baseball Cap#
 450000#IDTest armor#
 450039#Noblesse Fire Rain Suit#
 450121#Noblesse Super Novice Suit#
@@ -10785,8 +10798,10 @@
 540101#[NFS] Origin Of Elemental#
 540133#[NFS] Awakened Exorcist's Bible#
 550007#Chilling Cane#
+550013#Awakened Chilling Cane#
 550040#Eden Group Super Novice Staff#
 550080#Freedom Stick#
+550081#Awakened Freedom Stick#
 550114#[NFS] Arc Wand#
 550121#Raid Human Stick#
 550147#Raid Ocean Stick#
@@ -10796,6 +10811,10 @@
 550193#[NFS] Candy Cane Rod#
 550198#Aquarius Staff #
 550199#[NFS] Aquarius Staff #
+550231#[NFS] Awakened Freedom Stick#
+550232#[NFS] Awakened Chilling Cane#
+550233#[NFS] Awakened Blue Crystal Staff#
+550234#[NFS] Blue Crystal Staff#
 560002#Ray Knuckle#
 560009#Awakened Ray Knuckle#
 560049#Raid Human Claw#
@@ -10863,6 +10882,7 @@
 630062#Polearm Halberd#
 630063#[NFS] Polearm Halberd#
 640004#Blue Crystal Staff#
+640012#Awakened Blue Crystal Staff#
 640048#Raid Human Staff#
 640052#Raid Ocean Staff#
 640055#WOE Two-Handed Staff 2#
@@ -10943,7 +10963,7 @@
 1000682#Clock Tower Key[Enchant]#
 1000875#Valhalla Idol Effect (Middle)#
 1000896#Ryujin Coin#
-1000923#Leo Coin#
+1000923#Dark Satan Coin#
 1000965#[Holy] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
 1001139#Flame Essence#
