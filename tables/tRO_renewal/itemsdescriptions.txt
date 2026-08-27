@@ -58654,6 +58654,13 @@ Designed by: stories
 เลเวลที่ต้องการ : ^7777771^000000
 อาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000
 #
+20630#
+ผ้าคลุมเก่าแก่ของจอมเวทผู้เลื่องชื่อ ดูเหมือนว่าจะมอบพลังที่ทำให้ผู้สวมใส่สามารถลอยตัวอยู่กลางอากาศได้
+ประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000
+ตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777771^000000
+เลเวลที่ต้องการ : ^7777771^000000
+อาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000
+#
 20700#
 ผ้าคลุมแห่งเทพ Egir
 เทพเจ้าแห่งท้องทะเล มันจะช่วยปกป้องผู้สวมใส่ ด้วยพรแห่งท้องทะเล
@@ -86114,6 +86121,18 @@ Gioia ไซส์มินิที่เหล่า Warlock โปรดป�
 เลเวลที่ต้องการ : ^7777771^000000
 อาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000
 #
+31488#
+สัมผัสประสบการณ์สุดตื่นเต้นราวกับการล่า MVP ด้วย Costume ชิ้นนี้
+
+[ความสามารถพิเศษจำกัดระยะเวลา]
+เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท Boss 15%,
+เมื่อกำจัดมอนสเตอร์ มีโอกาส 0.3% ที่จะดรอปไอเทม Old Card Album
+(ความสามารถพิเศษจะถูกลบออกในวันที่ 16 กันยายน 2569 หลังปิดปรับปรุงเซิร์ฟเวอร์)
+ประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000
+ตำแหน่ง : ^777777Middle^000000 น้ำหนัก : ^7777770^000000
+เลเวลที่ต้องการ : ^7777771^000000
+อาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000
+#
 31491#
 ^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000
 ตุ๊กตาแมวส้มลายจุดที่เหมือนจริงซะจนถูกเข้าใจผิดว่าเป็นแมวจริง
@@ -103719,6 +103738,20 @@ None
 None
 무게 : ^7777770^000000
 #
+107959#
+ม้วนคัมภีร์ที่ถักทอจากเส้นใยไหมมงคล อบอวลไปด้วยกลิ่นหอมละมุนของดอกมะลิที่บานสะพรั่งในคืนวันเพ็ญ
+ว่ากันว่าคัมภีร์นี้บรรจุ คำอวยพรแห่งแสง อันศักดิ์สิทธิ์และบริสุทธิ์ เมื่อคลี่ออกจะแผ่ไออุ่นที่ช่วยปัดเป่าบาดแผลและความมืดมิดทั้งปวงให้มลายหายไป
+น้ำหนัก : ^7777771^000000
+#
+107960#
+none
+
+น้ำหนัก : ^7777770^000000
+#
+107961#
+None
+น้ำหนัก : ^7777770^000000
+#
 200000#
 เมื่อกดใช้จะได้รับ Fly wing 1 ea
 น้ำหนัก : ^7777771^000000
@@ -107283,6 +107316,22 @@ ATK, MATK + 100
 เพิ่มค่าประสบการณ์ที่ได้รับจากมอนสเตอร์ทุกประเภท 5%
 ประเภท : ^777777Card^000000
 ใช้กับ : ^777777Accessory (Right)^000000
+น้ำหนัก : ^7777771^000000
+#
+300965#
+ATK + 50
+เพิ่ม Damage ทางกายภาพต่อมอนสเตอร์ขนาดกลาง, ใหญ่ 25%
+เมื่ออาวุธเป็น Two-handed Sword, Two-handed Spear, Two-handed Staff, Two-handed Axe, Katar, Bow, Huuma Shuriken, Gun, ลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูขนาดกลาง, ใหญ่ 10%
+ประเภท : ^777777Card^000000
+ใช้กับ : ^777777Weapon^000000
+น้ำหนัก : ^7777771^000000
+#
+300966#
+MATK + 50
+เพิ่ม Damage ทางเวทมนตร์ต่อมอนสเตอร์ขนาดกลาง, ใหญ่ 25%
+เมื่ออาวุธเป็น Two-handed Sword, Two-handed Spear, Two-handed Staff, Two-handed Axe, Katar, Bow, Huuma Shuriken, Gun, ลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากศัตรูขนาดกลาง, ใหญ่ 10%
+ประเภท : ^777777Card^000000
+ใช้กับ : ^777777Weapon^000000
 น้ำหนัก : ^7777771^000000
 #
 310000#
@@ -116319,6 +116368,98 @@ P.ATK + 10,
 มื่อใช้งานสกิล Mega Sonic Blow มีโอกาส 30% ที่จะ Autospell สกิล Mega Sonic Blow Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),
 เพิ่ม Damage สกิล Mega Sonic Blow 20%, เพิ่ม Damage สกิล Double Bowling Bash 25%
 #
+315714#
+เมื่อสวมใส่ร่วมกับ Orrivane Judgment Claw,
+Critical Damage + 20%,
+ทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Explosion Blaster 4%, เพิ่ม Damage สกิล Oleum Sanctum 6%
+
+เมื่อ Orrivane Judgment Claw มี Grade C ขึ้นไป,
+P.ATK + 10,
+ลด Cooldown สกิล Explosion Blaster 0.35 วินาที,
+ลด Cooldown สกิล Oleum Sanctum 0.9 วินาที
+
+เมื่อ Orrivane Judgment Claw มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,
+สามารถใช้งานสกิล Power Lv.2 ได้,
+ลด Global Cooldown 15%,
+เมื่อใช้งานสกิล Oleum Sanctum จะ Autospell สกิล Explosion Blaster Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),
+เมื่อใช้งานสกิล Explosion Blaster มีโอกาส 30% ที่จะ Autospell สกิล Explosion Blaster Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),
+เพิ่ม Damage สกิล Explosion Blaster  20%, เพิ่ม Damage สกิล Oleum Sanctum 25%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Judgment Knuckle,
+MaxHP + 10%,
+ทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Third Flame Bomb 4%
+
+เมื่อ Orrivane Judgment Knuckle มี Grade C ขึ้นไป,
+P.ATK + 10,
+MaxHP + 10%
+
+เมื่อ Orrivane Judgment Knuckle มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,
+เมื่อใช้งานสกิล First Brand จะ Autospell สกิล Second Flame Lv.1 (เมื่อเรียนรู้สกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),
+เมื่อใช้งานสกิล Second Flame จะ Autospell สกิล Third Flame Bomb Lv.1 (เมื่อเรียนรู้สกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)
+(เอฟเฟกต์ Autospell เหล่านี้จะทำงานก็ต่อเมื่อมีการเรียนรู้สกิล First Brand, Second Flame และ Third Flame Bomb Lv.1 ขึ้นไปเท่านั้น)
+#
+315715#
+เมื่อสวมใส่ร่วมกับ Orrivane Musical Rope หรือ Orrivane Musical Harp,
+เพิ่ม Hit Damage ทางกายภาพ 10%,
+ทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Rhythm Shooting, Rose Blossom 6%
+
+เมื่อ Orrivane Musical Rope หรือ Orrivane Musical Harp มี Grade C ขึ้นไป,
+P.ATK + 10,
+ลด Cooldown สกิล Rhythm Shooting 0.3 วินาที,
+ลด Cooldown สกิล Rose Blossom 0.6 วินาที
+
+เมื่อ Orrivane Musical Rope หรือ Orrivane Musical Harp มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,
+สามารถใช้งานสกิล Power Lv.4 ได้,
+เมื่อใช้งานสกิล Rose Blossom มีโอกาส 30% ที่จะ Autospell สกิล Rose Blossom Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),
+เมื่อใช้งานสกิล Rhythm Shooting มีโอกาส 30% ที่จะ Autospell สกิล Rhythm Shooting Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),
+เพิ่ม Damage สกิล Rhythm Shooting, Rose Blossom 25%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Musical Ribbon หรือ Orrivane Musical Violin,
+MATK + 10%,
+ทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Sound Blend, Metalic Fury 6%
+
+เมื่อ Orrivane Musical Ribbon หรือ Orrivane Musical Violin มี Grade C ขึ้นไป,
+S.MATK + 10,
+ลด Cooldown สกิล Metalic Fury 0.3 วินาที
+
+เมื่อ Orrivane Musical Ribbon หรือ Orrivane Musical Violin มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,
+เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 20%,
+เมื่อใช้งานสกิล Sound Blend จะ Autospell สกิล Metalic Fury Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),
+เมื่อใช้งานสกิล Metalic Fury มีโอกาส 30% ที่จะ Autospell สกิล Metalic Fury Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),
+เมื่อใช้งานสกิล Jawaii Serenade จะเปลี่ยนร่างเป็น Moonlight Flower เป็นเวลา 60 วินาที,
+เพิ่ม Damage สกิล Sound Blend, Metalic Fury 20%
+#
+315716#
+เมื่อสวมใส่ร่วมกับ Orrivane Spirit Foxtail Model,
+MATK + 10%,
+ทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Hyunrok Breeze, Hyunrok Cannon 4%
+
+เมื่อ Orrivane Spirit Foxtail Model มี Grade C ขึ้นไป,
+S.MATK + 10,
+ลด Cooldown สกิล Hyunrok Breeze 1.5 วินาที,
+ลด Cooldown สกิล Lope 4.5 วินาที,
+ลด Cooldown สกิล Hyunrok Cannon 1 วินาที
+
+เมื่อ Orrivane Spirit Foxtail Model มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,
+เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 20%,
+เมื่อใช้งานสกิล Temporary Communion จะได้รับสถานะ SPL + 50 เป็นเวลา 10 วินาที,
+เมื่อใช้งานสกิล Hyunrok Cannon มีโอกาส 30% ที่จะ Autospell สกิล Hyunrok Cannon Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),
+เพิ่ม Damage สกิล Hyunrok Breeze, Hyunrok Cannon 20%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Spirit Foxtail,
+Critical Damage + 20%,
+ทุก ๆ 2 ขั้นอัพเกรดอาวุธ, เพิ่ม Damage สกิล Howling of Chulho, Hogogong Strike 4%
+
+เมื่อ Orrivane Spirit Foxtail มี Grade C ขึ้นไป,
+P.ATK + 10,
+ลด Cooldown สกิล Howling of Chulho 1 วินาที
+
+เมื่อ Orrivane Spirit Foxtail มี Grade C และขั้นอัพเกรด 10 ขึ้นไป,
+สามารถใช้งานสกิล Power Lv.2 ได้,
+เมื่อใช้งานสกิล Temporary Communion จะได้รับสถานะ POW + 50 เป็นเวลา 10 วินาที,,
+เมื่อใช้งานสกิล Howling of Chulho จะ Autospell สกิล Hogogong Strike Lv.1 (เมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด),
+เพิ่ม Damage สกิล Howling of Chulho, Hogogong Strike 20%
+#
 400000#
 เมื่อสวมใส่แล้ว ราวกับว่าได้ยินเสียงผิวปากของ Pere และเสียงบรรเลงเปียโนของ Jitterbug
 ATK +1%, MATK +1%
@@ -120383,6 +120524,31 @@ Headgear ที่สั่นพ้องกับ Furious Weapon เพื่�
 เลเวล Armor : ^7777772^000000
 เลเวลที่ต้องการ : ^777777235^000000
 อาชีพที่ใส่ได้ : ^777777Dragon Knight^000000
+#
+400629#
+Headgear ที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน
+ 
+ทุก ๆ การอัพเกรด 2 ขั้น ATK +10, MATK + 10
+ทุก ๆ การอัพเกรด 3 ขั้น เพิ่ม Damage สกิล From the Abyss, Deft Stab 4%
+เมื่ออัพเกรดถึงขั้น 7, ASPD + 15%
+เมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%
+เมื่ออัพเกรดถึงขั้น 11, ATK + 5%, MATK + 5%, ลดระยะเวลาร่ายแบบคงที่ 0.3 วินาที
+ 
+เมื่อสวมใส่ร่วมกับ Furious Demonius, เพิ่ม Damage สกิล Deft Stab 15%
+ 
+เมื่อสวมใส่ร่วมกับ Furious Demon Sword, เพิ่ม Damage สกิล Abyss Square 15%
+ 
+^CC3D3D[Option เพิ่มเติมตาม Grade]^000000
+[Grade D] POW + 5, SPL + 5, CON + 5, P.ATK + 3, S.MATK + 3
+[Grade C] เพิ่ม Damage ทางกายภาพระยะใกล้ 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%
+[Grade B] ATK + 5%, MATK + 5%, ลดระยะเวลาร่ายแบบคงที่ลงอีก 0.2 วินาที
+[Grade A] P.ATK + 5, S.MATK + 5, เพิ่ม Damage ทางกายภาพระยะใกล้ 15%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 15%
+ 
+ประเภท : ^777777Headgear^000000 พลังป้องกัน : ^77777730^000000
+ตำแหน่ง : ^777777Upper^000000 น้ำหนัก : ^77777730^000000
+เลเวล Armor : ^7777772^000000
+เลเวลที่ต้องการ : ^777777235^000000
+อาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000
 #
 400656#
 หมวกเกราะประดับที่ดูคล้ายกับหมวกเกราะของกองอัศวิน Khalitzburg
@@ -126747,6 +126913,22 @@ All Status + 5
 เลเวลที่ต้องการ : ^777777200^000000
 อาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000
 #
+420943#
+^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000
+ผลไม้แห่งสวนเอเดนที่ยังไม่ถูกแตะต้อง เมื่อกินเข้าไปจะเกิดสำนึกถึงความดีและความชั่ว
+
+DEF/MDEF - 5
+เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท Boss 15%
+
+เพิ่ม Damage ที่ได้รับจากมอนสเตอร์เผ่า Angel 15%
+เพิ่ม Damage ที่ได้รับจากมอนสเตอร์ธาตุ Holy 15%
+
+เมื่อ Base Lv.199 หรือต่ำกว่า, เพิ่มค่าประสบการณ์จากการกำจัดมอนสเตอร์ 10%
+ประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777770^000000
+ตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^77777730^000000
+เลเวลที่ต้องการ : ^7777771^000000
+อาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000
+#
 430001#
 หมวกที่ประดับตกแต่งด้วยปีกสีทองขนาดใหญ่
 สวมใส่แล้วรู้สึกถึงอำนาจของอามอนรา เทพแห่งดวงอาทิตย์ในตำนานอียิปต์
@@ -132130,6 +132312,26 @@ S.MATK + 10,
 น้ำหนัก : ^77777750^000000
 เลเวลที่ต้องการ : ^777777210^000000
 อาชีพที่ใส่ได้ : ^777777Elemental Master^000000
+#
+460184#
+RES/MRES + 15
+ลด Damage ทางกายภาพ/เวทมนตร์ที่ได้รับจากมอนสเตอร์ทั่วไปและบอส 15%
+
+เมื่อขั้นอัพเกรดตั้งแต่ 7 ขึ้นไป, ASPD + 2, MaxHP + 10%
+เมื่อขั้นอัพเกรดตั้งแต่ 9 ขึ้นไป, ลด Cooldown สกิล Rhythm Shooting 0.1 วินาที, ลด Cooldown สกิล Rose Blossom 0.3 วินาที
+เมื่อขั้นอัพเกรดตั้งแต่ 11 ขึ้นไป, ลด Global Cooldown 10%, เพิ่ม Damage ทางกายภาพระยะไกล 20%
+เมื่อขั้นอัพเกรดตั้งแต่ 12 ขึ้นไป, เพิ่ม Damage สกิล Rhythm Shooting, Rose Blossom 20%
+
+[Option เพิ่มเติมตาม Grade]
+[Grade D] สามารถใช้งานสกิล Bragi's Poem, Kiss of Fortune Lv.10 ได้ (จำเป็นต้องสวมใส่ Instrument หรือ Whip เท่านั้น)
+[Grade C] เพิ่ม Hit Damage ทางกายภาพ 10%, P.ATK + 4
+[Grade B] MaxHP + 5000, P.ATK + 6
+[Grade A] เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 20%
+ประเภท : ^777777Shield^000000  พลังป้องกัน : ^77777735^000000
+น้ำหนัก : ^77777720^000000
+เลเวล Armor : ^7777772^000000
+เลเวลที่ต้องการ : ^777777200^000000
+อาชีพที่ใส่ได้ : ^777777Troubadour, Trouvere^000000
 #
 470000#
 รองเท้าบู๊ทสุดพิเศษที่เตรียมไว้เพื่อทำให้นักผจญภัยพัฒนาไปอย่างรวดเร็ว
@@ -149481,6 +149683,143 @@ CRI + 30, Critical Damage + 50%
 เลเวลที่ต้องการ : ^777777150^000000
 อาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000
 #
+491088#
+แหวนที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน
+MATK + 100
+ลด Global Cooldown 10%
+SPL + 10
+ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที
+เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%
+
+เมื่อสวมใส่ร่วมกับ Furious Grimoire,
+เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,
+เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 40%,
+เพิ่ม Damage สกิล Diamond Storm, Terra Drive 20%
+
+เมื่อ Furious Grimoire มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,
+เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,
+เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 40%,
+เพิ่ม Damage สกิล Diamond Storm, Terra Drive 20%
+
+เมื่อ Furious Grimoire มี Grade C ขึ้นไป,
+S.MATK + 10,
+ลด Cooldown สกิล Terra Drive, Diamond Storm 0.4 วินาที,
+เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 40%,
+เพิ่ม Damage สกิล Diamond Storm, Terra Drive 20%
+
+เมื่อ Furious Grimoire มี Grade B ขึ้นไป,
+เพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Water, Wind, Earth 20%,
+เมื่อโจมตีทางกายภาพ มีโอกาส 15% ที่จะ Auto Spell สกิล Fire Bolt, Cold Bolt, Lightning Bolt, Earth Spike และ Elemental Buster Lv.1 (เอฟเฟกต์นี้จะทำงานเมื่อกำลังอัญเชิญ Advanced Elemental Spirit อยู่ และเมื่อเรียนสกิลในเลเวลที่สูงกว่า จะร่ายในเลเวลสูงสุด)
+เพิ่ม Damage สกิล Fire Bolt, Cold Bolt, Lightning Bolt 40%,
+เพิ่ม Damage สกิล Diamond Storm, Terra Drive 20%
+ประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000
+น้ำหนัก : ^77777720^000000
+เลเวลที่ต้องการ : ^777777205^000000
+อาชีพที่ใส่ได้ : ^777777Elemental Master^000000
+#
+491089#
+แหวนที่สั่นพ้องกับ Furious Weapon เพื่อปลุกพลังที่หลับใหลภายใน
+MATK + 100
+ลด Global Cooldown 10%
+SPL + 10
+ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที
+เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%
+
+เมื่อสวมใส่ร่วมกับ Furious Demon Sword,
+เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 15%,
+เพิ่ม Damage สกิล From the Abyss, Abyss Square 20%
+
+เมื่อ Furious Demon Sword มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,
+เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 15%,
+เพิ่ม Damage สกิล From the Abyss, Abyss Square 20%
+
+เมื่อ Furious Demon Sword มี Grade C ขึ้นไป,
+S.MATK + 10,
+ลด Cooldown สกิล Abyss Square 1.3 วินาที,
+เพิ่ม Damage สกิล From the Abyss, Abyss Square 20%
+
+เมื่อ Furious Demon Sword มี Grade B ขึ้นไป,
+เพิ่ม Damage ทางเวทมนตร์ธาตุ Fire, Neutral 20%,
+ลด Cooldown สกิล Abyss Square 1.3 วินาที,
+เมื่อโจมตีทางกายภาพระยะใกล้ มีโอกาส 30% ที่จะ Auto Spell สกิล All Bloom Lv.5
+เพิ่ม Damage สกิล From the Abyss, Abyss Square 20%
+ประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000
+น้ำหนัก : ^77777720^000000
+เลเวลที่ต้องการ : ^777777205^000000
+อาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000
+#
+491090#
+แหวนแห่ง Orrivane ที่เมื่อสวมใส่จะสัมผัสได้ถึงศรัทธาอันแน่วแน่ของผู้พิพากษาเหล่าผู้หลงผิด
+ATK + 100
+ลด Global Cooldown 10%
+POW + 10
+CRI + 15, ATK + 15%
+เพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Crown (Inquisitor),
+เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 15%,
+เพิ่ม Damage สกิล Third Flame Bomb, Explosion Blaster 20%
+
+เมื่อ Orrivane Crown (Inquisitor) มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,
+เพิ่ม Damage ทางกายภาพต่อศัตรูทุกธาตุ 15%,
+เพิ่ม Damage สกิล Third Flame Bomb, Explosion Blaster 20%
+
+เมื่อ Orrivane Crown (Inquisitor) มี Grade C ขึ้นไป,
+P.ATK + 10,
+เพิ่ม Damage สกิล Third Flame Bomb, Explosion Blaster 20%
+ประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000
+น้ำหนัก : ^77777720^000000
+เลเวลที่ต้องการ : ^777777230^000000
+อาชีพที่ใส่ได้ : ^777777Inquisitor^000000
+#
+491091#
+แหวนแห่ง Orrivane ที่เมื่อสวมใส่จะสัมผัสได้ถึงท่วงทำนองอันงดงามของผู้ขับขานบทเพลงแห่งความหวัง
+ATK,MATK + 100
+ลด Global Cooldown 10%
+POW, SPL + 10
+MATK, เพิ่ม HIT Damage ทางกายภาพ 10%
+เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 15%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Crown (Troubadour & Trouvere),
+เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 15%,
+เพิ่ม Damage สกิล Metalic Fury, Rhythm Shooting 20%
+
+เมื่อ Orrivane Crown (Troubadour & Trouvere) มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,
+เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 15%,
+เพิ่ม Damage สกิล Metalic Fury, Rhythm Shooting 20%
+
+เมื่อ Orrivane Crown (Troubadour & Trouvere) มี Grade C ขึ้นไป,
+P.ATK, S.MATK + 10,
+เพิ่ม Damage สกิล Metalic Fury, Rhythm Shooting 20%
+ประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000
+น้ำหนัก : ^77777720^000000
+เลเวลที่ต้องการ : ^777777230^000000
+อาชีพที่ใส่ได้ : ^777777Troubadour, Trouvere^000000
+#
+491092#
+แหวนแห่ง Orrivane ที่เมื่อสวมใส่จะสัมผัสได้ถึงสายสัมพันธ์อันลึกซึ้งระหว่างผู้ผูกพันกับเหล่าจิตวิญญาณ
+ATK, MATK + 100
+ลด Global Cooldown 10%
+POW, SPL + 10
+CRI + 15, ลดระยะเวลาร่ายแบบคงที่ 0.5 วินาที
+เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกประเภท 15%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Crown (Spirit Handler),
+เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกขนาด 15%,
+เพิ่ม Damage สกิล Hogogong Strike, Hyunrok Breeze 20%
+
+เมื่อ Orrivane Crown (Spirit Handler) มีขั้นอัพเกรดตั้งแต่ 10 ขึ้นไป,
+เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกธาตุ 15%,
+เพิ่ม Damage สกิล Hogogong Strike, Hyunrok Breeze 20%
+
+เมื่อ Orrivane Crown (Spirit Handler) มี Grade C ขึ้นไป,
+P.ATK, S.MATK + 10,
+เพิ่ม Damage สกิล Hogogong Strike, Hyunrok Breeze 20%
+ประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000
+น้ำหนัก : ^77777720^000000
+เลเวลที่ต้องการ : ^777777230^000000
+อาชีพที่ใส่ได้ : ^777777Spirit Handler^000000
+#
 500000#
 ตอนทำการโจมตี มีโอกาสที่จะเกิด Cold Bolt Lv.1
 ประเภท : ^777777Sword^000000 พลังโจมตี : ^777777100^000000
@@ -151664,6 +152003,59 @@ AGI + 2, MHP - 4%
 เลเวลอาวุธ : ^7777773^000000
 เลเวลที่ต้องการ : ^7777771^000000
 อาชีพที่สวมใส่ได้ : ^777777ทุกอาชีพ^000000
+#
+510150#
+Dagger ซึ่งบรรจุพลังแห่งโทสะเอาไว้
+ 
+เพิ่ม Damage สกิล Deft Stab 5%
+เมื่อ Base Lv.210 ขึ้นไป, ATK + 4%, ATK + 40
+เมื่อ Base Lv.220 ขึ้นไป, เพิ่ม Damage สกิล Deft Stab 5%
+เมื่อ Base Lv.230 ขึ้นไป, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%
+เมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%
+เมื่ออัพเกรดถึงขั้น 9, เพิ่ม Damage สกิล Deft Stab ขึ้นอีก 10%
+เมื่ออัพเกรดถึงขั้น 10, ลด Global Cooldown 10%
+เมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล Deft Stab ขึ้นอีก 10%
+ 
+เมื่อสวมใส่ร่วมกับ Furious Boot, เพิ่ม Damage สกิล Deft Stab จำนวน % เท่ากับค่าขั้นอัพเกรดรวมกัน
+ 
+^CC3D3D[Option เพิ่มเติมตาม Grade]^000000
+[Grade D] เพิ่ม Damage ทางกายภาพระยะใกล้ 15%
+[Grade C] เพิ่ม Damage สกิล Deft Stab 5%
+[Grade B] เพิ่ม Damage สกิล Deft Stab ขึ้นอีก 10%
+[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น, ATK + 3%, P.ATK + 3
+ 
+ประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777180^000000
+น้ำหนัก : ^777777140^000000
+เลเวล Weapon : ^7777775^000000
+เลเวลที่ต้องการ : ^777777205^000000
+อาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000
+#
+510151#
+Dagger ซึ่งบรรจุพลังแห่งโทสะเอาไว้
+ 
+MATK + 180
+เพิ่ม Damage สกิล From the Abyss 10%
+เมื่อ Base Lv.210 ขึ้นไป, MATK + 4%, MATK + 40
+เมื่อ Base Lv.220 ขึ้นไป, เพิ่ม Damage สกิล From the Abyss 5%
+เมื่อ Base Lv.230 ขึ้นไป, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกขนาด 10%
+เมื่ออัพเกรดถึงขั้น 7, เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral, Fire 10%
+เมื่ออัพเกรดถึงขั้น 9, ASPD + 10%
+เมื่ออัพเกรดถึงขั้น 10, เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral, Fire ขึ้นอีก 10%
+เมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage สกิล From the Abyss 10%
+ 
+เมื่อสวมใส่ร่วมกับ Furious Boot, เพิ่ม Damage สกิล Abyss Square จำนวน % เท่ากับค่าขั้นอัพเกรดรวมกัน
+ 
+^CC3D3D[Option เพิ่มเติมตาม Grade]^000000
+[Grade D] เพิ่ม Damage ทางเวทมนตร์ธาตุ Neutral, Fire 10%
+[Grade C] เพิ่ม Damage สกิล From the Abyss 5%
+[Grade B] เพิ่ม Damage สกิล From the Abyss 10%
+[Grade A] ทุก ๆ การอัพเกรด 2 ขั้น, MATK + 3%, S.MATK + 3
+ 
+ประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777140^000000
+น้ำหนัก : ^777777140^000000
+เลเวล Weapon : ^7777775^000000
+เลเวลที่ต้องการ : ^777777205^000000
+อาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000
 #
 510160#
 Dagger ของนักรบไร้เงาผู้ตัดขาดห่วงโซ่แห่งการเวียนว่าย ทอดทิ้งอดีตอันซ้ำซาก และก้าวสู่รุ่งอรุณของจุดเริ่มต้นใหม่
@@ -170740,6 +171132,22 @@ Red Flame Effect
 ก้อนผลึกอุกกาบาตที่เกิดจากการหลอมรวมด้วยพลังเวท
 
 (ไอเท็มนี้จะถูกลบออกหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 11 พฤศจิกายน 2569)
+น้ำหนัก : ^7777771^000000
+#
+1003151#
+เหรียญทองที่ได้รับจากการเข้าร่วมกิจกรรม World Boss
+สามารถนำไปใช้แลกรับไอเทมและของรางวัลพิเศษจากกิจกรรม World Boss ได้ที่ ^ffffff<NAVI>^4D4DFF[Coin Expert]^000000<INFO>prt_fild08,174,358,0,100,0,0</INFO></NAVI>^000000
+น้ำหนัก : ^7777770^000000
+#
+1003152#
+เหรียญที่ได้รับจากการสังหาร World Boss
+สามารถนำไปแลกของรางวัลกับ ^ffffff<NAVI>^4D4DFF[Coin Expert]^000000<INFO>prt_fild08,174,358,0,100,0,0</INFO></NAVI>^000000 ได้
+น้ำหนัก : ^7777770^000000
+#
+1003153#
+มีดปอกผลไม้เล่มเล็กที่ว่ากันว่า Adam เคยใช้มันมาก่อน
+สามารถใช้เพื่อ Reform ไอเทม Adam's Apple In Mouth ได้ที่ ^ffffff<NAVI>^4D4DFF[Event Reformer]^000000<INFO>itemmall,40,86,0,100,0,0</INFO></NAVI>^000000
+
 น้ำหนัก : ^7777771^000000
 #
 1100000#

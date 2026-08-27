@@ -4690,7 +4690,7 @@
 9035#Red Deleter Egg#
 9036#Diabolic Egg#
 9037#Wanderer Egg#
-9038#New Year Doll Egg#
+9038#Winter Maiden Egg#
 9042#Loli Ruri Egg#
 9045#Whisper Egg#
 9047#Wicked Nymph Egg#
@@ -7736,6 +7736,7 @@
 20624#Costume Second Runner-Up of ROS 2023#
 20625#Costume Star Champion's Manteau#
 20626#Costume Star Runner-Up Manteau#
+20630#Costume Sorcerer Cape#
 20700#Egir Manteau#
 20702#TE WoE Muffler#
 20703#TE WoE Cloak#
@@ -10715,6 +10716,7 @@
 31480#Costume Floating Gioia#
 31481#Costume CatCoffeeCup#
 31483#Costume Cat Ear Ribbon#
+31488#Costume MVP#
 31491#Costume Orange Tabby Cat#
 31497#Costume Flowery Vision#
 31498#Costume Elephangel#
@@ -12350,6 +12352,9 @@
 107904#(Limited) Silvervine 50 ea Package (Stone Box 33)#
 107910#Battle Pass Reform Box#
 107936#Battle Pass Reform Box#
+107959#Panda Lover Scroll#
+107960#World Boss Random#
+107961#Adams Apply Reform#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -12757,6 +12762,8 @@
 300928#Upgrade Hyper Novice Card#
 300929#Upgrade Spirit Handler Card#
 300934#Ragnarok Stars 2026 Card#
+300965#[World Boss] White Knight Card#
+300966#[World Boss] Mutating White Knight Card#
 310000#Sniper Stone II (Upper)#
 310001#Sniper Stone II (Middle)#
 310002#Sniper Stone II (Lower)#
@@ -14459,6 +14466,9 @@
 315412#Orrivane Orb (Cardinal)#
 315413#Orrivane Orb (Sky Emperor)#
 315414#Orrivane Orb (Hyper Novice)#
+315714#Orrivane Orb (Inquisitor)#
+315715#Orrivane Orb (Troubadour & Trouvere)#
+315716#Orrivane Orb (Spirit Handler)#
 400000#Whistle#
 400001#Victorious Wing Ears#
 400002#Victorious Wing Ears#
@@ -14697,6 +14707,7 @@
 400585#Costume Snowman Hat#
 400604#Costume Black Ribbon Beret#
 400628#Furious Crown (Dragon Knight)#
+400629#Furious Crown (Abyss Chaser)#
 400656#Costume White Khalitzburg Knight Helm#
 400662#Furious Crown (Elemental Master)#
 400664#Costume Drooping Fei-Chai#
@@ -15191,6 +15202,7 @@
 420855#Costume Cultivation Pod#
 420864#Baby Gray Wolf In Mouth-LT#
 420930#Snow Aura-LT#
+420943#Adam's Apple In Mouth-LT#
 430001#Costume Helm of Amon Ra#
 430003#[Not For Sale] Fancy Phantom Mask#
 430006#Wanderer's Sakkat#
@@ -15481,6 +15493,7 @@
 460178#Ignis Flame Guard#
 460179#Ignis Flame Guard-LT#
 460180#Forbidden Grimoire-LT#
+460184#Lyre Aegis#
 470000#Attacker Booster Greaves#
 470001#Elemental Booster Shoes#
 470002#Defunct Booster Shoes#
@@ -16403,6 +16416,11 @@
 491078#Orrivane Ring (Hyper Novice)#
 491079#Ragnarok Stars 2026 Ring (Right)#
 491086#Thought Ring-LT#
+491088#Furious Ring (Elemental Master)#
+491089#White Furious Ring (Abyss Chaser)#
+491090#Orrivane Ring (Inquisitor)#
+491091#Orrivane Ring (Troubadour & Trouvere)#
+491092#Orrivane Ring (Spirit Handler)#
 500000#IDTest weapon#
 500001#Boosting Sword#
 500003#Light Blade#
@@ -16532,6 +16550,8 @@
 510121#Red Combat Knife#
 510122#[Not For Sale] Red Combat Knife#
 510141#[Event] Fate Dagger#
+510150#Furious Demonius#
+510151#Furious Demon Sword#
 510160#Orrivane Abyss Dagger#
 510223#[Event] Golden Dagger#
 520000#Boosting Axe#
@@ -18166,6 +18186,9 @@
 1003115#Aladdin Lamp#
 1003141#[Event] Dimensional Fragment#
 1003142#[Event] Meteorite Crystal#
+1003151#[World Boss] Golden Coin#
+1003152#[World Boss] MVP Coin#
+1003153#Adam's Kitchen Knief#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
