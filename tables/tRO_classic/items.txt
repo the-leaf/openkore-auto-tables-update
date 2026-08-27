@@ -237,6 +237,7 @@
 811#[Event] Piece of Jigsaw#
 813#[Event] Special Enchant Temporal & Diabolus Ticket#
 814#[Event] Enchant Temporal & Diabolus Slot4 Ticket#
+825#[Event] Dragonica Symbol#
 835#Guarantee Costume Coin#
 901#Daenggie#
 902#Tree Root#
@@ -10371,6 +10372,7 @@
 450555#Scorpio Mail#
 450556#Sagittarius Mail#
 450557#Ophiuchus Suit#
+450593#[NFS] ROZG T-Shirts#
 460028#[NFS]Sharel Shield#
 460033#[NFS] Mad Bunny#
 460041#Dark Shield#
@@ -10961,6 +10963,7 @@
 1000572#1st Anniversary Job Changing Ticket#
 1000619#World Moving Ticket#
 1000682#Clock Tower Key[Enchant]#
+1000836#[Event] Dragonica Certificate#
 1000875#Valhalla Idol Effect (Middle)#
 1000896#Ryujin Coin#
 1000923#Dark Satan Coin#
