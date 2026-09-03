@@ -8169,6 +8169,8 @@
 24420#Temporal Transcendent Shadow Earring#
 24421#Temporal Transcendent Shadow Pendant#
 24625#Cross Shuriken Shadow Earring#
+24681#Maximum Mammoth Shadow Earring#
+24682#Maximum Mammoth Shadow Pendant#
 24794#[NFS] Shadow Higher Weapon#
 24795#[NFS] Shadow Higher Armor#
 24796#[NFS] Shadow Higher Shield#
@@ -9692,6 +9694,7 @@
 107952#[NFS] Freedom Stick Modification Cube#
 107953#[NFS] Chilling Cane Modification Cube#
 107954#[NFS] Blue Crystal Staff Modification Cube#
+108030#Virgo Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9728,6 +9731,7 @@
 200950#Gatchaman Collaboration Package II#
 200951#Gatchaman Collaboration Package III#
 300000#IDTest Card#
+300152#Angel Blessing Effect#
 300157#Time Accessory Effect#
 300209#Sealed Nightmare Amon Ra Card#
 300291#1st Anniversary Card#
@@ -9830,6 +9834,7 @@
 315314#Cancer Gem#
 315391#Gemini Gem#
 315643#Leo Gem#
+315719#Virgo Gem#
 400020#Costume Beachball#
 400023#Drooping Thanatos's Dolor#
 400043#Fallen Angel Hairband#
@@ -10034,6 +10039,8 @@
 401489#Leo Crown#
 401490#[NFS] Leo Crown#
 401520#RCC WP 2026 Crown#
+401537#Virgo Diadem#
+401538#[NFS] Virgo Diadem#
 410004#Gambler Seal#
 410005#Costume Magic Heir#
 410012#EXP Advicer#
@@ -10746,6 +10753,8 @@
 491072#[NFS] Gemini Ring#
 491082#Leo Ring#
 491083#[NFS] Leo Ring#
+491094#Virgo Ring#
+491095#[NFS] Virgo Ring#
 500000#IDTest weapon#
 500003#Light Blade#
 500035#Eden Group Super Novice Sword#
@@ -10890,6 +10899,8 @@
 640055#WOE Two-Handed Staff 2#
 640071#Pisces Staff#
 640072#[NFS] Pisces Staff#
+640076#Virgo Divine Cross#
+640077#[NFS] Virgo Divine Cross#
 650004#Awakened Huuma Shuriken Clearness#
 650050#Raid Ocean Fuuma Shuriken#
 650051#WOE Huuma Shuriken 2#
@@ -10952,6 +10963,7 @@
 1000305#Clown Gypsy Stone II (Upper)#
 1000306#Clown Gypsy Stone II (Middle)#
 1000307#Clown Gypsy Stone II (Lower)#
+1000319#Angel Blessing Effect (Middle)#
 1000345#Time Accessory Effect (Middle)#
 1000365#Magic Feather Effect (Upper)#
 1000375#Range Stone (Upper)#
@@ -10966,7 +10978,7 @@
 1000836#[Event] Dragonica Certificate#
 1000875#Valhalla Idol Effect (Middle)#
 1000896#Ryujin Coin#
-1000923#Dark Satan Coin#
+1000923#Virgo Coin#
 1000965#[Holy] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
 1001139#Flame Essence#
