@@ -7360,7 +7360,7 @@
 19756#Costume Holy Mom Love#
 19757#Costume Water Lily Crown#
 19759#Costume Umbrella Hat#
-19761#Costume White Lily#
+19761#Costume White Lily Flower#
 19762#Costume Happiness and Peace#
 19767#Costume Home Cherry Blossom#
 19769#Costume Mischievous Fairy#
@@ -7517,6 +7517,7 @@
 20142#Costume Machoman's Glasses#
 20144#Costume Ancient Elven Ear#
 20151#Costume Poison Spore Hat#
+20152#Costume Straw Rice Bag#
 20163#Costume Lamb Hat#
 20166#Costume Hockey Mask#
 20167#Costume Devi Headphone#
@@ -10588,6 +10589,7 @@
 31069#Costume Hair Bun(Brown)#
 31070#Costume Hair Bun(Purple)#
 31089#Costume Exploding Wave Sca#
+31092#Costume Rabbit Ribbon#
 31105#Costume RO Celebration Hat#
 31118#Costume Assassin Skull Mask#
 31120#Costume Vampire Familiar#
@@ -11980,6 +11982,7 @@
 103433#The Infinity Box#
 103434#Ice Crystal Scroll#
 103436#Rainbow Scroll#
+103463#Self-made Songpyeon#
 103474#Record of Honor Album#
 103475#Record of Swordsman Mix Box#
 103476#Record of Thief Mix Box#
@@ -12366,6 +12369,8 @@
 108041#Orrivane Crown Refine Hammer#
 108051#Magic Lucky Random Box#
 108052#Royal Card Box#
+108073#[Event] Yonia box#
+108085#Re-Dim Suit Refine Hammer#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -14200,6 +14205,15 @@
 312298#Hyper Novice Soul (Ground Gravitation)#
 312299#Hyper Novice Soul (Napalm Vulcan Strike)#
 312302#Dragon Knight Soul (Dragonic Breath)#
+312306#Issgard Crystal#
+312307#Issgard Crystal (Warrior)#
+312308#Issgard Crystal (Shooter)#
+312309#Issgard Crystal (Assassin)#
+312310#Issgard Crystal (Mage)#
+312311#Issgard Crystal (Berserker)#
+312312#Issgard Crystal (Marksman)#
+312313#Issgard Crystal (Executioner)#
+312314#Issgard Crystal (Grand Mage)#
 312398#Shinkiro Stone (Garment)#
 312399#Shiranui Stone (Garment)#
 312400#Shadow Cross Stone (Garment)#
@@ -14381,6 +14395,7 @@
 313950#Rune Knight The Hero#
 313951#Sky Emperor Spirit#
 313952#Star Gladiator The Hero#
+313955#Blue Butterfly Footprint#
 314015#Ruby of Strength Lv.2#
 314016#Amethyst of Vitality Lv.2#
 314017#Topaz of Agility Lv.2#
@@ -14466,6 +14481,7 @@
 314906#Troubadour & Trouvere Dim Crystal#
 314985#Arch Mage Dim Crystal#
 314986#Dragon Knight Dim Crystal#
+315055#Flower Garden#
 315109#Imperial Guard Dim Crystal#
 315110#Hyper Novice Dim Crystal#
 315111#Sky Emperor Dim Crystal#
@@ -14747,6 +14763,7 @@
 400705#Costume ROS 2024 Honor Crown#
 400706#Mask of Sin Fate#
 400709#Costume White Puppy Hat#
+400717#Costume Yakgwa Headband#
 400725#Costume Ghost Ship Captain Hat#
 400734#Varmundt Flame Circlet#
 400735#Varmundt Ice Circlet#
@@ -14832,6 +14849,7 @@
 401303#Costume Ruck Keeper#
 401315#Costume Fox Ear Beret#
 401319#Costume Dark Night Rune Helm#
+401320#Costume Blue Astrologer Hat#
 401390#[6th] Ayothaya Helm#
 401424#Costume Ancient Giant Helm#
 401426#Costume Mask of Blue Flame#
@@ -15011,6 +15029,8 @@
 410643#Little Garden-LT#
 410644#Floating Ball-LT#
 410657#Eye of Necromancer#
+410664#Costume Giant Panda#
+410719#Archangel Wing Ear#
 420000#Isabella Carrot#
 420002#Dullahan Mask#
 420003#CD in Mouth K#
@@ -15231,6 +15251,7 @@
 420841#All Above Time(Supreme)-LT#
 420855#Costume Cultivation Pod#
 420864#Baby Gray Wolf In Mouth-LT#
+420875#Costume Moon Bow Hair#
 420930#Snow Aura-LT#
 420943#Adam's Apple In Mouth-LT#
 430001#Costume Helm of Amon Ra#
@@ -15664,6 +15685,7 @@
 470326#Thanos Boots (Shooter)#
 470327#Thanos Boots (Magic)#
 470328#Thanos Boots (Fighter)#
+470330#Santa Red Boots#
 470424#Aladdin Shoes#
 470442#Ayothaya Adventurer's Boots#
 470456#Ayothaya Adventurer's Boots-LT#
@@ -15766,6 +15788,7 @@
 480201#Costume Guardian Angel Wings#
 480202#Costume Guardian Fairy Wing#
 480203#Costume Blue Magic Circle#
+480204#Costume Back Ribbon Bell (Blue)#
 480205#Costume Astra Blessing#
 480206#[Not For Sale] Anti-Magic Manteau#
 480207#Costume Traveller Bag#
@@ -15968,6 +15991,7 @@
 480780#Costume Nine-Tailed Fox of Blazing Crimson Flames#
 480783#Costume Dark Knight Cloak#
 480802#Costume Ancient Tao Gunka#
+480863#Costume Panda Bamboo#
 480876#Kumamon Doll#
 480908#Ragnarok Stars 2026 Cape#
 490004#Attacker Booster Ring#
@@ -16920,6 +16944,8 @@
 590065#Raid Human Driver#
 590119#Orrivane Mechanical Mace#
 590120#Orrivane Biologic Scepter#
+590137#[Event] YONIA#
+590138#[Event] RE-YONIA#
 600000#IDTest bothhand#
 600001#Boosting Two-Handed Sword#
 600004#Dragonic Slayer#
@@ -18023,6 +18049,8 @@
 1001799#Kiel Effect (Lower)#
 1001802#ROS Coin#
 1001814#Golden Apple#
+1001827#Pine Needles#
+1001828#Thanksgiving Gift Ticket#
 1001831#[Event] 4th Class Pre-Event Invitation#
 1001860#Tears of Fury (High)#
 1001861#Tears of Fury (Medium)#
@@ -18063,6 +18091,7 @@
 1002059#[Event] Farmhouse Coin#
 1002060#[Event] Chicken Egg#
 1002093#[Event] High Enchant Ticket#
+1002108#Blue Butterfly Footprint (Garment)#
 1002120#[5th] Gem Pick Ticket#
 1002121#[5th] Gem Pick Shop Ticket#
 1002122#[5th] Gem Pick Shop Special Ticket#
@@ -18178,6 +18207,7 @@
 1002804#ROL Rideword Certificate#
 1002805#[Event] Cross Event Coin#
 1002806#Ethernal Snow Flower#
+1002822#Flower Garden (Garment)#
 1002857#[6th] Anniversary Jumping Ticket#
 1002858#[6th] Anniversary Silver Coin#
 1002860#[6th] Supreme Crystal#
@@ -18225,6 +18255,10 @@
 1003153#Adam's Kitchen Knief#
 1003182#[Event] Knight Honor Coin#
 1003183#[Event] Soul of the Fallen#
+1003194#[Event] ความทรงจำของช่าง#
+1003195#[Event] Silver Coin#
+1003196#[Event] Gold Coin#
+1003197#Zeny Lucky Chip#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
