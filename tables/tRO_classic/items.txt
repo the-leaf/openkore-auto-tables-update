@@ -1129,6 +1129,7 @@
 2027#Sunflower Kid#
 2040#Probation Staff#
 2048#Aeon Staff#
+2049#Blue Flame Cane#
 2101#Guard#
 2102#Guard#
 2103#Buckler#
@@ -6257,6 +6258,9 @@
 15358#Angeling Balloon#
 15359#Ghostring Balloon#
 15360#Archangeling Balloon#
+15378#Lava Leather Armor#
+15379#Lava Leather Suit#
+15380#Lava Leather Robe#
 15470#[NFS] Sprint Gloves#
 15476#[NFS] Diabolus Wing#
 15483#[NFS] ROE T-Shirt#
@@ -7401,6 +7405,9 @@
 20862#EXE Backpack#
 20863#Menblatt Wing Manteau#
 20918#Angeling Poring Wing#
+20935#Lava Leather Manteau#
+20936#Lava Leather Muffler#
+20937#Lava Leather Hood#
 20944#Anti-Magic Manteau#
 20949#Ladon's Skin#
 20955#Christmas Guardian Tree#
@@ -7414,6 +7421,7 @@
 20988#Costume Mechanical Butterfly#
 20989#Costume Wind-up Screw#
 20990#Costume Rotating Gears#
+20992#Costume New Year Fairy of Eden#
 21000#Upgrade Twohand Sword#
 21001#Bellum Claymore#
 21002#Bellum Katzbalger#
@@ -7430,6 +7438,7 @@
 21018#Lindy Hop#
 21030#Probation Knight Two-Handed Sword#
 21038#Oriental Sword#
+21039#Royal Knight's Broadsword#
 21058#Awakened Dragonic Slayer#
 21065#[NFS]Oriental Sword#
 21066#[NFS]Dragonic Slayer#
@@ -7487,6 +7496,9 @@
 22126#Awakening Eden Group Boots V#
 22141#YSF01 Greaves#
 22171#Ancient Hero Boots#
+22199#Lava Leather Boots#
+22200#Lava Leather Shoes#
+22201#Lava Leather Sandals#
 22202#Incursion Temporal Boots#
 22257#Midgard Cup Sprint Boots#
 22258#[NFS] Incursion Temporal Boots#
@@ -7822,6 +7834,7 @@
 23720#Shadow Random Option Box#
 23727#[NFS] Unlimited Drink#
 23770#Costume Enchant Stone Box 16#
+23815#Magma Essence#
 23898#[NFS] Power Booster#
 23899#[NFS] Almighty#
 23901#New User Registration Box(110)#
@@ -8479,12 +8492,15 @@
 25856#Gunslinger Stone (Middle)#
 25857#Gunslinger Stone (Lower)#
 25858#Rebellion Stone (Garment)#
+26016#Royal Knight's Lance#
 26025#[NFS] Aquatic Spear#
 26100#P.Foxtail II#
 26101#P.Foxtail III#
 26111#Metal Foxtail#
 26112#Probation Foxtail#
 26118#Shadow Staff#
+26138#Hellfire Staff#
+26139#Icicle Staff#
 26178#[NFS] Shadow Staff#
 26180#[NFS] Chilling Cane#
 27012#Kick Step Card#
@@ -8567,6 +8583,24 @@
 27264#Evil Shadow Card#
 27265#Evil Believer Card#
 27326#Morocc Necromancer Card#
+27346#Rigid Muspellskoll Card#
+27347#Rigid Kaho Card#
+27348#Rigid Lava Golem Card#
+27349#Rigid Explosion Card#
+27350#Rigid Earth Deleter Card#
+27351#Rigid Sky Deleter Card#
+27352#Rigid Nightmare Terror Card#
+27353#Rigid Blazer Card#
+27354#Corrupted Raydric Card#
+27355#Corrupted Raydric Archer Card#
+27356#Frozen Gargoyle Card#
+27357#Corrupted Sting Card#
+27358#Prison Breaker Card#
+27359#Ice Ghost Card#
+27360#Flame Ghost Card#
+27361#Corrupted Wanderer Card#
+27362#Corrupted Queen Spider Card#
+27363#Corrupted Dark Lord Card#
 27384#Mutating White Knight Card#
 27385#Mutating Khalitzburg Card#
 27412#MaxHP+15%#
@@ -8688,6 +8722,7 @@
 28605#Vicious Mind Book#
 28613#Probation Scholar Magicbook#
 28614#Probation High Priest Bible#
+28619#Prisoner's Diary#
 28630#Exorcist's Bible#
 28646#[NFS]Exorcist's Bible#
 28703#Dagger Of Infinite#
@@ -9694,7 +9729,10 @@
 107952#[NFS] Freedom Stick Modification Cube#
 107953#[NFS] Chilling Cane Modification Cube#
 107954#[NFS] Blue Crystal Staff Modification Cube#
+107973#Fire Shadow Smelting Hammer#
 108030#Virgo Scroll#
+108058#Record of Jellyfish Scroll#
+108059#Dragonwind Costume Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -10026,8 +10064,10 @@
 401213#Costume Jaow Pirun Sra Yok#
 401244#Aquarius Diadem#
 401245#[NFS] Aquarius Diadem#
+401284#Costume Wind Rune Helm#
 401288#Pisces Diadem#
 401289#[NFS] Pisces Diadem#
+401303#Costume Ruck Keeper#
 401321#Aries Crown#
 401322#[NFS] Aries Crown#
 401387#Taurus Crown #
@@ -10121,6 +10161,7 @@
 410320#Costume Freyja's Distorted Blink Eyes#
 410321#Wing Of Bless#
 410328#Costume Fluffy Bakery#
+410329#Costume Green Aura Dragon#
 410330#Costume Red Aura Dragon#
 410331#Costume Yellow Aura Dragon#
 410348#Divine Protect Shields#
@@ -10261,6 +10302,7 @@
 420424#Costume Ink Painting (Night)#
 420426#Costume White Fox Twin Tail#
 420427#Costume Lunatic Igloo#
+420429#Costume Guide's Letter#
 420439#Costume Food Truck#
 420501#Costume Hot Spring#
 420508#Costume Midgard Insignia#
@@ -10280,6 +10322,7 @@
 420730#Costume Gatchaman, Move Out!#
 420731#Costume Dr.Nambu's Emergency Transmission#
 420743#Costume Spirit Cat#
+420774#Costume Poporing Soap Pipe#
 420798#Costume Azure Flame Muffler#
 420940#Charm Of Leafwind#
 430001#Costume Helm of Amon Ra#
@@ -10534,6 +10577,7 @@
 480334#[NFS] Medical Cape#
 480336#Costume Summer Vacation of the Forest#
 480337#Costume Wooden Toy Rifle#
+480344#Costume Half Dragon Princess Scythe#
 480360#Costume Great Shuriken#
 480361#Costume Evil Dual Swords#
 480362#Costume White Nine Tails#
@@ -10637,6 +10681,8 @@
 490231#[NFS] Record of Thief#
 490236#Double Badge#
 490237#[NFS] Double Badge#
+490239#Record of Merchant#
+490240#[NFS]Record of Merchant#
 490265#Inception Ring#
 490266#[NFS] Inception Ring#
 490267#Shadow Ring#
@@ -10667,6 +10713,8 @@
 490378#Curse of Maebia Book#
 490379#[NFS] Curse of Maebia Book#
 490399#Boxer Glove#
+490400#Record of Archer#
+490401#[NFS]Record of Archer#
 490425#Magictool Ice#
 490426#[NFS] Magictool Ice#
 490441#Golden Attack Upgrade Ring#
@@ -10977,7 +11025,7 @@
 1000682#Clock Tower Key[Enchant]#
 1000836#[Event] Dragonica Certificate#
 1000875#Valhalla Idol Effect (Middle)#
-1000896#Ryujin Coin#
+1000896#Jellyfish Coin#
 1000923#Virgo Coin#
 1000965#[Holy] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
