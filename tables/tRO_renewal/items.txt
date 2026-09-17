@@ -12177,7 +12177,7 @@
 105452#Double Fortune Boost Shadow Lapine Box#
 105453#Time Holder Scroll#
 105496#Whisper's Soul Scroll#
-105521# White Knight Mantle & Type C Upgrade Cube#
+105521#White Knight Mantle & Type C Upgrade Cube#
 105522#OneOne Deep-fried Chicken#
 105523#OneOne Top-Up Box II#
 105533#[Event] Hero's Badge#
@@ -12311,6 +12311,9 @@
 107312#Flower of Yggdrasil Scroll#
 107313#Varmundt's Pass Buff#
 107314#Festa Stone Random Box#
+107316#Baby Shark Bag Selection Box#
+107317#Baby Shark Hood Selection Box#
+107318#Baby Shark Doll Selection Box#
 107390#Unlimited Comet Scroll#
 107391#+12 [A] Dim Glacier Weapon Selection Box#
 107392#Destiny Package I#
@@ -12371,6 +12374,10 @@
 108052#Royal Card Box#
 108073#[Event] Yonia box#
 108085#Re-Dim Suit Refine Hammer#
+108143#Elements Spirit Scroll#
+108144#Evt Tomb Reform 1#
+108145#Evt Tomb Reform 2#
+108146#[2026] Festa Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -12431,6 +12438,10 @@
 200833#Gatchaman Collaboration Package III#
 200834#Gatchaman Collaboration Package IV#
 200835#Gatchaman Collaboration Package V#
+200968#Baby Shark Hood Costume Package#
+200969#Baby Shark Bag Costume Package#
+200970#Baby Shark Doll Package#
+200971#Baby Shark Bag Package#
 300000#IDTest Card#
 300001#Poisonous Card#
 300002#Toxious Card#
@@ -12761,6 +12772,8 @@
 300784#Shadow Cross Dim Crystal#
 300785#Shinkiro&Shiranui Dim Crystal#
 300798#6th Anniversary Card#
+300834#Baby Shark Card#
+300835#Shark Family Card#
 300911#[Royal Knight] Flamel Emure Card#
 300912#Upgrade Arch Mage Card#
 300913#Upgrade Elemental Master Card#
@@ -14514,6 +14527,13 @@
 315714#Orrivane Orb (Inquisitor)#
 315715#Orrivane Orb (Troubadour & Trouvere)#
 315716#Orrivane Orb (Spirit Handler)#
+315726#Orrivane Orb (Night Watch)#
+315727#Orrivane Orb (Soul Ascetic)#
+315728#Orrivane Orb (Elemental Master)#
+315729#[Event] Sentimental of Melee#
+315730#[Event] Sentimental of Range#
+315731#[Event] Sentimental of Magic#
+315732#Experiment 101 Type-A#
 400000#Whistle#
 400001#Victorious Wing Ears#
 400002#Victorious Wing Ears#
@@ -14746,6 +14766,7 @@
 400496#Costume White Fox Ears#
 400502#Costume Ring#
 400504#Costume Autumn Piece#
+400511#Queen Scaraba Crown#
 400557#Costume Egg Picky Doll#
 400558#Costume Snowman Experience#
 400565#Costume Small Deviling Hat#
@@ -14753,6 +14774,7 @@
 400604#Costume Black Ribbon Beret#
 400628#Furious Crown (Dragon Knight)#
 400629#Furious Crown (Abyss Chaser)#
+400651#Furious Crown (Shadow Cross)#
 400656#Costume White Khalitzburg Knight Helm#
 400662#Furious Crown (Elemental Master)#
 400664#Costume Drooping Fei-Chai#
@@ -14763,6 +14785,7 @@
 400705#Costume ROS 2024 Honor Crown#
 400706#Mask of Sin Fate#
 400709#Costume White Puppy Hat#
+400710#Snake Queen Crown#
 400717#Costume Yakgwa Headband#
 400725#Costume Ghost Ship Captain Hat#
 400734#Varmundt Flame Circlet#
@@ -14850,6 +14873,12 @@
 401315#Costume Fox Ear Beret#
 401319#Costume Dark Night Rune Helm#
 401320#Costume Blue Astrologer Hat#
+401367#Costume Baby Shark Mascot Head#
+401372#Costume Baby Shark Hood#
+401373#Costume Mommy Shark Hood#
+401374#Costume Daddy Shark Hood#
+401375#Costume Grandma Shark Hood#
+401376#Costume Grandpa Shark Hood#
 401390#[6th] Ayothaya Helm#
 401424#Costume Ancient Giant Helm#
 401426#Costume Mask of Blue Flame#
@@ -15026,6 +15055,8 @@
 410609#Costume Nine-Tailed Fox#
 410615#Little Garden-LT#
 410616#Floating Ball-LT#
+410636#Costume Pilot Fish#
+410637#Costume Baby Shark Minimi#
 410643#Little Garden-LT#
 410644#Floating Ball-LT#
 410657#Eye of Necromancer#
@@ -15254,6 +15285,7 @@
 420875#Costume Moon Bow Hair#
 420930#Snow Aura-LT#
 420943#Adam's Apple In Mouth-LT#
+420978#Vicious Mind Aura-AD#
 430001#Costume Helm of Amon Ra#
 430003#[Not For Sale] Fancy Phantom Mask#
 430006#Wanderer's Sakkat#
@@ -15545,6 +15577,7 @@
 460179#Ignis Flame Guard-LT#
 460180#Forbidden Grimoire-LT#
 460184#Lyre Aegis#
+460186#Laser Gem Shield#
 470000#Attacker Booster Greaves#
 470001#Elemental Booster Shoes#
 470002#Defunct Booster Shoes#
@@ -15829,6 +15862,7 @@
 480263#[Not For Sale] Candy Bag Backpack (Magical)#
 480264#Costume Wing of Harmony#
 480269#Naght Sieger's Cloak of Vengeance#
+480270#Spirit Cloak of Naght Sieger#
 480274#Costume Angelic Long Hair (Royal Silver)#
 480275#[Not For Sale] Phreeoni Wing#
 480277#[Not for Sale] Christmas Guardian Tree#
@@ -15972,6 +16006,7 @@
 480642#Costume Celestial Messenger#
 480647#Automatic Engine Wing C-Type-LT#
 480650#Naght Sieger's Cloak of Vengeance-LT#
+480651#Spirit Cloak of Naght Sieger-LT#
 480658#Costume Arcanum Corvus Corax#
 480659#Costume Popcorn Bucket (Potion)#
 480664#Costume Cursed Serpent#
@@ -15991,9 +16026,17 @@
 480780#Costume Nine-Tailed Fox of Blazing Crimson Flames#
 480783#Costume Dark Knight Cloak#
 480802#Costume Ancient Tao Gunka#
+480818#Costume Baby Shark Bag#
+480819#Costume Mommy Shark Bag#
+480820#Costume Daddy Shark Bag#
+480821#Costume Grandma Shark Bag#
+480822#Costume Grandpa Shark Bag#
 480863#Costume Panda Bamboo#
 480876#Kumamon Doll#
 480908#Ragnarok Stars 2026 Cape#
+480943#Fallen Warrior Manteau-AD#
+480946#Fallen Protect Manteau-LT#
+480947#Baby Shark Bag#
 490004#Attacker Booster Ring#
 490005#Elemental Booster Earring#
 490006#Defunct Booster Earring#
@@ -16479,6 +16522,11 @@
 491090#Orrivane Ring (Inquisitor)#
 491091#Orrivane Ring (Troubadour & Trouvere)#
 491092#Orrivane Ring (Spirit Handler)#
+491096#White Furious Ring (Shadow Cross)#
+491097#Furious Ring (Abyss Chaser)#
+491098#Orrivane Ring (Night Watch)#
+491099#Orrivane Ring (Soul Ascetic)#
+491100#Orrivane Ring (Elemental Master)#
 500000#IDTest weapon#
 500001#Boosting Sword#
 500003#Light Blade#
@@ -16610,6 +16658,8 @@
 510141#[Event] Fate Dagger#
 510150#Furious Demonius#
 510151#Furious Demon Sword#
+510152#Furious Shape#
+510153#Furious Shadow#
 510160#Orrivane Abyss Dagger#
 510223#[Event] Golden Dagger#
 520000#Boosting Axe#
@@ -17004,6 +17054,7 @@
 610053#[Not For Sale] Katar#
 610054#Muqaddas Dayats#
 610056#Raid Human Katra#
+610071#Furious Impact#
 610094#Orrivane Shadow Katar#
 610095#Orrivane Shadow Cakram#
 620003#Power Tornado Booster Axe#
@@ -18231,6 +18282,7 @@
 1002934#Light Three Leaf Clover#
 1002935#[Event] Biosphere Report#
 1002938#Key of Magic Time#
+1002959#Baby Shark Coin#
 1002983#เหล็กไหลอโยธยา#
 1003029#Gray Wolf Leash#
 1003030#Lucky Flame Gas Canister#
@@ -18259,6 +18311,10 @@
 1003195#[Event] Silver Coin#
 1003196#[Event] Gold Coin#
 1003197#Zeny Lucky Chip#
+1003218#[Event] Soul of Honor#
+1003219#[Festa] บัตรเชิญปริศนา#
+1003220#[VIP] RO CARD#
+1003221#[Festa] บัตรเชิญที่น่าสงสัย#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
@@ -18281,6 +18337,8 @@
 1100028#Noodle#
 1100029#Dumpling#
 1100036#A Shared Fish#
+1100060#Baby Shark Bread#
+1100061#Baby Shark Singing Candy#
 1200000#IDTest arrow#
 1210000#IDTest canon#
 1220000#IDTest throw#
