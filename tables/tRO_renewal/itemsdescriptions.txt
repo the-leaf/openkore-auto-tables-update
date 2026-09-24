@@ -103939,8 +103939,91 @@ None
 #
 108146#
 ^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000
-กล่องที่อัดแน่นไปด้วยความสนุกสนามของเทศกาล Ragnarok Festa 2026
+กล่องที่อัดแน่นไปด้วยความสนุกสนานของเทศกาล Ragnarok Festa 2026
 น้ำหนัก : ^7777770^000000
+#
+108158#
+กล่องที่บรรจุ Orrivane Ring
+เมื่อเปิดใช้งาน จะสุ่มได้รับไอเท็ม 1 ชิ้นจากรายการด้านล่าง
+
+[ไอเท็มที่มีโอกาสได้รับ]
+Orrivane Ring (Abyss Chaser)
+Orrivane Ring (Arch Mage)
+Orrivane Ring (Cardinal)
+Orrivane Ring (Dragon Knight)
+Orrivane Ring (Elemental Master)
+Orrivane Ring (Hyper Novice)
+Orrivane Ring (Imperial Guard)
+Orrivane Ring (Inquisitor)
+Orrivane Ring (Meister)
+Orrivane Ring (Shadow Cross)
+Orrivane Ring (Shinkiro & Shiranui)
+Orrivane Ring (Sky Emperor)
+Orrivane Ring (Troubadour & Trouvere)
+Orrivane Ring (Windhawk)
+Orrivane Ring (Biolo)
+Orrivane Ring (Spirit Handler)
+Orrivane Ring (Soul Ascetic)
+Orrivane Ring (Night Watch)
+น้ำหนัก : ^7777771^000000
+#
+108159#
+เมื่อใส่ Orrivane Ring  ลงไป 2 ชิ้น จะได้รับ Orrivane Ring แบบสุ่มออกมา 1 ชิ้น
+
+[ไอเท็มที่มีโอกาสได้รับ]
+Orrivane Ring (Abyss Chaser)
+Orrivane Ring (Arch Mage)
+Orrivane Ring (Cardinal)
+Orrivane Ring (Dragon Knight)
+Orrivane Ring (Elemental Master)
+Orrivane Ring (Hyper Novice)
+Orrivane Ring (Imperial Guard)
+Orrivane Ring (Inquisitor)
+Orrivane Ring (Meister)
+Orrivane Ring (Shadow Cross)
+Orrivane Ring (Shinkiro & Shiranui)
+Orrivane Ring (Sky Emperor)
+Orrivane Ring (Troubadour & Trouvere)
+Orrivane Ring (Windhawk)
+Orrivane Ring (Biolo)
+Orrivane Ring (Spirit Handler)
+Orrivane Ring (Soul Ascetic)
+Orrivane Ring (Night Watch)
+น้ำหนัก : ^7777771^000000
+#
+108160#
+ไอเท็มสุดพิเศษจากงาน Ragnarok Urgent Call 2026 ภายในบรรจุรางวัลสุดล้ำค่า
+ลุ้นรับไอเทมหายากและเซอร์ไพรส์พิเศษที่รอคอยเหล่านักผจญภัยผู้กล้าทุกคน
+น้ำหนัก : ^7777771^000000
+#
+108161#
+None
+น้ำหนัก : ^7777770^000000
+#
+108162#
+กล่องที่ภายในบรรจุ Orrivane Crown สามารถเลือกได้รับตามประเภทหมวกที่ต้องการ
+ภายในสามารถเลือกรับไอเท็ม Orrivane Crown ได้ 1 ชิ้น จากทั้งหมด 18 ชนิด
+
+[รายการไอเท็มที่สามารถเลือกได้]
+Orrivane Crown (Dragon Knight)
+Orrivane Crown (Imperial Guard)
+Orrivane Crown (Meister)
+Orrivane Crown (Biolo)
+Orrivane Crown (Shadow Cross)
+Orrivane Crown (Abyss Chaser)
+Orrivane Crown (Cardinal)
+Orrivane Crown (Inquisitor)
+Orrivane Crown (Arch Mage)
+Orrivane Crown (Elemental Master)
+Orrivane Crown (Wind Hawk)
+Orrivane Crown (Troubadour & Trouvere)
+Orrivane Crown (Sky Emperor)
+Orrivane Crown (Soul Ascetic)
+Orrivane Crown (Night Watch)
+Orrivane Crown (Shinkiro & Shiranui)
+Orrivane Crown (Hyper Novice)
+Orrivane Crown (Spirit Handler)
+น้ำหนัก : ^7777771^000000
 #
 200000#
 เมื่อกดใช้จะได้รับ Fly wing 1 ea
@@ -107728,6 +107811,114 @@ MATK + 50
 เมื่ออาวุธขั้นอัพเกรด 10 ขึ้นไป เพิ่ม Damage สกิลดังกล่าวอีก 10%
 ประเภท : ^777777Card^000000
 ใช้กับ : ^777777Weapon^000000
+น้ำหนัก : ^7777771^000000
+#
+300991#
+MATK + 10%
+ลด Global Cooldown 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Imperial Sword และ Orrivane Ring (Imperial Guard),
+เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%, MATK + 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Arch Staff หรือ Orrivane Arch Wand และ Orrivane Ring (Arch Mage),
+สามารถใช้งานสกิล Earth Insignia Lv.3 ได้, MATK + 10%
+
+เมื่อสวมใส่ร่วมกันกับ Orrivane Elemental Magic Book หรือ Orrivane Elemental Spell Book และ Orrivane Ring (Elemental Master),
+สามารถใช้งานสกิล Comet Lv.1 ได้, MATK + 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Saint Wand และ Orrivane Ring (Cardinal),
+เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%, MATK+ 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Musical Violin หรือ Orrivane Musical Ribbon และ Orrivane Ring (Troubadour & Trouvere),
+เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 10%, MATK + 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Hyper Wand และ Orrivane Ring (Hyper Novice),
+สามารถใช้งานสกิล Fire Insignia Lv.3 ได้, MATK + 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Wheel Shuriken, และ Orrivane Ring (Shinkiro & Shiranui),
+สามารถใช้งานสกิล Mystical Amplification Lv.10 ได้, เมื่อโจมตีทางเวทมนตร์มีโอกาส 3% ที่จะ S.MATK + 20, SPL+ 100 เป็นเวลา 10 วินาที
+
+เมื่อสวมใส่ร่วมกับ  Orrivane Soul Wand หรือ Orrivane Soul Stick และ Orrivane Ring (Soul Ascetic),
+สามารถใช้งานสกิล Comet Lv.1 ได้, MATK + 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Spirit Foxtail Model และ Orrivane Ring (Spirit Handler),
+ลด Cooldown สกิล Lope 1.5 วินาที, MATK + 10%
+ประเภท : ^777777Card^000000
+ใช้กับ : ^777777Accessory (Right)^000000
+น้ำหนัก : ^7777771^000000
+#
+300992#
+เพิ่ม Damage ทางกายภาพระยะใกล้ 10%
+ลด Global Cooldown 10%
+
+เมื่อสวมใส่ร่วมกันกับ Orrivane Dragon Sword และ Orrivane Ring (Dragon Knight),
+Critical Damage + 20%, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Imperial Spear และ Orrivane Ring (Imperial Guard),
+สามารถใช้งานสกิล Enchant Deadly Poison Lv.5 ได้, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Mechanical Axe และ Orrivane Ring (Meister),
+เพิ่ม HIT Damage ทางกายภาพ 10%, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Biologic Scepter และ Orrivane Ring (Biolo),
+เพิ่ม HIT Damage ทางกายภาพ 10%, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Saint Book และ Orrivane Ring (Cardinal),
+Critical Damage + 20%, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Judgment Knuckle และ Orrivane Ring (Inquisitor),
+MHP + 10%, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Shadow Katar หรือ Orrivane Shadow Cakram และ Orrivane Ring (Shadow Cross),
+Critical Damage + 20%, ลด Cooldown สกิล Savage Impact 0.25 วินาที
+
+เมื่อสวมใส่ร่วมกับ Orrivane Abyss Dagger และ Orrivane Ring (Abyss Chaser),
+สามารถใช้งานสกิล Enchant Deadly Poison Lv.5 ได้, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%
+
+เมื่อสวมใส่ร่วมกันกับ Orrivane Hyper Sword และ Orrivane Ring (Hyper Novice),
+MaxHP + 20%, MaxHP + 5,000
+
+เมื่อสวมใส่ร่วมกับ Orrivane Emperor Star Book หรือ Orrivane Emperor Noon Book และ Orrivane Ring (Sky Emperor),
+เพิ่ม Damage ทางกายภาพต่อศัตรูทุกประเภท 15%, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%
+
+เมื่อสวมใส่ร่วมกันกับ Orrivane Huuma Shuriken และ Orrivane Ring (Shinkiro & Shiranui),
+Critical Damage + 20%, เพิ่ม Damage ทางกายภาพระยะใกล้ 10%
+ประเภท : ^777777Card^000000
+ใช้กับ : ^777777Accessory (Right)^000000
+น้ำหนัก : ^7777771^000000
+#
+300993#
+เพิ่ม Damage ทางกายภาพระยะไกล 10%
+ลด Global Cooldown 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Dragon Lance และ Orrivane Ring (Dragon Knight),
+ลดระยะเวลาร่ายแบบแปรผันสกิล Dragonic Breath 100%, เพิ่ม Damage ทางกายภาพระยะไกล 10%
+
+เมื่อสวมใส่ร่วมกันกับ Orrivane Mechanical Mace  และ Orrivane Ring (Meister),
+เพิ่ม HIT Damage ทางกายภาพ 10%, เพิ่ม Damage ทางกายภาพระยะไกล 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Biologic Sword  และ Orrivane Ring (Biolo),
+Critical Damage + 20%, เพิ่ม Damage ทางกายภาพระยะไกล 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Judgment Claw และ Orrivane Ring (Inquisitor),
+Critical Damage + 20%, เพิ่ม Damage ทางกายภาพระยะไกล 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Wind Bow หรือ Orrivane Wind Crossbow และ Orrivane Ring (Wind Hawk),
+Critical Damage + 20%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Abyss Crossbow และ Orrivane Ring (Abyss Chaser),
+Critical Damage + 20%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Night Gatling หรือ Orrivane Night Pistol และ Orrivane Ring (Night Watch),
+เพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 10%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Spirit Foxtail  และ Orrivane Ring (Spirit Handler),
+ลด Cooldown สกิล Lope 6 วินาที, เพิ่ม Damage ทางกายภาพระยะไกล 10%
+
+เมื่อสวมใส่ร่วมกับ Orrivane Musical Harp หรือ Orrivane Musical Rope และ Orrivane Ring (Troubadour & Trouvere),
+เพิ่ม HIT Damage ทางกายภาพ 10%, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 10%
+ประเภท : ^777777Card^000000
+ใช้กับ : ^777777Accessory (Right)^000000
 น้ำหนัก : ^7777771^000000
 #
 310000#
@@ -127828,7 +128019,7 @@ DEF/MDEF - 5
 [ความสามารถพิเศษจำกัดเวลา]
 เพิ่มค่าประสบการณ์จากมอนสเตอร์ 10%, เพิ่มอัตราดรอปไอเทม 10%
 สามารถใช้งานสกิล Convenio Lv.1 ได้
-(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 6 มกราคม 2569)
+(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 6 มกราคม 2570)
 ประเภท : ^777777Headgear^000000 พลังป้องกัน : ^7777775^000000
 ตำแหน่ง : ^777777Lower^000000 น้ำหนัก : ^77777710^000000
 เลเวลที่ต้องการ : ^777777170^000000
@@ -135819,7 +136010,7 @@ MHP, MSP + 5%
 
 เมื่อสวมใส่ร่วมกับ Celine Kimi Card,
 เพิกเฉยต่อพลังป้องกันทางกายภาพ/เวทมนตร์ของศัตรูประเภท Boss 50%, 
-เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท 30%
+เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูประเภท Boss 30%
 
 [Option เพิ่มเติมตาม Grade]
 [Grade D] ATK, MATK + 100
@@ -138023,10 +138214,13 @@ P.ATK+10,
 เมื่ออัพเกรดถึงขั้น 11, เพิ่ม Damage ทางเวทมนตร์ธาตุ Water, Fire, Ghost 10%
 เมื่ออัพเกรดถึงขั้น 12, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูธาตุ Neutral 12%
 เมื่ออัพเกรดถึงขั้น 13, เพิ่ม Damage ทางเวทมนต์ธาตุ Water, Fire, Ghost ขึ้นอีก 15%
+
 เมื่อสวมใส่ร่วมกับ Naght Sieger Card, 
 S.MATK+10, 
 เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูประเภท Boss 20%, 
-เมื่อโจมตีทางเวทมนตร์ มีโอกาส 2% ที่จะแปลงร่างเป็น Naght Sieger เป็นเวลา 10 วินาที และตลอดระยะเวลาที่แปลงร่าง จะเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูประเภท Boss ขึ้นอีก 20%, เพิ่ม Damage ทางเวทมนตตร์ธาตุ Water, Fire, Ghost 30%
+เมื่อโจมตีทางเวทมนตร์ มีโอกาส 2% ที่จะแปลงร่างเป็น Naght Sieger เป็นเวลา 10 วินาที และตลอดระยะเวลาที่แปลงร่าง จะเพิ่ม Damage ทางเวทมนตร์ต่อศัตรูประเภท Boss ขึ้นอีก 20%, เพิ่ม Damage ทางเวทมนตร์ธาตุ Water, Fire, Ghost 30%
+
+เมื่อสวมใส่กับ Spirit of Knight Lv.7, เมื่อขั้นอัพเกรด Garment ตั้งแต่ 12 ขึ้นไป เพิ่ม Damage ทางเวทมนต์ธาตุ Water, Fire, Ghost ขึ้นอีก 15%
 ประเภท : ^777777Garment^000000  พลังป้องกัน : ^7777770^000000
 น้ำหนัก : ^77777720^000000
 เลเวล Armor : ^7777771^000000
@@ -140498,6 +140692,14 @@ Red Flame Cannon, Magazine for One, Chulho Sonic Claw, Jupitel Thunderstorm 25%
 เลเวลที่ต้องการ : ^7777771^000000
 อาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000
 #
+480772#
+เครื่องประดับที่ออกแบบโดยได้แรงบันดาลใจจากปีกของนางฟ้า
+ประดับด้วยโคลเวอร์และกระดิ่ง ราวกับพกพาโชคเล็ก ๆ ติดตัวไปด้วย
+ประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000
+ตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000
+เลเวลที่ต้องการ : ^7777771^000000
+อาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000
+#
 480780#
 เครื่องประดับที่ถ่ายทอดพลังแห่งเปลวเพลิงสีชาดอันร้อนแรงในรูปของหางทั้งเก้า
 เปลวเพลิงสีแดงที่พลิ้วไหวอยู่เบื้องหลัง แผ่บารมีอันน่าเกรงขามจนสะกดทุกสายตา
@@ -140602,6 +140804,69 @@ P.ATK + 30, S.MATK + 30,
 เลเวลที่ต้องการ : ^7777771^000000
 อาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000
 #
+480866#
+วงเวทลึกลับดุจวงโคจรอันเจิดจรัสของดวงดาวบนท้องฟ้ายามค่ำคืน โอบล้อมร่างกายเอาไว้
+กล่าวกันว่าเป็นสิ่งที่มอบให้แก่ผู้คว้าชัยชนะอันทรงเกียรติจากสนามรบ
+
+ได้รับความสามารถของสกิล Discount Lv.10, Overcharge Lv.10
+
+เมื่อผู้สวมใส่เป็น Merchant Class หรือ Super Novice Class,
+ทุก ๆ Base Lv.20, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 1%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 1%
+
+เมื่อ Base POW 100, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 10%
+เมื่อ Base SPL 100, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%
+เมื่อ Base CON 100, เพิ่ม Damage ทางกายภาพระยะไกล 10%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%
+เมื่อ Base CRT 100, Critical Damage + 10%
+
+(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 19 พฤษภาคม 2570)
+
+ประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000
+ตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000
+เลเวลที่ต้องการ : ^7777771^000000
+อาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000
+#
+480867#
+วงเวทลึกลับดุจวงโคจรแห่งแสงที่ส่องประกายบนท้องฟ้ายามค่ำคืน โอบล้อมร่างกายเอาไว้
+กล่าวกันว่าเป็นสิ่งที่มอบให้แก่ผู้สร้างผลงานอันยอดเยี่ยมในการต่อสู้
+
+ได้รับความสามารถของสกิล Discount Lv.10, Overcharge Lv.10
+
+เมื่อผู้สวมใส่เป็น Merchant Class หรือ Super Novice Class,
+ทุก ๆ Base Lv.20, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 1%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 1%
+
+เมื่อ Base POW 100, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 6%
+เมื่อ Base SPL 100, เพิ่ม Damageทางเวทมนตร์ทุกธาตุ 6%
+เมื่อ Base CON 100, เพิ่ม Damage ทางกายภาพระยะไกล 6%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 6%
+เมื่อ Base CRT 100, Critical Damage + 6%
+
+(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 19 พฤษภาคม 2570)
+
+ประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000
+ตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000
+เลเวลที่ต้องการ : ^7777771^000000
+อาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000
+#
+480868#
+วงเวทลึกลับดุจวงโคจรแห่งดวงดาวบนท้องฟ้ายามค่ำคืน โอบล้อมร่างกายเอาไว้
+กล่าวกันว่าเป็นสิ่งที่มอบให้แก่ผู้ที่คว้ารางวัลจากการแข่งขัน
+
+ได้รับความสามารถของสกิล Discount Lv.10, Overcharge Lv.10
+
+เมื่อผู้สวมใส่เป็น Merchant Class หรือ Super Novice Class,
+ทุก ๆ Base Lv.30, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 1%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 1%
+
+เมื่อ Base POW 100, เพิ่ม Damage ทางกายภาพระยะใกล้/ไกล 4%
+เมื่อ Base SPL 100, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 4%
+เมื่อ Base CON 100, เพิ่ม Damage ทางกายภาพระยะไกล 4%, เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 4%
+เมื่อ Base CRT 100, Critical Damage + 4%
+
+(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 19 พฤษภาคม 2570)
+
+ประเภท : ^777777Costume^000000 พลังป้องกัน : ^7777770^000000
+ตำแหน่ง : ^777777Garment^000000 น้ำหนัก : ^7777770^000000
+เลเวลที่ต้องการ : ^7777771^000000
+อาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000
+#
 480876#
 ^ff0000ไอเท็มนี้ไม่สามารถแลกเปลี่ยนกับผู้เล่นคนอื่นได้^000000
 ตุ๊กตาคุมะมงตัวใหญ่ที่สามารถสะพายไว้บนหลังได้
@@ -140660,7 +140925,7 @@ P.ATK + 30, S.MATK + 30,
 เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 20%
 เพิ่มค่าประสบการณ์จากมอนสเตอร์ 10%, เพิ่มอัตราดรอปไอเทม 10%
 ทุก ๆ Base Lv. 10, ATK/MATK + 8
-(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 6 มกราคม 2569)
+(ความสามารถของไอเท็มชิ้นนี้จะถูกลบหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 6 มกราคม 2570)
 ประเภท : ^777777Garment^000000  พลังป้องกัน : ^77777730^000000
 น้ำหนัก : ^77777760^000000
 เลเวล Armor : ^7777772^000000
@@ -140685,8 +140950,8 @@ ATK + 100
 [Option เพิ่มเติมตาม Grade]
 [Grade D] STR + 55
 [Grade C] P.ATK + 10, MaxHP + 15%
-[Grade B] ทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางกายภาพและเวทมนตร์ต่อศัตรูทุกขนาด 4%
-[Grade A] เพิ่ม Damage ทางกายภาพ/เวทมนตร์ต่อศัตรูทุกเผ่า 15%
+[Grade B] ทุก ๆ การอัพเกรด 3 ขั้น, เพิ่ม Damage ทางกายภาพต่อศัตรูทุกขนาด 4%
+[Grade A] เพิ่ม Damage ทางกายภาพต่อศัตรูทุกเผ่า 15%
 ประเภท : ^777777Garment^000000  พลังป้องกัน : ^77777755^000000
 น้ำหนัก : ^777777150^000000
 เลเวล Armor : ^7777772^000000
@@ -147546,6 +147811,27 @@ ATK/MATK + 12%
 เลเวลที่ต้องการ : ^777777190^000000
 อาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000
 #
+490704#
+MATK+10%,
+เพิ่ม Damage ทางเวทมนตร์ทุกธาตุ 10%,
+ลด Global Cooldown 5%
+
+เมื่อสวมใส่ร่วมกับ Elvira Card หรือ Headless Mule Card หรือ  Dwigh Card หรือ Mavka Card หรือ Jennifer Card, 
+SPL+ 5,
+เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกประเภท 15%
+
+เมื่อสวมใส่ร่วมกับ Gioia Card หรือ Corrupted Queen Spider Card หรือ Phantom of Himmelmez Card หรือ Abysmal Witch Card หรือ Aquila Card,
+เพิ่มความต้านทานต่อการโจมตีทุกธาตุ 30%,
+เพิกเฉยต่อพลังป้องกันทางเวทมนตร์ของศัตรูทุกประเภท 30%,
+SPL + 10,
+เพิ่ม Damage ทางเวทมนตร์ต่อศัตรุทุกประเภท 30%,
+เมื่อใช้งาน Garment Lv.2, เพิ่ม Damage ทางเวทมนตร์ต่อศัตรูทุกธาตุ 20%
+ประเภท : ^777777Accessory^000000  พลังป้องกัน : ^7777770^000000
+น้ำหนัก : ^77777710^000000
+เลเวล Armor : ^7777772^000000
+เลเวลที่ต้องการ : ^777777130^000000
+อาชีพที่ใส่ได้ : ^777777ทุกอาชีพ^000000
+#
 490713#
 วงแหวนแห่งแสงสวรรค์ส่องประกายเจิดจ้า
 ราวกับแสงของเทพผู้ขจัดความมืดมิดให้จางหายไปสิ้น
@@ -151149,7 +151435,7 @@ P.ATK + 10,
 ประเภท : ^777777Accessory (Right)^000000 พลังป้องกัน : ^7777770^000000
 น้ำหนัก : ^77777720^000000
 เลเวลที่ต้องการ : ^777777205^000000
-อาชีพที่ใส่ได้ : ^777777어비스 체이서^000000
+อาชีพที่ใส่ได้ : ^777777Abyss Chaser^000000
 #
 491098#
 แหวนแห่ง Orrivance ที่เมื่อสวมใส่จะสัมผัสได้ถึงพลังอันแข็งแกร่งและประสาทสัมผัสอันเฉียบคมของอัศวินรัตติกาล ผู้ควบคุมความมืดและออกล่าเหล่าศัตรูดุจนักล่าในเงารัตติกาล
@@ -153481,7 +153767,7 @@ MATK + 180
 [Grade C] เพิ่ม Damage สกิล Shadow Stab 5%
 [Grade B] เพิ่ม Damage สกิล Shadow Stab ขึ้นอีก 10%
 [Grade A] ทุก ๆ การอัพเกรด 2 ขั้น, ATK + 4%, P.ATK + 4
-ประเภท : ^777777Dagger^000000 พลังป้องกัน : ^777777180^000000
+ประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777180^000000
 น้ำหนัก : ^777777140^000000
 เลเวล Weapon : ^7777775^000000
 เลเวลที่ต้องการ : ^777777205^000000
@@ -153497,7 +153783,7 @@ Dagger ที่ซึ่งบรรจุพลังแห่งโทสะ�
 [Grade A] เพิ่ม Damage สกิล Shadow Stab ขึ้นอีก 10%
  
 ^ff0000Furious Shadow ไม่สามารถใช้ Enchant อุปกรณ์ Furious ได้^000000
-ประเภท : ^777777Dagger^000000 พลังป้องกัน : ^777777120^000000
+ประเภท : ^777777Dagger^000000 พลังโจมตี : ^777777120^000000
 น้ำหนัก : ^777777100^000000
 เลเวล Weapon : ^7777775^000000
 เลเวลที่ต้องการ : ^777777205^000000
@@ -172809,6 +173095,11 @@ Red Flame Effect
 ได้ยินมาว่า หากสะสมการ์ดได้มากที่สุดจนติด 50 อันดับแรกของประเทศจะได้รับสิทธิ์จากชมรมทายปริศนาให้เข้าร่วมงานเทศกาล RO FESTA
 
 ^ff0000(ไอเท็มนี้จะถูกลบออกหลังปิดปรับปรุงเซิร์ฟเวอร์วันที่ 7 ตุลาคม 2569)^000000
+น้ำหนัก : ^7777770^000000
+#
+1003226#
+เศษเสี้ยวรูนเวทมนตร์ที่หลงเหลือจากพลังของ Orrivane Weapon
+ใช้เป็นวัตถุดิบสำหรับ Enchant และเสริมความสามารถให้กับ Orrivane Crown
 น้ำหนัก : ^7777770^000000
 #
 1100000#
