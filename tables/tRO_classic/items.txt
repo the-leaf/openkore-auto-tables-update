@@ -4698,6 +4698,7 @@
 9139#[SR]Dark Illusion Egg#
 9140#[SSR] Blue Moon Loli Ruri Egg#
 9148#[SSR]Dark Lord Egg#
+9193#[SSR]Mistress Egg#
 9510#Costume Enchant Stone Box 17#
 9523#Metal Refine Ticket#
 9539#Blue Potion Box#
@@ -9733,6 +9734,10 @@
 108030#Virgo Scroll#
 108058#Record of Jellyfish Scroll#
 108059#Dragonwind Costume Scroll#
+108148#[2026] Festa Box#
+108150#Special Stone Garment Box#
+108151#Ragnarok Urgent Call2026 Scroll#
+108157#Record of Black Wing Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9861,6 +9866,12 @@
 313069#Red Star Footprint#
 313559#Panda Footprint#
 313560#Panda Color Footprint#
+313738#Purified Stone Garment(STR)#
+313739#Purified Stone Garment(LUK)#
+313740#Purified Stone Garment(DEX)#
+313741#Purified Stone Garment(INT)#
+313742#Purified Stone Garment(VIT)#
+313743#Purified Stone Garment(AGI)#
 314171#Toothless Footprints#
 314172#Bouncing Toothless Footprints#
 314813#Operation Phoenix Footprints#
@@ -10081,6 +10092,10 @@
 401520#RCC WP 2026 Crown#
 401537#Virgo Diadem#
 401538#[NFS] Virgo Diadem#
+401561#Crown Of Emprie 1st #
+401562#Crown Of Emprie 2nd #
+401563#Crown Of Emprie 3rd #
+401564#Crown Of Emprie #
 410004#Gambler Seal#
 410005#Costume Magic Heir#
 410012#EXP Advicer#
@@ -10119,6 +10134,7 @@
 410180#Sigrun's Wing#
 410181#[NFS] Sigrun's Wing#
 410195#Costume Fluffy Lovely Fox#
+410198#Costume Special Match 2026#
 410199#Costume Midnight Candle#
 410200#Costume Butler Bunny#
 410201#Costume Haunting Skull#
@@ -10337,6 +10353,10 @@
 430030#Costume Ryu the Owl#
 440000#Costume Shark Hat#
 440010#Costume Bear Head#
+440013#Costume The Winner WORLD Prontera 2026#
+440014#Costume 1st Runner Up WORLD Prontera 2026#
+440015#Costume 2nd Runner Up WORLD Prontera 2026#
+440016#Costume 3rd Runner Up WORLD Prontera 2026#
 440018#Costume Helm of Galaxia#
 440026#Costume Cat Ears Whisper Cloth#
 440027#Costume Alecsander#
@@ -10647,6 +10667,7 @@
 480720#God's Spiritual Earth#
 480721#[NFS] God's Spiritual Earth#
 480725#Costume Sixth Sense Satan#
+480747#Costume Knight Order Sword & Shield#
 480780#Costume Nine-Tailed Fox of Blaze#
 480783#Costume Dark Knight Cloak#
 480876#Kumamon Doll#
@@ -10712,9 +10733,13 @@
 490370#[NFS] Celine's Brooch K#
 490378#Curse of Maebia Book#
 490379#[NFS] Curse of Maebia Book#
+490394#Record of Thief 2#
+490395#[NFS] Record of Thief 2#
 490399#Boxer Glove#
 490400#Record of Archer#
 490401#[NFS]Record of Archer#
+490418#Record of Mage 2#
+490419#[NFS] Record of Mage 2#
 490425#Magictool Ice#
 490426#[NFS] Magictool Ice#
 490441#Golden Attack Upgrade Ring#
@@ -11059,6 +11084,12 @@
 1001886#Kung Fu Panda Collaboration Coin#
 1001908#Panda Footprint (Garment)#
 1001909#Panda Color Footprint (Garment)#
+1001951#Purified Stone Garment(STR)#
+1001952#Purified Stone Garment(LUK)#
+1001953#Purified Stone Garment(DEX)#
+1001954#Purified Stone Garment(INT)#
+1001955#Purified Stone Garment(VIT)#
+1001956#Purified Stone Garment(AGI)#
 1002030#Reset Erymanthian Ticket#
 1002049#Costume Blueprint#
 1002056#Adventurer Pass Book#
@@ -11097,6 +11128,10 @@
 1003031#Red Flame Effect (Upper)#
 1003071#Midgard Cup Prediction Coin#
 1003072#Midgard Token#
+1003219#[Festa] บัตรเชิญปริศนา#
+1003220#[VIP] RO CARD#
+1003221#[Festa] บัตรเชิญที่น่าสงสัย#
+1003225#Black Wing Coin#
 1100000#IDTest heal#
 1100011#Monster Bread#
 1100023#Violet Potion#
