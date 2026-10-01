@@ -12383,6 +12383,12 @@
 108160#Ragnarok Urgent Call 2026 Scroll#
 108161#Orrivane Weapon Extractor#
 108162#Orrivane Crown Selection Box#
+108226#Booster Promotion Package#
+108237#[Event] Ragnarok Zero Buff#
+108249#Victory Buff#
+108250#Defeat Buff#
+108251#Midgard Symbol#
+108252#Issgard Symbol#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -12819,6 +12825,9 @@
 300991#Orrivane Magical Card#
 300992#Orrivane Fighter Card#
 300993#Orrivane Range Card#
+300995#Ragnarok Zero Global Card#
+300997#Midgard Card#
+300998#Issgard Card#
 310000#Sniper Stone II (Upper)#
 310001#Sniper Stone II (Middle)#
 310002#Sniper Stone II (Lower)#
@@ -14845,6 +14854,7 @@
 400960#Heroic Hairband (Biolo)#
 400961#Heroic Hairband (Meister) - LT#
 400962#Heroic Hairband (Biolo) - LT#
+401013#Costume Kingdom Crown#
 401086#Midgard Headgear of the Sun God#
 401113#Costume Snow Rune Helm#
 401114#Costume Asgard Wing Hairband#
@@ -14990,6 +15000,7 @@
 410277#Costume Ragdoll#
 410278#Costume Blinking Bloody Eyes#
 410280#Costume Niflheim Night Sky#
+410286#Costume Evileye of False Gods#
 410287#Costume Cosmic Connection#
 410289#Costume Baby Gloom Under Night#
 410290#Costume Jellyfish#
@@ -18329,6 +18340,9 @@
 1003220#[VIP] RO CARD#
 1003221#[Festa] บัตรเชิญที่น่าสงสัย#
 1003226#Orrivane Magic Rune Fragment#
+1003291#จดหมายคัดสรร#
+1003292#Midgard Coin#
+1003293#Issgard Coin#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
