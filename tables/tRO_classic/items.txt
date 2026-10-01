@@ -9866,12 +9866,12 @@
 313069#Red Star Footprint#
 313559#Panda Footprint#
 313560#Panda Color Footprint#
-313738#Purified Stone Garment(STR)#
-313739#Purified Stone Garment(LUK)#
-313740#Purified Stone Garment(DEX)#
-313741#Purified Stone Garment(INT)#
-313742#Purified Stone Garment(VIT)#
-313743#Purified Stone Garment(AGI)#
+313738#Special Stone Garment(STR)#
+313739#Special Stone Garment(LUK)#
+313740#Special Stone Garment(DEX)#
+313741#Special Stone Garment(INT)#
+313742#Special Stone Garment(VIT)#
+313743#Special Stone Garment(AGI)#
 314171#Toothless Footprints#
 314172#Bouncing Toothless Footprints#
 314813#Operation Phoenix Footprints#
@@ -10595,6 +10595,7 @@
 480320#Costume Songkran Aqua Fin Decoration#
 480333#Medical Cape#
 480334#[NFS] Medical Cape#
+480335#Costume Poring Surfboard#
 480336#Costume Summer Vacation of the Forest#
 480337#Costume Wooden Toy Rifle#
 480344#Costume Half Dragon Princess Scythe#
@@ -11084,12 +11085,12 @@
 1001886#Kung Fu Panda Collaboration Coin#
 1001908#Panda Footprint (Garment)#
 1001909#Panda Color Footprint (Garment)#
-1001951#Purified Stone Garment(STR)#
-1001952#Purified Stone Garment(LUK)#
-1001953#Purified Stone Garment(DEX)#
-1001954#Purified Stone Garment(INT)#
-1001955#Purified Stone Garment(VIT)#
-1001956#Purified Stone Garment(AGI)#
+1001951#Special Stone Garment(STR)#
+1001952#Special Stone Garment(LUK)#
+1001953#Special Stone Garment(DEX)#
+1001954#Special Stone Garment(INT)#
+1001955#Special Stone Garment(VIT)#
+1001956#Special Stone Garment(AGI)#
 1002030#Reset Erymanthian Ticket#
 1002049#Costume Blueprint#
 1002056#Adventurer Pass Book#
