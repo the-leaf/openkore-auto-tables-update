@@ -6898,6 +6898,7 @@
 19413#SnowFlake Tiara#
 19414#Morning Poring#
 19429#Zarathustra#
+19459#Costume Lunatic on Shoulder#
 19472#Costume Circlet of Time#
 19493#Sinister Horn Gear#
 19494#Frantic Looking#
