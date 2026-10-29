@@ -7511,6 +7511,7 @@
 20102#Costume Horse King#
 20103#Costume Drooping Panda#
 20105#Costume Fish Head Hat#
+20113#Costume Stargazer's Hat#
 20121#Costume Lotus Flower Hat#
 20122#Costume Happy Summer Ribbon#
 20129#Costume Poporing Hat#
@@ -9235,6 +9236,8 @@
 24888#Witty Shadow Earring#
 24908#Savage Shadow Armor#
 24909#Savage Shadow Shoes#
+24952#Explosion Shadow Earring#
+24953#Explosion Shadow Pendant#
 25000#SP Absorption Stone (Upper)#
 25001#DEF Stone (Middle)#
 25002#Change LUK (Middle)#
@@ -11919,6 +11922,7 @@
 102865#Red Rabbit Scroll#
 102866#Ancient Phantom's Spirit Card#
 102899#Chocolate Love Scroll#
+102900#Furious Refine Stone#
 102908#Fruit Parfait#
 102910#Strawberry Cream Cake#
 102911#Mont Blanc Cake#
@@ -12422,6 +12426,12 @@
 108386#Select Nebula [A] Box#
 108387#Evtnpcnebulabox#
 108388#EvtnpcboxMD1#
+108451#Full Moon Rabbit Scroll#
+108452#Ragnarok Festa 2026 Scroll#
+108453#[Event] Ragnarok Festa Potion#
+108454#Milestone Coupon#
+108455#Guild War Cross Event Box#
+108456#CuteBoy Special Box II#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -14523,6 +14533,7 @@
 314209#Heroic Valor (Biolo) Lv.1#
 314210#Heroic Valor (Biolo) Lv.2#
 314211#Heroic Valor (Biolo) Lv.3#
+314214#Divine Light Footprints#
 314237#Doram Clock#
 314238#Wanderer & Minstrel Clock#
 314239#Super Novice Magic Clock#
@@ -14598,6 +14609,13 @@
 315730#[Event] Sentimental of Range#
 315731#[Event] Sentimental of Magic#
 315732#Experiment 101 Type-A#
+315929#Ragnarok Festa Supreme (Triple)#
+315930#Ragnarok Festa STR (Triple)#
+315931#Ragnarok Festa AGI (Triple)#
+315932#Ragnarok Festa VIT (Triple)#
+315933#Ragnarok Festa INT (Triple)#
+315934#Ragnarok Festa DEX (Triple)#
+315935#Ragnarok Festa LUK (Triple)#
 400000#Whistle#
 400001#Victorious Wing Ears#
 400002#Victorious Wing Ears#
@@ -14848,6 +14866,7 @@
 400692#Costume Gold Paeonia#
 400693#Costume Red Paeonia#
 400694#Furious Crown (Arch Mage)#
+400695#Furious Crown (Inquisitor)#
 400699#Astraea Helm-LT#
 400705#Costume ROS 2024 Honor Crown#
 400706#Mask of Sin Fate#
@@ -15134,6 +15153,7 @@
 410644#Floating Ball-LT#
 410657#Eye of Necromancer#
 410664#Costume Giant Panda#
+410665#Costume Cons of Emoji#
 410680#Costume Angler Dream#
 410719#Archangel Wing Ear#
 420000#Isabella Carrot#
@@ -16127,12 +16147,14 @@
 480867#Costume ROS 2026 Victory Radiance#
 480868#Costume ROS 2026 Shining Radiance#
 480876#Kumamon Doll#
+480879#Costume Wings of Arrogant Thanatos#
 480895#Costume Tuna Fishing#
 480908#Ragnarok Stars 2026 Cape#
 480943#Fallen Warrior Manteau-AD#
 480946#Fallen Protect Manteau-LT#
 480947#Baby Shark Bag#
 480969#Green Storm Wing#
+480993#Scarlet Hero Manteau-LT#
 490004#Attacker Booster Ring#
 490005#Elemental Booster Earring#
 490006#Defunct Booster Earring#
@@ -16627,6 +16649,10 @@
 491107#Furious Ring (Shadow Cross)#
 491108#Furious Ring (Arch Mage)#
 491109#White Furious Ring (Shinkiro & Shiranui)#
+491130#White Furious Ring (Inquisitor)#
+491131#White Furious Ring (Arch Mage)#
+491132#Furious Ring (Shinkiro & Shiranui)#
+491133#Exotic Temporal Ring-LT#
 500000#IDTest weapon#
 500001#Boosting Sword#
 500003#Light Blade#
@@ -16989,6 +17015,8 @@
 560040#Herosria Claw#
 560048#Muqaddas Mashts#
 560049#Raid Human Claw#
+560067#Furious Gale Claw#
+560068#Furious Extermination#
 560091#Orrivane Judgment Knuckle#
 560092#Orrivane Judgment Claw#
 570000#Boosting Guitar#
@@ -18195,10 +18223,10 @@
 1001745#Supreme Lubricant#
 1001746#175 Jumping Ticket#
 1001749#Lucky Metal#
-1001753#Episode 13 Clear Ticket#
+1001753#[Event] Episode 13 Clear Ticket#
 1001754#The Honor Headstone#
-1001755#Episode 14 Clear Ticket#
-1001756#Episode 15 Clear Ticket#
+1001755#[Event] Episode 14 Clear Ticket#
+1001756#[Event] Episode 15 Clear Ticket#
 1001785#Landverse Special Enchant Exotic Boots#
 1001798#Wraith of Thought#
 1001799#Kiel Effect (Lower)#
@@ -18286,6 +18314,7 @@
 1002258#Spend Promotion Coupon#
 1002272#Super High Grade Lubricant#
 1002286#ROS 2025 Footprint (Garment)#
+1002296#Divine Light Footprints (Garment)#
 1002305#Wonder Star Egg#
 1002311#MVP Q-Pet Coin#
 1002318#ROS Predict Ticket#1#
@@ -18439,6 +18468,15 @@
 1003293#Issgard Coin#
 1003338#Nebula Coin#
 1003339#Nebula Enchant Ticket#
+1003349#Exotic Temporal Diamond#
+1003351#Ragnarok Festa Stone Supreme (Triple)#
+1003352#Ragnarok Festa Stone STR (Triple)#
+1003353#Ragnarok Festa Stone AGI (Triple)#
+1003354#Ragnarok Festa Stone VIT (Triple)#
+1003355#Ragnarok Festa Stone INT (Triple)#
+1003356#Ragnarok Festa Stone DEX (Triple)#
+1003357#Ragnarok Festa Stone LUK (Triple)#
+1003358#Milestone Card#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
@@ -18473,6 +18511,8 @@
 1230000#IDTest ammo#
 1270081#Stab Shadow Armor#
 1270082#Stab Shadow Shoes#
+1270085#Flame Bomb Shadow Armor#
+1270086#Flame Bomb Shadow Shoes#
 1270127#Limit Break Shadow Earring#
 1270128#Limit Break Shadow Pendant#
 1270142#Nebula Melee Shadow Weapon#
