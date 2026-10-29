@@ -3337,6 +3337,7 @@
 5944#Bandit Hood#
 5946#Drama Clockwork#
 5969#Queen Anz Revenge#
+5979#Costume Fluttering Angel's Wing#
 5980#Costume Classical Feather Hat#
 6000#Ashes of Darkness#
 6001#Essence of Fire#
@@ -4659,6 +4660,7 @@
 9058#Snow Rabbit Egg#
 9059#Tikbalang Egg#
 9062#Novice Poring Egg#
+9068#Blue Unicorn Egg#
 9069#Mastering Egg#
 9070#Savage Egg#
 9071#Grand Peco Peco Egg#
@@ -5147,6 +5149,7 @@
 12349#Cornus' Tears#
 12350#Angeling Potion#
 12351#Shout Megaphone#
+12352#Dungeon Teleport Scroll III#
 12353#Small Bottle#
 12354#Buche De Noel#
 12355#Xmas Gift#
@@ -6259,6 +6262,7 @@
 15358#Angeling Balloon#
 15359#Ghostring Balloon#
 15360#Archangeling Balloon#
+15367#Astraea Armor#
 15378#Lava Leather Armor#
 15379#Lava Leather Suit#
 15380#Lava Leather Robe#
@@ -6731,7 +6735,7 @@
 18829#2013 RWC no.2#
 18830#2013 RWC no.3#
 18832#Rolf Von Gigue the666th#
-18833#Marin Crown#
+18833#5th Anniversary Marin Crown#
 18838#Angeling Woolly Hat#
 18839#Poring Sunglasses#
 18842#Hat Of Girl#
@@ -7293,6 +7297,7 @@
 20492#Costume Whistle#
 20499#Costume Cat Ear Hat#
 20502#Costume Devil Wings#
+20505#Costume: Blue Cupid Wing#
 20506#Costume Invisible Manteau#
 20507#Costume Poring Bag#
 20508#Costume Poster Girl Hat#
@@ -7311,11 +7316,13 @@
 20527#Costume Pink Butterfly Wing#
 20528#Costume Gold Butterfly Wing#
 20529#Costume RCC Commemorative Flag#
+20530#Costume Gabriel's Wings#
 20535#Costume: Digital Space#
 20541#Costume Angel's Ribbon Wings#
 20543#Costume Halloween Pumpkin Bag#
 20544#Costume Gold Shower#
 20545#Costume Christmas Tree#
+20547#Costume: Whisper's Blessing#
 20548#Costume Popping Poring Aura#
 20556#Costume Aura of Night#
 20567#Costume Aura of Darkness#
@@ -7407,6 +7414,7 @@
 20856#YSF01 Manteau#
 20862#EXE Backpack#
 20863#Menblatt Wing Manteau#
+20905#Astrea Manteau#
 20918#Angeling Poring Wing#
 20935#Lava Leather Manteau#
 20936#Lava Leather Muffler#
@@ -7498,6 +7506,7 @@
 22125#Awakening Eden Group Boots IV#
 22126#Awakening Eden Group Boots V#
 22141#YSF01 Greaves#
+22167#Astraea Shoes#
 22171#Ancient Hero Boots#
 22199#Lava Leather Boots#
 22200#Lava Leather Shoes#
@@ -8554,6 +8563,10 @@
 27169#Payon Soldier Card#
 27183#Gigantes Card#
 27184#Knight Sakray Card#
+27196#Nihil M. Heine Card#
+27197#Agnes Lugenburg Card#
+27198#Jurgen Wigner Card#
+27199#Spica Nerious Card#
 27209#Sealed Q Scaraba Card#
 27210#Sealed Thanatos Card#
 27211#Sealed Baphomet Card#
@@ -8588,6 +8601,8 @@
 27264#Evil Shadow Card#
 27265#Evil Believer Card#
 27326#Morocc Necromancer Card#
+27331#Kronecker G. Heine Card#
+27333#Skia Nerious Card#
 27346#Rigid Muspellskoll Card#
 27347#Rigid Kaho Card#
 27348#Rigid Lava Golem Card#
@@ -8608,6 +8623,8 @@
 27363#Corrupted Dark Lord Card#
 27384#Mutating White Knight Card#
 27385#Mutating Khalitzburg Card#
+27394#Kathryn Wigner Card#
+27396#Isaac Wigner Card#
 27412#MaxHP+15%#
 28000#Thanos Katar#
 28001#Evil Slayer Ripper Katar#
@@ -9060,6 +9077,7 @@
 31300#Costume Warm Cat Muffler#
 31301#Costume Blinking Eyes#
 31302#Costume Black Magenta Ribbon#
+31305#Costume Walking Poring#
 31314#Costume Horns of Forest#
 31315#Costume Stall of Angel#
 31316#Costume Black Swallowtail Wings#
@@ -9234,6 +9252,7 @@
 31973#Costume Blossom Glasses#
 31982#Costume Sword Master Crown#
 32004#Probation Paladin Lance#
+32219#Astraea Ring#
 32237#Celine's Brooch K#
 32302#Crimson Rose#
 100000#IDTest Special#
@@ -9744,9 +9763,25 @@
 108150#Special Stone Garment Box#
 108151#Ragnarok Urgent Call2026 Scroll#
 108157#Record of Black Wing Scroll#
+108238#Transformer (Marin)#
+108239#[Event] Rise of Awakened Scroll#
+108240#5th Anniversary Costume Box#
 108285#Libra Scroll#
 108297#Spirit Cat Record Scroll#
 108300#Halloween Costume Scroll#
+108338#5th Anni Ring Attack Box#
+108339#5th Anni Ring Magic Box#
+108340#Ring of Experience 7 Day Box#
+108341#Giant Fly Wing 7 Day#
+108342#Party Giant Fly Wing 7 day box#
+108343#Guyak Pudding 7 Day#
+108344#Guyak Pudding 7 Day box#
+108363#Boosting Weapon Box#
+108364#Boosting Armor Box#
+108365#Boosting Promotion Box#
+108385#5th Anniversary Card Album#
+108409#5th Anniversary Scroll#
+108449#Pre Register Anniversary Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9783,12 +9818,19 @@
 200950#Gatchaman Collaboration Package II#
 200951#Gatchaman Collaboration Package III#
 300000#IDTest Card#
+300128#Wolf Lugenburg Card#
+300130#Poe Richard Card#
 300152#Angel Blessing Effect#
 300157#Time Accessory Effect#
 300209#Sealed Nightmare Amon Ra Card#
 300291#1st Anniversary Card#
+300308#Meyer Lugenburg Card#
+300310#Helmut Lugenburg Card#
 300385#Valhalla Idol Effect#
 300419#Baby Camellia Effect#
+300422#Catherine Gaebolg Card#
+300424#Friedrich S. Heine Card#
+300426#Crux Findel Card#
 300534#[Event] Seyren's Memory#
 300535#[Event] Howard's Memory#
 300536#[Event] Eremes's Memory#
@@ -9833,6 +9875,7 @@
 310189#Assassin Cross Stone II (Lower)#
 310190#Assassin Cross Stone II (Middle)#
 310191#Assassin Cross Stone II (Upper)#
+310197#Heaven and Earth Collapse#
 310257#Lord Knight Stone II (Garment)#
 310258#Lord Knight Stone II (Upper)#
 310259#Lord Knight Stone II (Middle)#
@@ -9899,6 +9942,7 @@
 400043#Fallen Angel Hairband#
 400056#Costume Blue Wavy Hair#
 400057#Costume Red Lotus Demon Wig#
+400075#Astraea Helm#
 400081#Costume 2024 RCC Naughty Ghost#
 400102#Costume RCC2022 Hat#
 400112#Costume Shining Santa Hat#
@@ -10000,6 +10044,7 @@
 400553#[NFS] Officer Cap#
 400554#Bilitary Beret#
 400555#[NFS] Bilitary Beret#
+400557#Costume Egg Picky Doll#
 400559#Costume Medarot's Headpiece#
 400561#Costume Angel Veil#
 400562#Costume Drooping Heinrich#
@@ -10226,6 +10271,7 @@
 410576#Costume Eye of Necromancer#
 410608#Costume Ear of Bloody Flame#
 410609#Costume Nine-Tailed Fox#
+410752#Cherub Coronet#
 420003#CD In Mouth#
 420005#Feeling of Love#
 420010#Costume Cons of Darkness#
@@ -10341,6 +10387,7 @@
 420525#Costume Twin Milky Way#
 420534#[NFS] Vassalage Necklace#
 420552#Costume Divine Invitation#
+420576#Costume Nightmare Chain#
 420593#Costume Halloween Candy Hair#
 420595#Costume Medjed Cloth#
 420597#Costume Halloween Pumpkin#
@@ -10355,6 +10402,7 @@
 420743#Costume Spirit Cat#
 420774#Costume Poporing Soap Pipe#
 420798#Costume Azure Flame Muffler#
+420887#Costume: Feather Hair#
 420940#Charm Of Leafwind#
 430001#Costume Helm of Amon Ra#
 430003#[NFS] Fancy Phantom Mask#
@@ -10373,11 +10421,16 @@
 440015#Costume 2nd Runner Up WORLD Prontera 2026#
 440016#Costume 3rd Runner Up WORLD Prontera 2026#
 440018#Costume Helm of Galaxia#
+440021#Costume Angeling Bubble#
 440026#Costume Cat Ears Whisper Cloth#
 440027#Costume Alecsander#
 440028#Costume Watermelon Headphone#
 440043#Costume Golden Baseball Cap#
 450000#IDTest armor#
+450001#Attacker Booster Plate#
+450002#Elemental Booster Robe#
+450003#Defunct Booster Robe#
+450004#Range Booster Suit#
 450039#Noblesse Fire Rain Suit#
 450121#Noblesse Super Novice Suit#
 450122#Noblesse Super Novice Robe#
@@ -10471,6 +10524,10 @@
 460105#[NFS] Diabolus Shield#
 460141#Mesarthim Mirror Shield#
 460149#Aries Shield#
+470000#Attacker Booster Greaves#
+470001#Elemental Booster Shoes#
+470002#Defunct Booster Shoes#
+470003#Range Booster Boots#
 470016#Noblesse Attack Boots#
 470017#Noblesse Magic Boots#
 470033#Elemental Boots#
@@ -10544,6 +10601,10 @@
 470481#Scorpio Shoes#
 470482#Sagittarius Shoes#
 470483#Ophiuchus Shoes#
+480000#Attacker Booster Manteau#
+480001#Elemental Booster Muffler#
+480002#Defunct Booster Muffler#
+480003#Range Booster Manteau#
 480012#Noblesse Attack Manteau#
 480014#Noblesse Magic Manteau#
 480052#Costume Blossom Festival Ribbon#
@@ -10702,6 +10763,7 @@
 480721#[NFS] God's Spiritual Earth#
 480725#Costume Sixth Sense Satan#
 480747#Costume Knight Order Sword & Shield#
+480772#Costume Angel's Gift#
 480780#Costume Nine-Tailed Fox of Blaze#
 480783#Costume Dark Knight Cloak#
 480876#Kumamon Doll#
@@ -10719,6 +10781,11 @@
 480891#Sagittarius Manteau#
 480892#Ophiuchus Manteau#
 480967#[NFS] Manteau of Mystic Frozen#
+480991#Angel Ribbon Wing#
+490004#Attacker Booster Ring#
+490005#Elemental Booster Earring#
+490006#Defunct Booster Earring#
+490007#Range Booster Brooch#
 490014#Noblesse Attack Ring#
 490015#Noblesse Magic Ring#
 490017#Imperial Attack Ring#
@@ -10869,7 +10936,10 @@
 491095#[NFS] Virgo Ring#
 491104#Libra Ring#
 491105#[NFS] Libra Ring#
+491120#5th ROC Anniversary Ring#
+491121#Ring of Experience 7 Day#
 500000#IDTest weapon#
+500001#Boosting Sword#
 500003#Light Blade#
 500035#Eden Group Super Novice Sword#
 500061#[NFS] Light Blade#
@@ -10884,6 +10954,8 @@
 500126#[NFS] Gladius Daemonicus#
 500147#Taurus Sword #
 500148#[NFS] Taurus Sword #
+510001#Boosting Dagger#
+510002#Boosting Nindo#
 510006#Fatalist#
 510067#[NFS] Kiri no Tsuyu#
 510068#[NFS] Surudoi Kaze#
@@ -10903,11 +10975,13 @@
 510210#[NFS] Awakened Blessed Knife #
 510219#Awakened Fortune Fang Dagger #
 510220#[NFS] Awakened Fortune Fang Dagger #
+520000#Boosting Axe#
 520032#Raid Human Axe#
 520039#Raid Ocean Axe#
 520040#WOE Axe 2#
 520067#Cancer Axe #
 520068#[NFS] Cancer Axe #
+530000#Boosting Spear#
 530006#Awakened Aquatic Spear #
 530048#Raid Human Spear#
 530059#Raid Ocean Trident#
@@ -10916,6 +10990,8 @@
 530084#Aries Spear#
 530085#[NFS] Aries Spear#
 530092#[NFS] Awakened Aquatic Spear #
+540000#Boosting Spellbook#
+540001#Boosting Text#
 540011#Awakened Exorcist's Bible#
 540076#Raid Human Magic Book#
 540092#Raid Ocean Book#
@@ -10940,6 +11016,7 @@
 550232#[NFS] Awakened Chilling Cane#
 550233#[NFS] Awakened Blue Crystal Staff#
 550234#[NFS] Blue Crystal Staff#
+560000#Boosting Knuckle#
 560002#Ray Knuckle#
 560009#Awakened Ray Knuckle#
 560049#Raid Human Claw#
@@ -10947,6 +11024,7 @@
 560069#WOE Pist 2#
 560093#[NFS] Awakened Ray Knuckle #
 560094#[NFS] Ray Knuckle #
+570000#Boosting Guitar#
 570002#Trumpet Shell#
 570009#Awakened Trumpet Shell#
 570050#Raid Human Guitar#
@@ -10956,6 +11034,7 @@
 570103#[NFS] Awakened Trumpet Shell#
 570104#Gemini Violin#
 570105#[NFS] Gemini Violin#
+580000#Boosting Whip#
 580002#Barbed Wire Whip K#
 580009#Awakened Barbed Wire Whip K#
 580051#Raid Human Whip#
@@ -10965,6 +11044,7 @@
 580103#[NFS] Awakened Barbed Wire Whip K #
 580104#Gemini Rope#
 580105#[NFS] Gemini Rope#
+590000#Boosting Mace#
 590002#Meteor Striker#
 590003#Saint Mace#
 590011#Awakened Meteor Striker#
@@ -10978,6 +11058,7 @@
 590135#Leo Mace#
 590136#[NFS] Leo Mace#
 600000#IDTest bothhand#
+600001#Boosting Two-handed Sword#
 600004#Dragonic Slayer#
 600040#[NFS] Two-Handed Sword#
 600044#Raid Human Masamune#
@@ -10987,6 +11068,7 @@
 600080#[NFS] Awakened Dragonic Slayer#
 600089#Krasnaya of Libra#
 600090#[NFS] Krasnaya of Libra#
+610000#Boosting Katar#
 610053#[NFS] Katar#
 610056#Raid Human Katar#
 610073#Raid Ocean Katar#
@@ -11008,6 +11090,7 @@
 630057#Aquatic Spear#
 630062#Polearm Halberd#
 630063#[NFS] Polearm Halberd#
+640000#Boosting Staff#
 640004#Blue Crystal Staff#
 640012#Awakened Blue Crystal Staff#
 640048#Raid Human Staff#
@@ -11022,6 +11105,7 @@
 650051#WOE Huuma Shuriken 2#
 650065#[NFS] Awakened Huuma Shuriken Clearness #
 700000#IDTest bow#
+700001#Boosting Bow#
 700003#Scarlet Dragon Leather Bow#
 700013#Awakened Narcissus Bow#
 700057#[NFS]Royal Bow#
@@ -11040,6 +11124,7 @@
 800051#[NFS] Awakened Crimson Rose #
 810003#Eden Group Gunslinger Rifle#
 820033#Raid Ocean Shotgun#
+830000#Boosting Gatling#
 830014#[NFS] The Black#
 840029#[NFS] Golden Lord Launcher#
 1000000#IDTest event#
@@ -11123,7 +11208,7 @@
 1001875#VIP Black Card#
 1001876#VIP Black Coin#
 1001877#VIP Black Ticket#
-1001878#4th Anniversary Jumping Event Ticket#
+1001878#5th Anniversary Jumping Event Ticket#
 1001886#Kung Fu Panda Collaboration Coin#
 1001908#Panda Footprint (Garment)#
 1001909#Panda Color Footprint (Garment)#
@@ -11147,7 +11232,7 @@
 1002440#Fragment of Echo Stone#
 1002441#Echo Stone#
 1002465#Gemstone Of Time#
-1002468#Certificate High Class#
+1002468#[NFS] Gacha Ticket#
 1002497#Ticket Guild Extension [Kamikaze]#
 1002498#Ticket Guild Extension [ลูกคุณหนูใจแตก]#
 1002499#Ticket Guild Extension [KingSize]#
@@ -11174,9 +11259,12 @@
 1003219#[Festa] บัตรเชิญปริศนา#
 1003220#[VIP] RO CARD#
 1003221#[Festa] บัตรเชิญที่น่าสงสัย#
-1003225#Black Wing Coin#
+1003225#5th Anniversary Coin#
+1003285#5th Pet Anniversary Ticket#
 1003307#Enchant Stone (Battle Pass)#
 1003308#Ancient Guarantee Enchant Ticket#
+1003311#5th Anniv God Hammer#
+1003312#5th Anniv God Furnace#
 1100000#IDTest heal#
 1100011#Monster Bread#
 1100023#Violet Potion#
