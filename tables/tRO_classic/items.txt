@@ -9715,6 +9715,7 @@
 107250#[NFS] Fortune Fang Dagger Modification Cube#
 107251#[NFS] Meteor Striker Modification Cube#
 107262#Spirit Cat Scroll#
+107314#Festa Stone Random Box#
 107315#Crescent Costume Scroll#
 107369#Fallen Heaven Scroll#
 107389#Taurus Crown Scroll#
@@ -9766,6 +9767,7 @@
 108238#Transformer (Marin)#
 108239#[Event] Rise of Awakened Scroll#
 108240#5th Anniversary Costume Box#
+108257#Ragnarok Festa 2026 Scroll#
 108285#Libra Scroll#
 108297#Spirit Cat Record Scroll#
 108300#Halloween Costume Scroll#
@@ -9779,9 +9781,12 @@
 108363#Boosting Weapon Box#
 108364#Boosting Armor Box#
 108365#Boosting Promotion Box#
+108384#CuteBoy Special Box II#
 108385#5th Anniversary Card Album#
 108409#5th Anniversary Scroll#
 108449#Pre Register Anniversary Box#
+108517#RO Festa Footprint Box#
+108518#RO Festa Effect Box#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9892,6 +9897,7 @@
 310325#Range Stone (Upper)#
 310326#Range Stone (Lower)#
 310330#Range Stone (Middle)#
+310850#Firework Effect#
 311016#Clockwork Device (ATK)#
 311017#Clockwork Device (MATK)#
 311018#Clockwork Device (ASPD)#
@@ -9924,10 +9930,19 @@
 313741#Special Stone Garment(INT)#
 313742#Special Stone Garment(VIT)#
 313743#Special Stone Garment(AGI)#
+313955#Blue Butterfly Footprint#
+314094#Blue Spirit Effect#
 314171#Toothless Footprints#
 314172#Bouncing Toothless Footprints#
+314795#Ragnarok Festa VIT (Upper)#
+314797#Ragnarok Festa STR (Upper)#
+314798#Ragnarok Festa AGI (Upper)#
+314799#Ragnarok Festa INT (Upper)#
+314800#Ragnarok Festa DEX (Upper)#
+314801#Ragnarok Festa LUK (Upper)#
 314813#Operation Phoenix Footprints#
 314879#Capricon Gem#
+315055#Flower Garden#
 315108#Aries Gem#
 315142#[Event] External's Memory#
 315170#Taurus Gem#
@@ -10271,6 +10286,7 @@
 410576#Costume Eye of Necromancer#
 410608#Costume Ear of Bloody Flame#
 410609#Costume Nine-Tailed Fox#
+410665#Costume Cons of Emoji#
 410752#Cherub Coronet#
 420003#CD In Mouth#
 420005#Feeling of Love#
@@ -10766,7 +10782,9 @@
 480772#Costume Angel's Gift#
 480780#Costume Nine-Tailed Fox of Blaze#
 480783#Costume Dark Knight Cloak#
+480802#Costume Ancient Tao Gunka#
 480876#Kumamon Doll#
+480879#Costume Wings of Arrogant Thanatos#
 480880#Capricorn Manteau#
 480881#Aquarius Manteau#
 480882#Pisces Manteau#
@@ -11174,6 +11192,7 @@
 1000467#Rebellion Pre-Register Ticket#
 1000552#Evil's Water#
 1000572#1st Anniversary Job Changing Ticket#
+1000573#Firework Effect (Upper)#
 1000619#World Moving Ticket#
 1000682#Clock Tower Key[Enchant]#
 1000836#[Event] Dragonica Certificate#
@@ -11222,6 +11241,8 @@
 1002049#Costume Blueprint#
 1002056#Adventurer Pass Book#
 1002093#[Event] Enchant Costume Ticket#
+1002108#Blue Butterfly Footprint (Garment)#
+1002193#Blue Spirit Effect (Middle)#
 1002224#Viking Token#
 1002239#Toothless Footprints (Garment)#
 1002240#Bouncing Toothless Footprints (Garment)#
@@ -11239,6 +11260,12 @@
 1002500#Ticket Guild Extension [Lounge Lamune]#
 1002501#Ticket Guild Extension [GM]#
 1002510#OOC Gold Bar#
+1002559#Ragnarok Festa Stone STR (Upper)#
+1002560#Ragnarok Festa Stone AGI (Upper)#
+1002561#Ragnarok Festa Stone VIT (Upper)#
+1002562#Ragnarok Festa Stone INT (Upper)#
+1002563#Ragnarok Festa Stone DEX (Upper)#
+1002564#Ragnarok Festa Stone LUK (Upper)#
 1002642#Operation Phoenix Footprints (Garment)#
 1002796#God Furnace#
 1002797#God Hammer#
@@ -11252,6 +11279,7 @@
 1002810#Stone of Spirit#
 1002811#Darkness Essence#
 1002812#Lost Ancient Record#
+1002822#Flower Garden (Garment)#
 1002982#Seraphim Leaf#
 1003031#Red Flame Effect (Upper)#
 1003071#Midgard Cup Prediction Coin#
