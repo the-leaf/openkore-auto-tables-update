@@ -7155,6 +7155,7 @@
 20099#Costume Fairy Kid#
 20101#Costume Bragi Wing Ears#
 20102#Costume Horse King#
+20113#Costume Stargazer's Hat#
 20121#Costume Lotus Flower Hat#
 20122#Costume Happy Summer Ribbon#
 20129#Costume Poporing Hat#
@@ -8194,6 +8195,8 @@
 24420#Temporal Transcendent Shadow Earring#
 24421#Temporal Transcendent Shadow Pendant#
 24625#Cross Shuriken Shadow Earring#
+24675#True Gemstone Shadow Armor#
+24676#True Gemstone Shadow Shoes#
 24677#True Gemstone Shadow Earring#
 24678#True Gemstone Shadow Pendant#
 24681#Maximum Mammoth Shadow Earring#
@@ -9717,6 +9720,9 @@
 107262#Spirit Cat Scroll#
 107314#Festa Stone Random Box#
 107315#Crescent Costume Scroll#
+107316#Baby Shark Bag Selection Box#
+107317#Baby Shark Hood Selection Box#
+107318#Baby Shark Doll Selection Box#
 107369#Fallen Heaven Scroll#
 107389#Taurus Crown Scroll#
 107430#[NFS] Aquatic Spear Modification Cube#
@@ -9787,6 +9793,7 @@
 108449#Pre Register Anniversary Box#
 108517#RO Festa Footprint Box#
 108518#RO Festa Effect Box#
+108559#Scorpio Scroll#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -9822,6 +9829,10 @@
 200949#Gatchaman Collaboration Package I#
 200950#Gatchaman Collaboration Package II#
 200951#Gatchaman Collaboration Package III#
+200968#Baby Shark Hood Costume Package#
+200969#Baby Shark Bag Costume Package#
+200970#Baby Shark Doll Package#
+200971#Baby Shark Bag Package#
 300000#IDTest Card#
 300128#Wolf Lugenburg Card#
 300130#Poe Richard Card#
@@ -9856,6 +9867,8 @@
 300734#Bird Missile Card#
 300753#Aquarius Gem#
 300786#Pisces Gem#
+300834#Baby Shark Card#
+300835#Shark Family Card#
 310000#Sniper Stone II (Upper)#
 310001#Sniper Stone II (Middle)#
 310002#Sniper Stone II (Lower)#
@@ -9952,6 +9965,7 @@
 315643#Leo Gem#
 315719#Virgo Gem#
 315764#Libra Gem#
+315942#Scorpio Gem#
 400020#Costume Beachball#
 400023#Drooping Thanatos's Dolor#
 400043#Fallen Angel Hairband#
@@ -10151,6 +10165,12 @@
 401303#Costume Ruck Keeper#
 401321#Aries Crown#
 401322#[NFS] Aries Crown#
+401367#Costume Baby Shark Mascot Head#
+401372#Costume Baby Shark Hood#
+401373#Costume Mommy Shark Hood#
+401374#Costume Daddy Shark Hood#
+401375#Costume Grandma Shark Hood#
+401376#Costume Grandpa Shark Hood#
 401387#Taurus Crown #
 401388#[NFS] Taurus Crown #
 401427#Cancer Crown #
@@ -10168,6 +10188,8 @@
 401564#Crown Of Emprie #
 401608#Libra Diadem#
 401609#[NFS] Libra Diadem#
+401658#Scorpio Diadem#
+401659#[NFS] Scorpio Diadem#
 410004#Gambler Seal#
 410005#Costume Magic Heir#
 410012#EXP Advicer#
@@ -10286,6 +10308,8 @@
 410576#Costume Eye of Necromancer#
 410608#Costume Ear of Bloody Flame#
 410609#Costume Nine-Tailed Fox#
+410636#Costume Pilot Fish#
+410637#Costume Baby Shark Minimi#
 410665#Costume Cons of Emoji#
 410752#Cherub Coronet#
 420003#CD In Mouth#
@@ -10663,6 +10687,7 @@
 480195#[NFS] Enforcer cape#
 480196#[NFS] Heal Amistr Bag#
 480201#Costume Guardian Angel Wings#
+480205#Costume Astra Blessing#
 480207#Costume Traveller Bag#
 480223#Costume Muramasa Blade#
 480226#Wing Of Happiness#
@@ -10783,6 +10808,11 @@
 480780#Costume Nine-Tailed Fox of Blaze#
 480783#Costume Dark Knight Cloak#
 480802#Costume Ancient Tao Gunka#
+480818#Costume Baby Shark Bag#
+480819#Costume Mommy Shark Bag#
+480820#Costume Daddy Shark Bag#
+480821#Costume Grandma Shark Bag#
+480822#Costume Grandpa Shark Bag#
 480876#Kumamon Doll#
 480879#Costume Wings of Arrogant Thanatos#
 480880#Capricorn Manteau#
@@ -10798,8 +10828,10 @@
 480890#Scorpio Manteau#
 480891#Sagittarius Manteau#
 480892#Ophiuchus Manteau#
+480947#Baby Shark Bag#
 480967#[NFS] Manteau of Mystic Frozen#
 480991#Angel Ribbon Wing#
+481010#[NFS] Manteau of Great Nature#
 490004#Attacker Booster Ring#
 490005#Elemental Booster Earring#
 490006#Defunct Booster Earring#
@@ -10956,6 +10988,8 @@
 491105#[NFS] Libra Ring#
 491120#5th ROC Anniversary Ring#
 491121#Ring of Experience 7 Day#
+491140#Scorpio Ring#
+491141#[NFS] Scorpio Ring#
 500000#IDTest weapon#
 500001#Boosting Sword#
 500003#Light Blade#
@@ -11094,6 +11128,8 @@
 610077#Faceworm Queen Teeth#
 610087#Shiver Katar#
 610088#[NFS] Shiver Katar#
+610106#Scorpio Katar#
+610107#[NFS] Scorpio Katar#
 620027#[NFS] Two-Handed_Axe#
 620032#Raid Human Slaughter#
 620041#Raid Ocean Two-Handed Axe#
@@ -11198,7 +11234,7 @@
 1000836#[Event] Dragonica Certificate#
 1000875#Valhalla Idol Effect (Middle)#
 1000896#Spirit Cat Record Coin#
-1000923#Libra Coin#
+1000923#Scorpio Coin#
 1000965#[Holy] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
 1001139#Flame Essence#
@@ -11280,6 +11316,7 @@
 1002811#Darkness Essence#
 1002812#Lost Ancient Record#
 1002822#Flower Garden (Garment)#
+1002959#Baby Shark Coin#
 1002982#Seraphim Leaf#
 1003031#Red Flame Effect (Upper)#
 1003071#Midgard Cup Prediction Coin#
@@ -11300,6 +11337,8 @@
 1100028#Noodle#
 1100029#Dumpling#
 1100036#A Shared Fish#
+1100060#Baby Shark Bread#
+1100061#Baby Shark Singing Candy#
 1200000#IDTest arrow#
 1210000#IDTest canon#
 1220000#IDTest throw#
