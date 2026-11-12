@@ -11582,7 +11582,12 @@
 101718#Maximum Mammoth Shadow Pendant Box#
 101719#Maximum Mammoth Shadow Armor Box#
 101720#Maximum Mammoth Shadow Shoes Box#
+101721#Spell Caster Shadow Earring Box#
+101722#Spell Caster Shadow Pendant Box#
+101723#Spell Caster Shadow Armor Box#
+101724#Spell Caster Shadow Shoes Box#
 101727#Maximum Mammoth Shadow Box#
+101728#Spell Caster Shadow Selection Box#
 101737#[Event] Level Up Battle Pass Box 5#
 101738#[Not for Sale] Fallen Warrior's Headgear 10 Refine Cube#
 101742#ROCxRazerGold Box#
@@ -11826,10 +11831,13 @@
 102426#Legacy G Scroll#
 102429#Dark Shadow Scroll#
 102439#2023 ROS Scroll#
+102440#Rune Tablet Engraving#
 102441#Costume Enchant Stone Box 32#
 102445#Special Candy Box#
 102446#Royal Knight Costume Scroll#
 102452#Peace Scroll#
+102456#New Enchant Test 01#
+102457#New Enchant Test 02#
 102482#Boots of Good and Evil Refine Hammer#
 102484#Falcon Scroll#
 102485#Shadow Essence 3 ea Box#
@@ -12432,6 +12440,17 @@
 108454#Milestone Coupon#
 108455#Guild War Cross Event Box#
 108456#CuteBoy Special Box II#
+108558#Celestial Heart Scroll#
+108588#Depth Specimen - Vitality#
+108589#Depth Specimen - Swiftness#
+108590#Depth Specimen - Essence#
+108591#Depth Specimen - Element#
+108592#Depth Specimen - Carapace#
+108593#Depth Booster - Melee#
+108594#Depth Booster - Range#
+108595#Depth Booster - Magic#
+108596#Varmundt Enchant Box (B)#
+108597#Varmundt Enchant Box (A)#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -12756,6 +12775,8 @@
 300479#[3rd Anniversary] Agony of Royal Knight Card#
 300480#[3rd Anniversary] Grudge of Royal Knight Card#
 300481#[3rd Anniversary] Himmelmez Card#
+300482#Low-Grade Rune Card#
+300483#Mid-Grade Rune Card#
 300487#Rebellion Elena Volkova Card#
 300489#Rebellion Lookie Card#
 300491#Rebellion Est Loveroy Card#
@@ -14287,6 +14308,86 @@
 312312#Issgard Crystal (Marksman)#
 312313#Issgard Crystal (Executioner)#
 312314#Issgard Crystal (Grand Mage)#
+312315#Flame Rune Lv.1#
+312316#Flame Rune Lv.2#
+312317#Flame Rune Lv.3#
+312318#Flame Rune Lv.4#
+312319#Flame Rune Lv.5#
+312320#Earth Rune Lv.1#
+312321#Earth Rune Lv.2#
+312322#Earth Rune Lv.3#
+312323#Earth Rune Lv.4#
+312324#Earth Rune Lv.5#
+312325#Flame Earth Rune Lv.1#
+312326#Flame Earth Rune Lv.2#
+312327#Flame Earth Rune Lv.3#
+312328#Flame Earth Rune Lv.4#
+312329#Flame Earth Rune Lv.5#
+312330#Flame Earth Rune Lv.6#
+312331#Flame Earth Rune Lv.7#
+312332#Flame Earth Rune Lv.8#
+312333#Flame Earth Rune Lv.9#
+312334#Flame Earth Rune Lv.10#
+312335#Ice Rune Lv.1#
+312336#Ice Rune Lv.2#
+312337#Ice Rune Lv.3#
+312338#Ice Rune Lv.4#
+312339#Ice Rune Lv.5#
+312340#Storm Rune Lv.1#
+312341#Storm Rune Lv.2#
+312342#Storm Rune Lv.3#
+312343#Storm Rune Lv.4#
+312344#Storm Rune Lv.5#
+312345#Icy Storm Rune Lv.1#
+312346#Icy Storm Rune Lv.2#
+312347#Icy Storm Rune Lv.3#
+312348#Icy Storm Rune Lv.4#
+312349#Icy Storm Rune Lv.5#
+312350#Icy Storm Rune Lv.6#
+312351#Icy Storm Rune Lv.7#
+312352#Icy Storm Rune Lv.8#
+312353#Icy Storm Rune Lv.9#
+312354#Icy Storm Rune Lv.10#
+312355#Soul Rune Lv.1#
+312356#Soul Rune Lv.2#
+312357#Soul Rune Lv.3#
+312358#Soul Rune Lv.4#
+312359#Soul Rune Lv.5#
+312360#Purifying Rune Lv.1#
+312361#Purifying Rune Lv.2#
+312362#Purifying Rune Lv.3#
+312363#Purifying Rune Lv.4#
+312364#Purifying Rune Lv.5#
+312365#Soul Purifying Rune Lv.1#
+312366#Soul Purifying Rune Lv.2#
+312367#Soul Purifying Rune Lv.3#
+312368#Soul Purifying Rune Lv.4#
+312369#Soul Purifying Rune Lv.5#
+312370#Soul Purifying Rune Lv.6#
+312371#Soul Purifying Rune Lv.7#
+312372#Soul Purifying Rune Lv.8#
+312373#Soul Purifying Rune Lv.9#
+312374#Soul Purifying Rune Lv.10#
+312375#Corruption Rune Lv.1#
+312376#Corruption Rune Lv.2#
+312377#Corruption Rune Lv.3#
+312378#Corruption Rune Lv.4#
+312379#Corruption Rune Lv.5#
+312380#Poison Rune Lv.1#
+312381#Poison Rune Lv.2#
+312382#Poison Rune Lv.3#
+312383#Poison Rune Lv.4#
+312384#Poison Rune Lv.5#
+312385#Corrupted Poison Rune Lv.1#
+312386#Corrupted Poison Rune Lv.2#
+312387#Corrupted Poison Rune Lv.3#
+312388#Corrupted Poison Rune Lv.4#
+312389#Corrupted Poison Rune Lv.5#
+312390#Corrupted Poison Rune Lv.6#
+312391#Corrupted Poison Rune Lv.7#
+312392#Corrupted Poison Rune Lv.8#
+312393#Corrupted Poison Rune Lv.9#
+312394#Corrupted Poison Rune Lv.10#
 312398#Shinkiro Stone (Garment)#
 312399#Shiranui Stone (Garment)#
 312400#Shadow Cross Stone (Garment)#
@@ -14855,12 +14956,14 @@
 400565#Costume Small Deviling Hat#
 400585#Costume Snowman Hat#
 400604#Costume Black Ribbon Beret#
+400610#Furious Crown (Sky Emperor)#
 400628#Furious Crown (Dragon Knight)#
 400629#Furious Crown (Abyss Chaser)#
 400651#Furious Crown (Shadow Cross)#
 400652#Furious Crown (Shinkiro & Shiranui)#
 400656#Costume White Khalitzburg Knight Helm#
 400662#Furious Crown (Elemental Master)#
+400663#Furious Crown (Soul Ascetic)#
 400664#Costume Drooping Fei-Chai#
 400683#Costume Bell Flower#
 400692#Costume Gold Paeonia#
@@ -15156,6 +15259,7 @@
 410665#Costume Cons of Emoji#
 410680#Costume Angler Dream#
 410719#Archangel Wing Ear#
+410765#Clown Smiling-LT#
 420000#Isabella Carrot#
 420002#Dullahan Mask#
 420003#CD in Mouth K#
@@ -15598,6 +15702,14 @@
 450269#Kafra Suit#
 450270#Dim Glacier Armor#
 450271#Dim Glacier Robe#
+450274#Flame Earth Rune Armor#
+450279#Icy Storm Rune Suit#
+450280#Soul Purifying Rune Robe#
+450281#Corrupted Venom Rune Cloth#
+450282#Engraved Flame Earth Rune Armor#
+450283#Engraved Icy Storm Rune Suit#
+450284#Engraved Soul Purifying Rune Robe#
+450285#Engraved Corrupted Poison Rune Cloth#
 450289#Despairing Chain Mail#
 450290#Despairing Saint Robe#
 450292#Despairing Armor#
@@ -16149,6 +16261,7 @@
 480876#Kumamon Doll#
 480879#Costume Wings of Arrogant Thanatos#
 480895#Costume Tuna Fishing#
+480900#Costume ROS 2026 Legendary Champion#
 480908#Ragnarok Stars 2026 Cape#
 480943#Fallen Warrior Manteau-AD#
 480946#Fallen Protect Manteau-LT#
@@ -16653,6 +16766,10 @@
 491131#White Furious Ring (Arch Mage)#
 491132#Furious Ring (Shinkiro & Shiranui)#
 491133#Exotic Temporal Ring-LT#
+491136#Biosphere Depths Ring#
+491137#Furious Ring (Inquisitor)#
+491138#Furious Ring (Sky Emperor)#
+491139#Furious Ring (Soul Ascetic)#
 500000#IDTest weapon#
 500001#Boosting Sword#
 500003#Light Blade#
@@ -16876,6 +16993,8 @@
 540074#Muqaddas Kitab#
 540075#Muqaddas Kajuza#
 540076#Raid Human Magic Book#
+540087#Furious Sun Book#
+540088#Furious Moon Word#
 540090#Furious Master Spellbook#
 540091#Furious Grimoire#
 540128#Orrivane Saint Book#
@@ -16976,6 +17095,8 @@
 550118#Muqaddas Sharman#
 550119#Muqaddas Kharawasu#
 550121#Raid Human Stick#
+550145#Furious Soul#
+550146#Furious Spirit Stick#
 550150#Furious Specter#
 550201#Orrivane Saint Wand#
 550202#Orrivane Arch Wand#
@@ -18165,6 +18286,41 @@
 1001263#Episode 19 Pass Ticket#
 1001277#(Raid) Silver Key#
 1001278#(Raid) Gold Key#
+1001282#Imperfect Rune#
+1001283#Perfect Rune#
+1001289#Deep Layer 1 Research Data#
+1001290#Deep-Layer Flame Energy#
+1001291#Deep-Layer Earth Energy#
+1001292#Deep-Layer Ice Energy#
+1001293#Deep-Layer Storm Energy#
+1001294#Deep-Layer Soul Energy#
+1001295#Deep-Layer Purifying Energy#
+1001296#Deep-Layer Corruption Energy#
+1001297#Deep-Layer Poison Energy#
+1001298#Deep-Layer Flame Crystal#
+1001299#Deep-Layer Earth Crystal#
+1001300#Deep-Layer Ice Crystal#
+1001301#Deep-Layer Storm Crystal#
+1001302#Deep-Layer Soul Crystal#
+1001303#Deep-Layer Purifying Crystal#
+1001304#Deep-Layer Corruption Crystal#
+1001305#Deep-Layer Poison Crystal#
+1001306#Deep-Layer Flame Rune#
+1001307#Deep-Layer Earth Rune#
+1001308#Deep-Layer Ice Rune#
+1001309#Deep-Layer Storm Rune#
+1001310#Deep-Layer Soul Rune#
+1001311#Deep-Layer Purifying Rune#
+1001312#Deep-Layer Corruption Rune#
+1001313#Deep-Layer Poison Rune#
+1001314#Deep-Layer Flame Essence#
+1001315#Deep-Layer Earth Essence#
+1001316#Deep-Layer Ice Essence#
+1001317#Deep-Layer Storm Essence#
+1001318#Deep-Layer Soul Essence#
+1001319#Deep-Layer Purifying Essence#
+1001320#Deep-Layer Corruption Essence#
+1001321#Deep-Layer Poison Essence#
 1001322#Shinkiro Stone (Garment)#
 1001323#Shiranui Stone (Garment)#
 1001324#Shadow Cross Stone (Garment)#
@@ -18173,6 +18329,14 @@
 1001327#Super Novice Stone (Upper)#
 1001328#Super Novice Stone (Middle)#
 1001329#Super Novice Stone (Lower)#
+1001330#Deep-Layer Flame Specimen#
+1001331#Deep-Layer Earth Specimen#
+1001332#Deep-Layer Ice Specimen#
+1001333#Deep-Layer Storm Specimen#
+1001334#Deep-Layer Soul Specimen#
+1001335#Deep-Layer Purifying Specimen#
+1001336#Deep-Layer Corruption Specimen#
+1001337#Deep-Layer Poison Specimen#
 1001344#3rd Anniversary Guarantee Ticket#
 1001345#[Event] Blessing Spirit#
 1001353#Rental OS Helm Coupon#
@@ -18182,7 +18346,59 @@
 1001357#Ancient Hero's Modification Coupon III#
 1001358#Bear Ballon Guarantee Exchange#
 1001359#Unidentified Bug#
+1001360#Engraved Saphir Mace-OS#
+1001361#Engraved Electric Fox-OS#
+1001362#Engraved Rutilus Stick-OS#
+1001363#Engraved Circuit Board-OS#
+1001364#Engraved Boost Lance-OS#
+1001365#Engraved Blasti-OS#
+1001366#Engraved Beam Claymor-OS#
+1001367#Engraved Cannon Rapier-OS#
+1001368#Engraved AC-B44-OS#
+1001369#Engraved Virtual Bow-OS#
+1001370#Engraved HR-S55-OS#
+1001371#Engraved MH-P89-OS#
+1001372#Engraved Kuroiro-OS#
+1001373#Engraved Meuchler-OS#
+1001374#Engraved Burning Knuckle-OS#
+1001375#Engraved Ultio-OS#
 1001376#Varmundt Cotton Doll#
+1001377#Engraved Automatic Battle Chip R#
+1001378#Engraved Automatic Booster R#
+1001379#Engraved Automatic Armor Type A#
+1001380#Engraved Automatic Engine Wing Type A#
+1001381#Engraved Automatic Leg Type A#
+1001382#Engraved Automatic Battle Chip L#
+1001383#Engraved Automatic Booster L#
+1001384#Engraved Automatic Armor Type B#
+1001385#Engraved Automatic Engine Wing Type B#
+1001386#Engraved Automatic Leg Type B#
+1001387#Engraved Hypocrisy Machine#
+1001388#Engraved Greed Wand#
+1001389#Engraved Sloth Text#
+1001390#Engraved Invidia Bundle#
+1001391#Engraved Superbia String#
+1001392#Engraved Gula Gun#
+1001393#Engraved Ira Fist#
+1001394#Engraved Gluttony Stick#
+1001395#Engraved Luxuria Pierce#
+1001396#Engraved Wrath Rack#
+1001397#Engraved Avaritia Metal#
+1001398#Engraved Pride Stone#
+1001399#Engraved Sloth Bible#
+1001400#Engraved Gula Teeth#
+1001401#Engraved Pigritia Spark#
+1001402#Engraved Pigritia Wave#
+1001403#Engraved Wrath Wheel#
+1001404#Engraved Envy Blunt#
+1001405#Engraved Addiction Plant#
+1001406#Engraved Lust Pointer#
+1001407#Engraved Lust Shatter#
+1001408#Engraved Lust Crusher#
+1001409#Engraved Lust Boom#
+1001410#Engraved Pride Steel#
+1001411#Engraved Hypocrisy Edge#
+1001412#Engraved Pigritia Rhythm#
 1001417#ROS Event Ticket#
 1001418#[3rd Anniversary] Helel's Badge#
 1001419#Sky Emperor Stone (Garment)#
@@ -18477,6 +18693,10 @@
 1003356#Ragnarok Festa Stone DEX (Triple)#
 1003357#Ragnarok Festa Stone LUK (Triple)#
 1003358#Milestone Card#
+1003366#Smiling Tear Drop#
+1003369#Red Depth#
+1003370#White Depth#
+1003371#Black Depth#
 1100000#IDTest heal#
 1100003#Concentrated Red Syrup Potion#
 1100004#Concentrated Blue Syrup Potion#
@@ -18509,6 +18729,61 @@
 1220003#Shadow Kunai#
 1220004#Hamaya Kunai#
 1230000#IDTest ammo#
+1260000#Mystic Part#
+1260001#Automatic Armor#
+1260002#Secret Facility#
+1260003#Mutant#
+1260004#Secret#
+1260005#Mana Addict#
+1260006#Bathhouse Supervisor#
+1260007#Gardener#
+1260008#Greenhouse Administration#
+1260009#Malfunction#
+1260010#Wing#
+1260011#Toxic Symptom#
+1260012#Strongest#
+1260013#21th Aniversary#
+1260033#22nd Test Set#
+1263000#Mystic Part (Melee)#
+1263001#Mystic Part (Range)#
+1263002#Mystic Part (Magic)#
+1263003#Mystic Part (Assassin)#
+1263004#Automatic Armor A#
+1263005#Automatic Armor B#
+1263006#Heart Hunter Bellare#
+1263007#Heart Hunter Sanare#
+1263008#Plaga#
+1263009#Bestia#
+1263010#Venenum#
+1263011#Dolor#
+1263012#Scrap Metal#
+1263013#Hot Red Pepper#
+1263014#Mana Addict#
+1263015#Mana Addiction Warning#
+1263016#Mana Withdrawal#
+1263017#Bathhouse Supervisor#
+1263018#Papilla Triplets#
+1263019#Bookworm#
+1263020#Gardener#
+1263021#Havengers#
+1263022#Allergy Warning#
+1263023#Spicy Soup#
+1263024#Sleepy Pitaya#
+1263025#Garden Caretaker#
+1263026#Aries#
+1263027#Broken Robot#
+1263028#Sweety#
+1263029#Meow#
+1263030#Tiger Spirit#
+1263031#Night Market Poring#
+1263032#Night Market Lunatic#
+1263033#Night Market Fabre#
+1263034#Night Market Street Food#
+1263071#22th Test#
+1270043#Talisman of Red Blue Shadow Earring#
+1270044#Talisman of Red Blue Shadow Pendant#
+1270045#Exorcism of Malicious Soul Shadow Armor#
+1270046#Exorcism of Malicious Soul Shadow Shoes#
 1270081#Stab Shadow Armor#
 1270082#Stab Shadow Shoes#
 1270085#Flame Bomb Shadow Armor#
