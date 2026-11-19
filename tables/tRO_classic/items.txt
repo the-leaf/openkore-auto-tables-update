@@ -7357,6 +7357,9 @@
 20614#Costume Ultimate Kiel Hyre's#
 20619#Costume Phaya Ploeng Suriyan#
 20620#Costume Songkran Water Gun#
+20622#Costume Winner of RCC 2026#
+20623#Costume Runner Up of RCC 2026#
+20624#Costume Second Runner-Up of RCC 2026#
 20625#Costume Classic Champion's Manteau#
 20626#Costume Classic Runner-Up Manteau#
 20631#Costume Tengu's Katana#
@@ -9794,6 +9797,11 @@
 108517#RO Festa Footprint Box#
 108518#RO Festa Effect Box#
 108559#Scorpio Scroll#
+108617#Starlight Costume Scroll#
+108624#Incursion Record Scroll#
+108640#Protection Package#
+108641#Zodiac Option Box#
+108650#RCC MVP Card Selection#
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -10110,6 +10118,7 @@
 400692#Costume Gold Paeonia#
 400693#Costume Red Paeonia#
 400702#[NFS] Crown of the Ocean#
+400705#Costume RCC Crown Of Empire#
 400709#Costume White Puppy Hat#
 400713#Queen Scaraba Crown#
 400719#2024 RTC Jormungandr Hat#
@@ -10163,6 +10172,7 @@
 401288#Pisces Diadem#
 401289#[NFS] Pisces Diadem#
 401303#Costume Ruck Keeper#
+401320#Costume Blue Astrologer Hat#
 401321#Aries Crown#
 401322#[NFS] Aries Crown#
 401367#Costume Baby Shark Mascot Head#
@@ -10254,6 +10264,7 @@
 410276#Costume Ears of Grisly Soul#
 410277#Costume Ragdoll#
 410278#Costume Blinking Bloody Eyes#
+410280#Costume Niflheim Night Sky#
 410283#Costume Wing Headphone#
 410287#Costume Cosmic Connection#
 410289#Costume Baby Gloom Under Night#
@@ -10292,6 +10303,7 @@
 410382#Odin Mask#
 410399#Costume Capybara#
 410440#Costume Toothless Doll#
+410458#Costume Divine Twinkling#
 410474#Costume Chained Bear#
 410487#Costume Idol's Flower Stage#
 410490#Costume Avenger#
@@ -10687,6 +10699,7 @@
 480195#[NFS] Enforcer cape#
 480196#[NFS] Heal Amistr Bag#
 480201#Costume Guardian Angel Wings#
+480202#Costume Guardian Fairy Wing#
 480205#Costume Astra Blessing#
 480207#Costume Traveller Bag#
 480223#Costume Muramasa Blade#
@@ -10723,6 +10736,7 @@
 480316#Costume Labrys#
 480318#Costume Divine Phoenix#
 480320#Costume Songkran Aqua Fin Decoration#
+480329#Costume RCC 2026 Flames Coat#
 480333#Medical Cape#
 480334#[NFS] Medical Cape#
 480335#Costume Poring Surfboard#
@@ -10785,6 +10799,7 @@
 480591#Costume Glutton Cerberus#
 480595#Costume Toothless Wings#
 480596#Costume Toothless Hood#
+480603#Costume Starrysky Fountainpen#
 480608#Costume Beelzebub's Wings#
 480609#Costume Dimensional Sword#
 480630#Costume Mechanical Fairy Wing#
@@ -10892,10 +10907,14 @@
 490399#Boxer Glove#
 490400#Record of Archer#
 490401#[NFS]Record of Archer#
+490411#Record of Merchant 2#
+490412#[Not For Sale] Record of Merchant 2#
 490418#Record of Mage 2#
 490419#[NFS] Record of Mage 2#
 490425#Magictool Ice#
 490426#[NFS] Magictool Ice#
+490430#Record of Archer 2#
+490431#[Not For Sale] Record of Archer 2#
 490436#Record of Acolyte 2#
 490437#[NFS] Record of Acolyte 2#
 490441#Golden Attack Upgrade Ring#
@@ -11233,7 +11252,7 @@
 1000682#Clock Tower Key[Enchant]#
 1000836#[Event] Dragonica Certificate#
 1000875#Valhalla Idol Effect (Middle)#
-1000896#Spirit Cat Record Coin#
+1000896#Incursion Record Coin#
 1000923#Scorpio Coin#
 1000965#[Holy] Empty Bottle#
 1001069#Baby Camellia Effect (Upper)#
