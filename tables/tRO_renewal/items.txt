@@ -12451,6 +12451,7 @@
 108595#Depth Booster - Magic#
 108596#Varmundt Enchant Box (B)#
 108597#Varmundt Enchant Box (A)#
+108631##
 200000#IDTest Cash#
 200049#Stone Coin Package I#
 200050#Stone Coin Package II#
@@ -15483,6 +15484,7 @@
 420774#Costume Poporing Soap Pipe#
 420797#[Event] Songkran Festival Drink#
 420798#Costume Azure Flame Muffler#
+420826#Costume Golden Weapon Aura#
 420831#Costume Gold Imperial Glory#
 420832#Exotic Temporal Young Leaf-LT#
 420841#All Above Time(Supreme)-LT#
